@@ -11,6 +11,20 @@ export const MIN_STARS = 25
 // coverage back to topics-only with no test failure to catch it (see the
 // "SEARCH_QUERIES contains both topic and name/description queries" shape
 // test in discover.test.ts).
+//
+// Every query must stay anchored to a topic, a name, or a description.
+// Nothing downstream re-checks relevance — isEligible() only screens health
+// and leak-mirrors, and toEntry() stamps kind: "skill" unconditionally — so
+// the query IS the relevance gate, and an unanchored one has nothing to
+// catch it. `SKILL.md in:readme` was exactly that: full text over every
+// README on GitHub, 1,364,363 results, which sorted by stars is public-apis,
+// awesome-selfhosted, awesome-go, storybook. At the 1000-result cap below it
+// alone proposed ~3,600 unrelated repos in one candidate PR.
+//
+// Finding repos that actually ship a SKILL.md is still worth doing; it just
+// cannot be done from the repository-search endpoint, which has no filename
+// qualifier. That needs the code-search API (`path:SKILL.md`), which is a
+// different endpoint with its own auth and rate limits.
 export const SEARCH_QUERIES = [
   "topic:claude-code",
   "topic:claude-skills",
@@ -24,7 +38,6 @@ export const SEARCH_QUERIES = [
   '"claude skills" in:name,description',
   '"agent skills" in:name,description',
   '"claude-code" in:name',
-  "SKILL.md in:readme",
 ] as const
 
 // A false NEGATIVE here is recoverable: discover() only feeds a PR that a human

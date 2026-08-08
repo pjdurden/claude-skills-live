@@ -161,8 +161,28 @@ test("discover excludes ids already known", async () => {
 test("SEARCH_QUERIES contains both topic-qualified and name/description queries", () => {
   const topicQueries = SEARCH_QUERIES.filter((q) => q.startsWith("topic:"))
   const nameOrDescriptionQueries = SEARCH_QUERIES.filter(
-    (q) => q.includes("in:name") || q.includes("in:description") || q.includes("in:readme"),
+    (q) => q.includes("in:name") || q.includes("in:description"),
   )
   expect(topicQueries.length).toBeGreaterThanOrEqual(4)
   expect(nameOrDescriptionQueries.length).toBeGreaterThan(0)
+})
+
+// Relevance is carried by WHICH query matched, not by anything on the repo:
+// `isEligible` deliberately has no topical check, and plenty of correct
+// entries (agent-sprite-forge, humanizer-cli, ratchet) say neither "claude"
+// nor "skill" anywhere in their id or description -- they are in the index
+// because a `topic:` query found them. That makes every query load-bearing
+// as the ONLY relevance gate, so each one has to be anchored to a short
+// curated field: a topic, a name, or a description.
+//
+// `in:readme` is not such a field. It is full text over every README on
+// GitHub, so `SKILL.md in:readme` matched 1,364,363 repos -- sorted by stars
+// that is public-apis, awesome-selfhosted, awesome-go, storybook -- and with
+// perQuery at the 1000-result API cap it pushed ~3,600 unrelated repos into
+// a single candidate PR, every one of them stamped kind: "skill".
+test("every search query is anchored to a topic, name, or description field", () => {
+  const unanchored = SEARCH_QUERIES.filter(
+    (q) => !q.startsWith("topic:") && !q.includes("in:name") && !q.includes("in:description"),
+  )
+  expect(unanchored).toEqual([])
 })
