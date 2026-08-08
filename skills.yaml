@@ -11,10 +11,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3646
+      stars: 3657
       pushed_at: 2026-07-12
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: 0xNyk/awesome-hermes-agent
     kind: tool
     name: awesome-hermes-agent
@@ -26,10 +26,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 5213
+      stars: 5230
       pushed_at: 2026-08-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: 0xwilliamortiz/andrej-karpathy-skills
     kind: skill
     name: andrej-karpathy-skills
@@ -41,10 +41,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 553
+      stars: 557
       pushed_at: 2026-07-27
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: 0xwilliamortiz/claude-red
     kind: plugin
     name: claude-red
@@ -56,10 +56,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 445
+      stars: 564
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: 0xwilliamortiz/humanizer-cli
     kind: tool
     name: humanizer-cli
@@ -71,10 +71,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 582
+      stars: 585
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: 0xwilliamortiz/ponytail-improved
     kind: skill
     name: ponytail-improved
@@ -86,10 +86,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 596
+      stars: 599
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: 0xwilliamortiz/ratchet
     kind: tool
     name: ratchet
@@ -101,10 +101,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 436
+      stars: 438
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: 24kchengYe/human-skill-tree
     kind: skill
     name: human-skill-tree
@@ -116,10 +116,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 604
+      stars: 601
       pushed_at: 2026-03-25
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -136,10 +136,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 306
+      stars: 307
       pushed_at: 2026-06-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Agents365-ai/drawio-skill
     kind: skill
     name: drawio-skill
@@ -151,10 +151,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 7259
+      stars: 7295
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: AgriciDaniel/claude-ads
     kind: skill
     name: claude-ads
@@ -166,10 +166,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 7870
+      stars: 7884
       pushed_at: 2026-07-13
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: AgriciDaniel/claude-obsidian
     kind: skill
     name: claude-obsidian
@@ -182,10 +182,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 10501
+      stars: 10536
       pushed_at: 2026-08-01
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: AgriciDaniel/claude-seo
     kind: plugin
     name: claude-seo
@@ -197,10 +197,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 13544
+      stars: 13642
       pushed_at: 2026-07-27
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Ar9av/PaperOrchestra
     kind: skill
     name: PaperOrchestra
@@ -213,10 +213,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 633
+      stars: 634
       pushed_at: 2026-07-09
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Ar9av/obsidian-wiki
     kind: skill
     name: obsidian-wiki
@@ -228,10 +228,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3128
+      stars: 3139
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Arindam200/cc-lens
     kind: tool
     name: cc-lens
@@ -243,10 +243,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 581
+      stars: 582
       pushed_at: 2026-06-27
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: AvdLee/Swift-Concurrency-Agent-Skill
     kind: skill
     name: Swift-Concurrency-Agent-Skill
@@ -259,10 +259,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1608
-      pushed_at: 2026-05-28
+      stars: 1610
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: BayramAnnakov/claude-reflect
     kind: skill
     name: claude-reflect
@@ -277,7 +277,7 @@ entries:
       stars: 1290
       pushed_at: 2026-03-16
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -294,10 +294,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 826
+      stars: 827
       pushed_at: 2026-07-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ComposioHQ/awesome-claude-skills
     kind: tool
     name: awesome-claude-skills
@@ -309,10 +309,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 71976
+      stars: 72035
       pushed_at: 2026-07-24
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: CronusL-1141/AI-company
     kind: framework
     name: AI-company
@@ -325,10 +325,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 338
+      stars: 339
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: DenisSergeevitch/agents-best-practices
     kind: skill
     name: agents-best-practices
@@ -340,10 +340,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2193
+      stars: 2196
       pushed_at: 2026-06-29
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: DeusData/codebase-memory-mcp
     kind: mcp
     name: codebase-memory-mcp
@@ -355,10 +355,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 37896
-      pushed_at: 2026-08-07
+      stars: 38086
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: DietrichGebert/ponytail
     kind: skill
     name: ponytail
@@ -370,10 +370,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 97603
-      pushed_at: 2026-07-15
+      stars: 98377
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Donchitos/Claude-Code-Game-Studios
     kind: plugin
     name: Claude-Code-Game-Studios
@@ -385,10 +385,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 23665
+      stars: 23695
       pushed_at: 2026-05-21
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Egonex-AI/Understand-Anything
     kind: skill
     name: Understand-Anything
@@ -400,10 +400,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 77803
+      stars: 77898
       pushed_at: 2026-07-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Forward-Future/loopy
     kind: skill
     name: loopy
@@ -415,10 +415,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2979
+      stars: 2984
       pushed_at: 2026-07-26
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: FrkAk/piyaz
     kind: mcp
     name: piyaz
@@ -431,10 +431,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 176
+      stars: 178
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: GRCEngClub/claude-grc-engineering
     kind: plugin
     name: claude-grc-engineering
@@ -447,9 +447,9 @@ entries:
     status: active
     metrics:
       stars: 366
-      pushed_at: 2026-08-02
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Gabberflast/academic-pptx-skill
     kind: skill
     name: academic-pptx-skill
@@ -461,10 +461,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 748
+      stars: 752
       pushed_at: 2026-07-14
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Graphify-Labs/graphify
     kind: skill
     name: graphify
@@ -476,10 +476,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 103621
-      pushed_at: 2026-08-06
+      stars: 104080
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Hainrixz/the-architect
     kind: plugin
     name: the-architect
@@ -491,10 +491,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 436
+      stars: 443
       pushed_at: 2026-07-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Ibrahim-3d/orchestrator-supaconductor
     kind: framework
     name: orchestrator-supaconductor
@@ -509,7 +509,7 @@ entries:
       stars: 371
       pushed_at: 2026-04-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -527,10 +527,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 41207
+      stars: 41319
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: InterfaceX-co-jp/genshijin
     kind: skill
     name: genshijin
@@ -542,10 +542,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 301
+      stars: 302
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ItamarZand88/CLI-Anything-WEB
     kind: plugin
     name: CLI-Anything-WEB
@@ -560,7 +560,7 @@ entries:
       stars: 208
       pushed_at: 2026-06-21
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: JCodesMore/ai-website-cloner-template
     kind: tool
     name: ai-website-cloner-template
@@ -573,10 +573,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 31133
-      pushed_at: 2026-07-30
+      stars: 31185
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: JayantDevkar/claude-code-karma
     kind: tool
     name: claude-code-karma
@@ -591,7 +591,7 @@ entries:
       stars: 247
       pushed_at: 2026-07-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Jeffallan/claude-skills
     kind: plugin
     name: claude-skills
@@ -604,10 +604,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 10906
-      pushed_at: 2026-05-20
+      stars: 10917
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: JimLiu/baoyu-design
     kind: skill
     name: baoyu-design
@@ -619,10 +619,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3071
+      stars: 3085
       pushed_at: 2026-07-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: JimLiu/baoyu-skills
     kind: plugin
     name: baoyu-skills
@@ -635,10 +635,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 24678
+      stars: 24710
       pushed_at: 2026-07-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: JuliusBrussee/caveman
     kind: skill
     name: caveman
@@ -650,10 +650,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 96538
-      pushed_at: 2026-08-04
+      stars: 96741
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: JuneYaooo/nihaisha-nishi-tcm
     kind: skill
     name: nihaisha-nishi-tcm
@@ -665,10 +665,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1905
+      stars: 1912
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: K-Dense-AI/scientific-agent-skills
     kind: plugin
     name: scientific-agent-skills
@@ -680,10 +680,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 32859
-      pushed_at: 2026-08-03
+      stars: 32940
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: KKKKhazix/khazix-skills
     kind: plugin
     name: khazix-skills
@@ -695,10 +695,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 19326
+      stars: 19364
       pushed_at: 2026-08-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Kaelio/ktx
     kind: tool
     name: ktx
@@ -711,10 +711,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1527
+      stars: 1530
       pushed_at: 2026-07-19
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: KhazP/vibe-coding-prompt-template
     kind: tool
     name: vibe-coding-prompt-template
@@ -726,10 +726,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2813
+      stars: 2818
       pushed_at: 2026-07-18
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Klotzkette/claude-fuer-deutsches-recht
     kind: plugin
     name: claude-fuer-deutsches-recht
@@ -741,10 +741,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1426
+      stars: 1429
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Kuberwastaken/claurst
     kind: tool
     name: claurst
@@ -756,10 +756,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 10184
+      stars: 10199
       pushed_at: 2026-07-31
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Leonxlnx/taste-skill
     kind: skill
     name: taste-skill
@@ -771,10 +771,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 73373
+      stars: 73942
       pushed_at: 2026-07-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
     kind: tool
     name: AI-Agents-Projects-Tutorials
@@ -786,10 +786,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2857
-      pushed_at: 2026-08-06
+      stars: 2859
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Maciek-roboblog/Claude-Code-Usage-Monitor
     kind: tool
     name: Claude-Code-Usage-Monitor
@@ -802,10 +802,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 8597
+      stars: 8599
       pushed_at: 2026-07-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: MadsLorentzen/ai-job-search
     kind: framework
     name: ai-job-search
@@ -817,10 +817,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 30583
-      pushed_at: 2026-08-06
+      stars: 30729
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: MemoriLabs/Memori
     kind: tool
     name: Memori
@@ -832,10 +832,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 15683
+      stars: 15693
       pushed_at: 2026-07-31
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Mertcikla/tld
     kind: tool
     name: tld
@@ -847,10 +847,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 277
+      stars: 278
       pushed_at: 2026-08-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: NVIDIA/SkillSpector
     kind: tool
     name: SkillSpector
@@ -862,10 +862,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 14313
-      pushed_at: 2026-08-07
+      stars: 14352
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: NVIDIA/skills
     kind: skill
     name: skills
@@ -881,7 +881,7 @@ entries:
       stars: 2817
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Nako0/devglobe-extension
     kind: tool
     name: devglobe-extension
@@ -897,7 +897,7 @@ entries:
       stars: 212
       pushed_at: 2026-06-25
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: NanmiCoder/cc-haha
     kind: tool
     name: cc-haha
@@ -911,10 +911,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 13963
-      pushed_at: 2026-08-06
+      stars: 13988
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: NevaMind-AI/memU
     kind: tool
     name: memU
@@ -926,10 +926,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 14267
+      stars: 14269
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: NousResearch/hermes-agent
     kind: framework
     name: hermes-agent
@@ -942,10 +942,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 226706
-      pushed_at: 2026-08-07
+      stars: 227148
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: OpenRaiser/NanoResearch
     kind: tool
     name: NanoResearch
@@ -958,10 +958,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1484
+      stars: 1479
       pushed_at: 2026-05-26
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: OpenSenseNova/SenseNova-Skills
     kind: skill
     name: SenseNova-Skills
@@ -975,10 +975,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 4908
+      stars: 4928
       pushed_at: 2026-07-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Orchestra-Research/AI-Research-SKILLs
     kind: skill
     name: AI-Research-SKILLs
@@ -991,10 +991,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 11474
+      stars: 11500
       pushed_at: 2026-06-16
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: OthmanAdi/planning-with-files
     kind: skill
     name: planning-with-files
@@ -1007,10 +1007,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 26025
+      stars: 26044
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Panniantong/Agent-Reach
     kind: tool
     name: Agent-Reach
@@ -1023,10 +1023,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 67813
+      stars: 68427
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Prat011/awesome-llm-skills
     kind: tool
     name: awesome-llm-skills
@@ -1038,10 +1038,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1443
+      stars: 1448
       pushed_at: 2026-07-14
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: RKiding/Awesome-finance-skills
     kind: tool
     name: Awesome-finance-skills
@@ -1054,10 +1054,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 2758
+      stars: 2762
       pushed_at: 2026-03-29
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -1075,10 +1075,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 763
+      stars: 762
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: RobThePCGuy/Claude-Patent-Creator
     kind: mcp
     name: Claude-Patent-Creator
@@ -1094,7 +1094,7 @@ entries:
       stars: 167
       pushed_at: 2026-08-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Sahir619/fable-method
     kind: framework
     name: fable-method
@@ -1107,10 +1107,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2159
+      stars: 2165
       pushed_at: 2026-07-15
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: SamurAIGPT/Generative-Media-Skills
     kind: skill
     name: Generative-Media-Skills
@@ -1123,10 +1123,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3992
+      stars: 3998
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: SethGammon/Citadel
     kind: framework
     name: Citadel
@@ -1140,10 +1140,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 817
+      stars: 819
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Shanyin-ai/shanyin-screenwriting-master
     kind: skill
     name: shanyin-screenwriting-master
@@ -1155,10 +1155,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 836
+      stars: 842
       pushed_at: 2026-04-01
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -1176,10 +1176,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 2845
+      stars: 2851
       pushed_at: 2026-05-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -1197,10 +1197,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 810
+      stars: 812
       pushed_at: 2026-07-20
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ThinkInAIXYZ/deepchat
     kind: tool
     name: deepchat
@@ -1213,10 +1213,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 6203
-      pushed_at: 2026-08-07
+      stars: 6202
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Untrivial-ai/agent-orchestrator
     kind: tool
     name: agent-orchestrator
@@ -1230,10 +1230,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 8832
+      stars: 8855
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Vincentwei1021/video-shotcraft
     kind: skill
     name: video-shotcraft
@@ -1245,10 +1245,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3763
+      stars: 4015
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: VoltAgent/awesome-agent-skills
     kind: tool
     name: awesome-agent-skills
@@ -1260,10 +1260,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 29734
-      pushed_at: 2026-08-03
+      stars: 29798
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: VoltAgent/awesome-openclaw-skills
     kind: tool
     name: awesome-openclaw-skills
@@ -1275,10 +1275,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 51775
-      pushed_at: 2026-07-31
+      stars: 51809
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Wei-Shaw/claude-relay-service
     kind: tool
     name: claude-relay-service
@@ -1290,10 +1290,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 12481
+      stars: 12488
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Wei-Shaw/sub2api
     kind: tool
     name: sub2api
@@ -1305,10 +1305,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 36155
-      pushed_at: 2026-08-07
+      stars: 36274
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: WenyuChiou/awesome-agentic-ai-zh
     kind: tool
     name: awesome-agentic-ai-zh
@@ -1321,10 +1321,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 5097
+      stars: 5109
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: WithWoz/wozcode-plugin
     kind: plugin
     name: wozcode-plugin
@@ -1336,10 +1336,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 200
+      stars: 201
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: XiaoMaColtAI/math-modeling-skill
     kind: skill
     name: math-modeling-skill
@@ -1352,10 +1352,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 622
-      pushed_at: 2026-08-05
+      stars: 637
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: Yeachan-Heo/oh-my-claudecode
     kind: framework
     name: oh-my-claudecode
@@ -1367,10 +1367,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 38399
+      stars: 38427
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: YishenTu/claudian
     kind: tool
     name: claudian
@@ -1382,10 +1382,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 14598
-      pushed_at: 2026-08-06
+      stars: 14622
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: a5c-ai/babysitter
     kind: framework
     name: babysitter
@@ -1398,10 +1398,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1653
-      pushed_at: 2026-08-06
+      stars: 1655
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: aaron-he-zhu/aaron-marketing-skills
     kind: plugin
     name: aaron-marketing-skills
@@ -1414,10 +1414,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2522
-      pushed_at: 2026-08-07
+      stars: 2530
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: activeloopai/hivemind
     kind: tool
     name: hivemind
@@ -1429,10 +1429,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1533
+      stars: 1538
       pushed_at: 2026-07-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: addyosmani/agent-skills
     kind: skill
     name: agent-skills
@@ -1445,10 +1445,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 83137
+      stars: 84010
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: addyosmani/web-quality-skills
     kind: skill
     name: web-quality-skills
@@ -1461,10 +1461,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2591
+      stars: 2594
       pushed_at: 2026-06-14
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: aden-hive/hive
     kind: framework
     name: hive
@@ -1476,10 +1476,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 10877
+      stars: 10884
       pushed_at: 2026-05-29
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: aeonfun/soul.md
     kind: skill
     name: soul.md
@@ -1494,7 +1494,7 @@ entries:
       stars: 636
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: aerovato/container
     kind: tool
     name: container
@@ -1509,7 +1509,7 @@ entries:
       stars: 318
       pushed_at: 2026-07-17
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: affaan-m/ECC
     kind: framework
     name: ECC
@@ -1523,10 +1523,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 238363
-      pushed_at: 2026-08-06
+      stars: 238613
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: agenticmail/agenticmail
     kind: mcp
     name: agenticmail
@@ -1542,7 +1542,7 @@ entries:
       stars: 188
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: agenticnotetaking/arscontexta
     kind: plugin
     name: arscontexta
@@ -1555,10 +1555,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 3466
+      stars: 3468
       pushed_at: 2026-02-24
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -1575,10 +1575,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 23960
+      stars: 23999
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: alibaba/open-code-review
     kind: tool
     name: open-code-review
@@ -1590,10 +1590,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 19414
-      pushed_at: 2026-08-07
+      stars: 19605
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: alibaba/zvec
     kind: tool
     name: zvec
@@ -1606,10 +1606,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 15395
+      stars: 15404
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: alirezarezvani/claude-code-skill-factory
     kind: tool
     name: claude-code-skill-factory
@@ -1625,7 +1625,7 @@ entries:
       stars: 843
       pushed_at: 2025-11-12
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -1643,10 +1643,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 23947
+      stars: 24092
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: anbeime/skill
     kind: tool
     name: skill
@@ -1658,10 +1658,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 4883
-      pushed_at: 2026-08-07
+      stars: 4938
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: anombyte93/prd-taskmaster
     kind: skill
     name: prd-taskmaster
@@ -1676,7 +1676,7 @@ entries:
       stars: 586
       pushed_at: 2026-07-09
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: antfu/skills
     kind: skill
     name: skills
@@ -1688,10 +1688,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 5727
+      stars: 5733
       pushed_at: 2026-06-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: anthropics/claude-plugins-official
     kind: plugin
     name: claude-plugins-official
@@ -1703,10 +1703,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 33217
-      pushed_at: 2026-08-07
+      stars: 33256
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: anthropics/skills
     kind: skill
     name: skills
@@ -1718,10 +1718,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 166762
-      pushed_at: 2026-07-24
+      stars: 166913
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: antonbabenko/terraform-skill
     kind: skill
     name: terraform-skill
@@ -1734,10 +1734,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2248
+      stars: 2250
       pushed_at: 2026-07-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: avidevelops/claude-architect-exam-prep
     kind: skill
     name: claude-architect-exam-prep
@@ -1749,10 +1749,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 552
+      stars: 554
       pushed_at: 2026-06-19
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: axtonliu/smart-illustrator
     kind: skill
     name: smart-illustrator
@@ -1768,7 +1768,7 @@ entries:
       stars: 533
       pushed_at: 2026-06-26
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ayghri/i-have-adhd
     kind: skill
     name: i-have-adhd
@@ -1780,10 +1780,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 17847
+      stars: 18206
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: baidu-netdisk/bdpan-storage
     kind: skill
     name: bdpan-storage
@@ -1798,7 +1798,7 @@ entries:
       stars: 181
       pushed_at: 2026-07-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: bawadou/claude-engineer
     kind: framework
     name: claude-engineer
@@ -1810,10 +1810,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 893
+      stars: 892
       pushed_at: 2026-07-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: bergside/awesome-design-skills
     kind: tool
     name: awesome-design-skills
@@ -1826,10 +1826,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2218
+      stars: 2227
       pushed_at: 2026-06-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: bergside/typeui
     kind: tool
     name: typeui
@@ -1842,10 +1842,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1719
+      stars: 1728
       pushed_at: 2026-07-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: bevibing/tutor-skills
     kind: skill
     name: tutor-skills
@@ -1858,10 +1858,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 1077
+      stars: 1079
       pushed_at: 2026-02-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -1879,10 +1879,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 872
+      stars: 871
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: bitwize-music-studio/claude-ai-music-skills
     kind: plugin
     name: claude-ai-music-skills
@@ -1894,10 +1894,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 403
+      stars: 406
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: blader/humanizer
     kind: skill
     name: humanizer
@@ -1909,10 +1909,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 34071
+      stars: 34258
       pushed_at: 2026-07-22
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: breaking-brake/cc-wf-studio
     kind: tool
     name: cc-wf-studio
@@ -1925,10 +1925,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 5345
+      stars: 5346
       pushed_at: 2026-08-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: browser-act/skills
     kind: tool
     name: skills
@@ -1940,10 +1940,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 5249
+      stars: 5265
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: brycewang-stanford/Auto-Empirical-Research-Skills
     kind: tool
     name: Auto-Empirical-Research-Skills
@@ -1956,10 +1956,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3295
+      stars: 3314
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ccplugins/awesome-claude-code-plugins
     kind: tool
     name: awesome-claude-code-plugins
@@ -1971,10 +1971,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 896
+      stars: 897
       pushed_at: 2025-10-14
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -1992,10 +1992,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2424
+      stars: 2439
       pushed_at: 2026-05-22
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: cisco-ai-defense/skill-scanner
     kind: tool
     name: skill-scanner
@@ -2007,10 +2007,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2407
+      stars: 2408
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: citrolabs/ego-lite
     kind: tool
     name: ego-lite
@@ -2022,10 +2022,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 9128
+      stars: 9255
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: cobusgreyling/loop-engineering
     kind: tool
     name: loop-engineering
@@ -2038,10 +2038,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 9939
-      pushed_at: 2026-08-07
+      stars: 9968
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: code-yeongyu/oh-my-openagent
     kind: framework
     name: oh-my-openagent
@@ -2054,10 +2054,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 67392
-      pushed_at: 2026-08-07
+      stars: 67468
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: composio-community/awesome-claude-plugins
     kind: tool
     name: awesome-claude-plugins
@@ -2069,10 +2069,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1861
+      stars: 1863
       pushed_at: 2026-07-26
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: conorluddy/ios-simulator-skill
     kind: skill
     name: ios-simulator-skill
@@ -2085,10 +2085,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1206
+      stars: 1207
       pushed_at: 2026-06-18
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: conorluddy/xclaude-plugin
     kind: plugin
     name: xclaude-plugin
@@ -2104,7 +2104,7 @@ entries:
       stars: 179
       pushed_at: 2026-02-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -2122,10 +2122,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 541
+      stars: 545
       pushed_at: 2026-08-01
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: datopian/portaljs
     kind: framework
     name: portaljs
@@ -2140,7 +2140,7 @@ entries:
       stars: 2339
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: davegoldblatt/total-recall
     kind: plugin
     name: total-recall
@@ -2155,7 +2155,7 @@ entries:
       stars: 200
       pushed_at: 2026-02-12
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -2172,10 +2172,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3260
-      pushed_at: 2026-08-02
+      stars: 3263
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: davila7/claude-code-templates
     kind: tool
     name: claude-code-templates
@@ -2188,10 +2188,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 30138
-      pushed_at: 2026-08-07
+      stars: 30147
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: deanpeters/Product-Manager-Skills
     kind: skill
     name: Product-Manager-Skills
@@ -2204,10 +2204,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 6303
+      stars: 6328
       pushed_at: 2026-07-17
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: decolua/9router
     kind: tool
     name: 9router
@@ -2220,10 +2220,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 24848
+      stars: 24936
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: dev-toolings/superpowers-symfony
     kind: plugin
     name: superpowers-symfony
@@ -2239,7 +2239,7 @@ entries:
       stars: 186
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: diegosouzapw/OmniRoute
     kind: tool
     name: OmniRoute
@@ -2252,10 +2252,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 41857
-      pushed_at: 2026-08-07
+      stars: 42696
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: divar-ir/ai-doc-gen
     kind: tool
     name: ai-doc-gen
@@ -2271,7 +2271,7 @@ entries:
       stars: 742
       pushed_at: 2026-07-21
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: dongshuyan/compass-skills
     kind: framework
     name: compass-skills
@@ -2287,7 +2287,7 @@ entries:
       stars: 678
       pushed_at: 2026-07-31
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: dotnet/skills
     kind: skill
     name: skills
@@ -2299,10 +2299,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 4987
-      pushed_at: 2026-08-07
+      stars: 5036
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ed3dai/ed3d-plugins
     kind: plugin
     name: ed3d-plugins
@@ -2317,7 +2317,7 @@ entries:
       stars: 247
       pushed_at: 2026-06-16
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: eigent-ai/eigent
     kind: tool
     name: eigent
@@ -2329,10 +2329,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 14773
+      stars: 14817
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: elementalsouls/Claude-BugHunter
     kind: plugin
     name: Claude-BugHunter
@@ -2344,10 +2344,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3324
+      stars: 3329
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: eugeniughelbur/obsidian-second-brain
     kind: plugin
     name: obsidian-second-brain
@@ -2360,10 +2360,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3875
+      stars: 3899
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: evalstate/fast-agent
     kind: framework
     name: fast-agent
@@ -2379,7 +2379,7 @@ entries:
       stars: 3884
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: evanca/flutter-ai-rules
     kind: skill
     name: flutter-ai-rules
@@ -2392,10 +2392,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 608
+      stars: 611
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: farion1231/cc-switch
     kind: tool
     name: cc-switch
@@ -2408,10 +2408,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 125230
-      pushed_at: 2026-08-06
+      stars: 125509
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: fcakyon/claude-codex-settings
     kind: plugin
     name: claude-codex-settings
@@ -2424,10 +2424,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1009
-      pushed_at: 2026-08-06
+      stars: 1014
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: fcakyon/phd-skills
     kind: skill
     name: phd-skills
@@ -2439,10 +2439,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 360
+      stars: 361
       pushed_at: 2026-07-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: feiskyer/claude-code-settings
     kind: plugin
     name: claude-code-settings
@@ -2455,10 +2455,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1623
+      stars: 1622
       pushed_at: 2026-07-27
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ferdinandobons/brand-docs
     kind: skill
     name: brand-docs
@@ -2471,10 +2471,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 240
+      stars: 242
       pushed_at: 2026-07-10
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ferdinandobons/startup-skill
     kind: skill
     name: startup-skill
@@ -2487,10 +2487,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 581
+      stars: 582
       pushed_at: 2026-07-01
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: foryourhealth111-pixel/Vibe-Skills
     kind: skill
     name: Vibe-Skills
@@ -2502,10 +2502,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2627
+      stars: 2639
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: frankbria/ralph-claude-code
     kind: tool
     name: ralph-claude-code
@@ -2518,10 +2518,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 9584
+      stars: 9590
       pushed_at: 2026-07-18
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: gastownhall/beads
     kind: tool
     name: beads
@@ -2533,10 +2533,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 26095
-      pushed_at: 2026-08-07
+      stars: 26126
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: geekjourneyx/md2wechat-skill
     kind: skill
     name: md2wechat-skill
@@ -2549,10 +2549,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3428
-      pushed_at: 2026-07-24
+      stars: 3441
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: gendigitalinc/sage
     kind: tool
     name: sage
@@ -2564,10 +2564,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 261
+      stars: 262
       pushed_at: 2026-06-18
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: getagentseal/codeburn
     kind: tool
     name: codeburn
@@ -2580,10 +2580,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 9176
+      stars: 9197
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: getpaseo/paseo
     kind: tool
     name: paseo
@@ -2596,10 +2596,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 12539
+      stars: 12683
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: github/awesome-copilot
     kind: tool
     name: awesome-copilot
@@ -2611,10 +2611,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 37535
+      stars: 37567
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: glitternetwork/pinme
     kind: tool
     name: pinme
@@ -2627,10 +2627,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3731
+      stars: 3730
       pushed_at: 2026-07-25
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: gmickel/flow-next
     kind: plugin
     name: flow-next
@@ -2645,9 +2645,9 @@ entries:
     status: active
     metrics:
       stars: 674
-      pushed_at: 2026-08-07
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: googleworkspace/cli
     kind: tool
     name: cli
@@ -2659,10 +2659,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 30245
+      stars: 30257
       pushed_at: 2026-08-01
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: gooseworks-ai/goose-skills
     kind: skill
     name: goose-skills
@@ -2676,10 +2676,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1100
+      stars: 1102
       pushed_at: 2026-07-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: gosom/google-maps-scraper
     kind: tool
     name: google-maps-scraper
@@ -2692,10 +2692,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 5441
+      stars: 5448
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: gotalab/cc-sdd
     kind: framework
     name: cc-sdd
@@ -2708,10 +2708,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3603
+      stars: 3605
       pushed_at: 2026-05-20
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: headroomlabs-ai/headroom
     kind: tool
     name: headroom
@@ -2724,10 +2724,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 65271
-      pushed_at: 2026-08-07
+      stars: 65424
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: heilcheng/awesome-agent-skills
     kind: tool
     name: awesome-agent-skills
@@ -2740,10 +2740,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 6065
+      stars: 6070
       pushed_at: 2026-04-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -2761,10 +2761,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 25255
-      pushed_at: 2026-08-06
+      stars: 25670
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: hesamsheikh/octogent
     kind: tool
     name: octogent
@@ -2778,10 +2778,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 1391
+      stars: 1392
       pushed_at: 2026-04-20
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -2799,10 +2799,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 51810
-      pushed_at: 2026-08-07
+      stars: 51869
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: hex/claude-council
     kind: plugin
     name: claude-council
@@ -2814,10 +2814,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 583
+      stars: 586
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: himself65/finance-skills
     kind: skill
     name: finance-skills
@@ -2830,10 +2830,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3127
+      stars: 3128
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: hoangsonww/Claude-Code-Agent-Monitor
     kind: tool
     name: Claude-Code-Agent-Monitor
@@ -2845,10 +2845,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 883
-      pushed_at: 2026-08-07
+      stars: 888
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: htmlstreamofficial/preline
     kind: tool
     name: preline
@@ -2859,12 +2859,17 @@ entries:
       - frontend
     added: 2026-08-06
     source: discovery
-    status: active
+    status: flagged
     metrics:
-      stars: 6377
+      stars: 6380
       pushed_at: 2026-05-10
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
+    flag:
+      reason: stale
+      since: 2026-08-08
+      issue: null
+      grace_until: null
   - id: huangjia2019/claude-code-engineering
     kind: tool
     name: claude-code-engineering
@@ -2877,10 +2882,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1046
+      stars: 1049
       pushed_at: 2026-07-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: human-avatar/skills-for-humanity
     kind: plugin
     name: skills-for-humanity
@@ -2895,7 +2900,7 @@ entries:
       stars: 212
       pushed_at: 2026-07-15
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: humanlayer/humanlayer
     kind: tool
     name: humanlayer
@@ -2908,10 +2913,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 11200
+      stars: 11207
       pushed_at: 2026-06-19
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: hyhmrright/brooks-lint
     kind: plugin
     name: brooks-lint
@@ -2924,10 +2929,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1287
+      stars: 1288
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: iOfficeAI/AionUi
     kind: tool
     name: AionUi
@@ -2940,10 +2945,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 31623
+      stars: 31685
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: iOfficeAI/OfficeCLI
     kind: tool
     name: OfficeCLI
@@ -2955,10 +2960,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 26268
+      stars: 26583
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: img2threejs/img2threejs
     kind: skill
     name: img2threejs
@@ -2971,10 +2976,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 10090
-      pushed_at: 2026-08-06
+      stars: 10197
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: indranilbanerjee/digital-marketing-pro
     kind: plugin
     name: digital-marketing-pro
@@ -2987,10 +2992,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 715
+      stars: 717
       pushed_at: 2026-08-01
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: inkeep/open-knowledge
     kind: tool
     name: open-knowledge
@@ -3003,10 +3008,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3314
-      pushed_at: 2026-08-07
+      stars: 3319
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: instavm/coderunner
     kind: tool
     name: coderunner
@@ -3022,7 +3027,7 @@ entries:
       stars: 881
       pushed_at: 2026-05-16
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: itsmostafa/aws-agent-skills
     kind: skill
     name: aws-agent-skills
@@ -3038,7 +3043,7 @@ entries:
       stars: 1142
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: jarrodwatts/claude-hud
     kind: plugin
     name: claude-hud
@@ -3050,10 +3055,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 27195
-      pushed_at: 2026-08-04
+      stars: 27220
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: jeremylongshore/claude-code-plugins-plus-skills
     kind: plugin
     name: claude-code-plugins-plus-skills
@@ -3065,10 +3070,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2605
-      pushed_at: 2026-08-07
+      stars: 2607
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: jezweb/claude-skills
     kind: skill
     name: claude-skills
@@ -3081,10 +3086,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 958
+      stars: 959
       pushed_at: 2026-07-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: jnMetaCode/agency-agents-zh
     kind: plugin
     name: agency-agents-zh
@@ -3097,10 +3102,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 18923
+      stars: 18962
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: jnMetaCode/superpowers-zh
     kind: framework
     name: superpowers-zh
@@ -3113,10 +3118,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 7529
-      pushed_at: 2026-07-31
+      stars: 7545
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: jordanrendric/claude-video-vision
     kind: plugin
     name: claude-video-vision
@@ -3128,10 +3133,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1119
+      stars: 1145
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: josstei/maestro-orchestrate
     kind: framework
     name: maestro-orchestrate
@@ -3147,7 +3152,7 @@ entries:
       stars: 452
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: jqueryscript/awesome-claude-code
     kind: tool
     name: awesome-claude-code
@@ -3160,10 +3165,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 490
+      stars: 491
       pushed_at: 2026-07-27
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: karanb192/claude-code-hooks
     kind: plugin
     name: claude-code-hooks
@@ -3177,10 +3182,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 465
+      stars: 466
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: kazukinagata/shinkoku
     kind: plugin
     name: shinkoku
@@ -3195,7 +3200,7 @@ entries:
       stars: 352
       pushed_at: 2026-03-21
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -3214,9 +3219,9 @@ entries:
     status: active
     metrics:
       stars: 1475
-      pushed_at: 2026-08-06
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: kerlos/pordee
     kind: plugin
     name: pordee
@@ -3231,7 +3236,7 @@ entries:
       stars: 324
       pushed_at: 2026-07-09
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: keskinonur/claude-code-ios-dev-guide
     kind: tool
     name: claude-code-ios-dev-guide
@@ -3247,7 +3252,7 @@ entries:
       stars: 812
       pushed_at: 2026-01-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -3268,7 +3273,7 @@ entries:
       stars: 2364
       pushed_at: 2026-05-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: lackeyjb/playwright-skill
     kind: skill
     name: playwright-skill
@@ -3281,10 +3286,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 2985
+      stars: 2994
       pushed_at: 2025-12-19
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -3301,10 +3306,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 739
+      stars: 741
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ljagiello/ctf-skills
     kind: skill
     name: ctf-skills
@@ -3316,10 +3321,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2933
+      stars: 2940
       pushed_at: 2026-07-31
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: luongnv89/claude-howto
     kind: tool
     name: claude-howto
@@ -3331,10 +3336,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 40883
+      stars: 40908
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: manaflow-ai/cmux
     kind: tool
     name: cmux
@@ -3346,10 +3351,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 25707
-      pushed_at: 2026-08-07
+      stars: 25748
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: maxritter/pilot-shell
     kind: framework
     name: pilot-shell
@@ -3363,10 +3368,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1801
-      pushed_at: 2026-08-06
+      stars: 1802
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: mcp-use/mcp-use
     kind: mcp
     name: mcp-use
@@ -3378,10 +3383,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 10454
-      pushed_at: 2026-08-06
+      stars: 10459
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: mcpware/cross-code-organizer
     kind: tool
     name: cross-code-organizer
@@ -3395,10 +3400,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 365
+      stars: 366
       pushed_at: 2026-06-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: memvid/claude-brain
     kind: tool
     name: claude-brain
@@ -3410,10 +3415,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 535
+      stars: 546
       pushed_at: 2026-01-19
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -3435,7 +3440,7 @@ entries:
       stars: 656
       pushed_at: 2026-07-25
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: microsoft/SkillOpt
     kind: tool
     name: SkillOpt
@@ -3447,10 +3452,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 15722
+      stars: 15758
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: microsoft/power-platform-skills
     kind: plugin
     name: power-platform-skills
@@ -3463,10 +3468,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 627
+      stars: 639
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: microsoft/skill-recorder
     kind: tool
     name: skill-recorder
@@ -3478,10 +3483,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2171
-      pushed_at: 2026-08-06
+      stars: 2370
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: microsoft/skills
     kind: tool
     name: skills
@@ -3495,9 +3500,9 @@ entries:
     status: active
     metrics:
       stars: 2867
-      pushed_at: 2026-08-06
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: minsight-ai-info/AI-Search-Hub
     kind: skill
     name: AI-Search-Hub
@@ -3510,10 +3515,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 1233
+      stars: 1234
       pushed_at: 2026-04-27
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -3532,10 +3537,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 19678
-      pushed_at: 2026-08-06
+      stars: 19702
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: mohitagw15856/pm-claude-skills
     kind: plugin
     name: pm-claude-skills
@@ -3548,10 +3553,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1261
-      pushed_at: 2026-08-06
+      stars: 1262
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: mukul975/Anthropic-Cybersecurity-Skills
     kind: plugin
     name: Anthropic-Cybersecurity-Skills
@@ -3564,10 +3569,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 27413
+      stars: 27448
       pushed_at: 2026-08-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: muxuuu/serenity-skill
     kind: skill
     name: serenity-skill
@@ -3580,10 +3585,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 3710
+      stars: 3714
       pushed_at: 2026-05-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -3601,10 +3606,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 57538
-      pushed_at: 2026-08-02
+      stars: 57622
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nagisanzenin/engram
     kind: plugin
     name: engram
@@ -3617,10 +3622,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1283
+      stars: 1291
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nanocoai/nanoclaw
     kind: tool
     name: nanoclaw
@@ -3633,10 +3638,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 30460
+      stars: 30467
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nexscope-ai/eCommerce-Skills
     kind: plugin
     name: eCommerce-Skills
@@ -3649,10 +3654,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 605
+      stars: 615
       pushed_at: 2026-07-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nextlevelbuilder/ui-ux-pro-max-skill
     kind: skill
     name: ui-ux-pro-max-skill
@@ -3665,10 +3670,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 114254
+      stars: 114533
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nexu-io/html-anything
     kind: tool
     name: html-anything
@@ -3681,10 +3686,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 8119
+      stars: 8138
       pushed_at: 2026-07-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nexu-io/open-design
     kind: tool
     name: open-design
@@ -3697,10 +3702,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 84250
-      pushed_at: 2026-08-07
+      stars: 84423
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nidhinjs/prompt-master
     kind: skill
     name: prompt-master
@@ -3712,10 +3717,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 11054
+      stars: 11065
       pushed_at: 2026-06-10
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ningzimu/codex-ppt-skill
     kind: skill
     name: codex-ppt-skill
@@ -3727,10 +3732,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 4604
+      stars: 4641
       pushed_at: 2026-07-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nowork-studio/NotFair
     kind: plugin
     name: NotFair
@@ -3743,10 +3748,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3325
-      pushed_at: 2026-08-06
+      stars: 3330
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: nyldn/claude-octopus
     kind: plugin
     name: claude-octopus
@@ -3759,10 +3764,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3938
+      stars: 3943
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: oliver-kriska/claude-elixir-phoenix
     kind: plugin
     name: claude-elixir-phoenix
@@ -3778,7 +3783,7 @@ entries:
       stars: 517
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: op7418/guizang-ppt-skill
     kind: skill
     name: guizang-ppt-skill
@@ -3790,10 +3795,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 23398
+      stars: 23474
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: open-gitagent/opengap
     kind: framework
     name: opengap
@@ -3808,7 +3813,7 @@ entries:
       stars: 2907
       pushed_at: 2026-07-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: oraios/serena
     kind: mcp
     name: serena
@@ -3821,10 +3826,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 27693
+      stars: 27727
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: parcadei/Continuous-Claude-v3
     kind: plugin
     name: Continuous-Claude-v3
@@ -3840,7 +3845,7 @@ entries:
       stars: 3881
       pushed_at: 2026-01-26
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -3861,7 +3866,7 @@ entries:
       stars: 182
       pushed_at: 2026-08-01
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: pegasi-ai/reins
     kind: tool
     name: reins
@@ -3874,10 +3879,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 406
+      stars: 407
       pushed_at: 2026-05-22
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: phuryn/pm-skills
     kind: plugin
     name: pm-skills
@@ -3891,10 +3896,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 24941
+      stars: 24972
       pushed_at: 2026-07-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: piercelamb/deep-project
     kind: plugin
     name: deep-project
@@ -3909,7 +3914,7 @@ entries:
       stars: 222
       pushed_at: 2026-06-21
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: posit-dev/skills
     kind: plugin
     name: skills
@@ -3922,10 +3927,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 461
+      stars: 462
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: prime-radiant-inc/greenfield
     kind: plugin
     name: greenfield
@@ -3938,10 +3943,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 245
+      stars: 248
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: prime-radiant-inc/iterative-development
     kind: framework
     name: iterative-development
@@ -3956,7 +3961,7 @@ entries:
       stars: 161
       pushed_at: 2026-06-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: quant-sentiment-ai/claude-equity-research
     kind: plugin
     name: claude-equity-research
@@ -3972,7 +3977,7 @@ entries:
       stars: 657
       pushed_at: 2026-04-21
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -3990,10 +3995,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1132
-      pushed_at: 2026-08-06
+      stars: 1137
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: raiyanyahya/recall
     kind: plugin
     name: recall
@@ -4006,10 +4011,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 738
+      stars: 737
       pushed_at: 2026-07-31
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: referodesign/refero_skill
     kind: skill
     name: refero_skill
@@ -4022,10 +4027,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 180
+      stars: 182
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: refly-ai/refly
     kind: tool
     name: refly
@@ -4038,10 +4043,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 7470
+      stars: 7471
       pushed_at: 2026-07-29
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: renezander030/capcut-cli
     kind: tool
     name: capcut-cli
@@ -4053,10 +4058,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 271
-      pushed_at: 2026-08-03
+      stars: 284
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: revfactory/harness
     kind: framework
     name: harness
@@ -4069,10 +4074,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 8623
+      stars: 8628
       pushed_at: 2026-07-24
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: rohitg00/awesome-claude-design
     kind: tool
     name: awesome-claude-design
@@ -4085,10 +4090,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 965
+      stars: 967
       pushed_at: 2026-04-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -4106,10 +4111,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2763
+      stars: 2764
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: romainsimon/paperasse
     kind: skill
     name: paperasse
@@ -4121,10 +4126,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2313
+      stars: 2316
       pushed_at: 2026-07-11
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: romiluz13/cc10x
     kind: framework
     name: cc10x
@@ -4141,7 +4146,7 @@ entries:
       stars: 161
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: router-for-me/CLIProxyAPI
     kind: tool
     name: CLIProxyAPI
@@ -4153,10 +4158,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 46409
-      pushed_at: 2026-08-07
+      stars: 46499
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: rsmdt/the-startup
     kind: plugin
     name: the-startup
@@ -4169,10 +4174,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 307
+      stars: 350
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: rtk-ai/rtk
     kind: tool
     name: rtk
@@ -4184,10 +4189,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 75079
-      pushed_at: 2026-08-06
+      stars: 75209
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ruvnet/ruflo
     kind: framework
     name: ruflo
@@ -4200,10 +4205,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 67218
-      pushed_at: 2026-08-06
+      stars: 67310
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: s0912758806p/agentic-sop-to-work
     kind: plugin
     name: agentic-sop-to-work
@@ -4219,7 +4224,7 @@ entries:
       stars: 204
       pushed_at: 2026-06-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: samber/cc-skills-golang
     kind: plugin
     name: cc-skills-golang
@@ -4231,10 +4236,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2864
+      stars: 2870
       pushed_at: 2026-08-01
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: sanity-io/agent-toolkit
     kind: tool
     name: agent-toolkit
@@ -4248,9 +4253,9 @@ entries:
     status: active
     metrics:
       stars: 172
-      pushed_at: 2026-08-06
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: santifer/career-ops
     kind: tool
     name: career-ops
@@ -4263,10 +4268,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 63100
+      stars: 63181
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: scaccogatto/okf-skills
     kind: plugin
     name: okf-skills
@@ -4279,10 +4284,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 241
+      stars: 244
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: sd0xdev/sd0x-dev-flow
     kind: framework
     name: sd0x-dev-flow
@@ -4295,10 +4300,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 186
-      pushed_at: 2026-08-07
+      stars: 187
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: secondsky/claude-skills
     kind: plugin
     name: claude-skills
@@ -4314,7 +4319,7 @@ entries:
       stars: 204
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: seulee26/mckinsey-pptx
     kind: plugin
     name: mckinsey-pptx
@@ -4327,10 +4332,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 551
+      stars: 550
       pushed_at: 2026-04-24
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -4348,10 +4353,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 64105
-      pushed_at: 2026-08-07
+      stars: 64149
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: shareAI-lab/learn-claude-code
     kind: tool
     name: learn-claude-code
@@ -4364,10 +4369,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 73459
+      stars: 73531
       pushed_at: 2026-07-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: shinpr/claude-code-workflows
     kind: plugin
     name: claude-code-workflows
@@ -4380,10 +4385,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 666
+      stars: 665
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: sickn33/agentic-awesome-skills
     kind: tool
     name: agentic-awesome-skills
@@ -4396,10 +4401,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 44571
+      stars: 44614
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: simonlin1212/a-stock-data
     kind: skill
     name: a-stock-data
@@ -4411,10 +4416,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 8430
+      stars: 8451
       pushed_at: 2026-07-30
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: sirmalloc/ccstatusline
     kind: tool
     name: ccstatusline
@@ -4426,10 +4431,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 12264
+      stars: 12289
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: siteboon/claudecodeui
     kind: tool
     name: claudecodeui
@@ -4441,10 +4446,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 13148
+      stars: 13168
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: slopus/happy
     kind: tool
     name: happy
@@ -4457,10 +4462,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 23189
+      stars: 23211
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: softaworks/agent-toolkit
     kind: plugin
     name: agent-toolkit
@@ -4473,10 +4478,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 2287
+      stars: 2291
       pushed_at: 2026-03-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -4494,10 +4499,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 325
+      stars: 328
       pushed_at: 2026-07-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: stablyai/orca
     kind: tool
     name: orca
@@ -4509,10 +4514,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 39132
-      pushed_at: 2026-08-07
+      stars: 39767
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: staruhub/ClaudeSkills
     kind: plugin
     name: ClaudeSkills
@@ -4528,7 +4533,7 @@ entries:
       stars: 661
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: steipete/CodexBar
     kind: tool
     name: CodexBar
@@ -4540,10 +4545,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 19745
-      pushed_at: 2026-08-07
+      stars: 19775
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: superset-sh/superset
     kind: tool
     name: superset
@@ -4555,10 +4560,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 12800
-      pushed_at: 2026-08-07
+      stars: 12817
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: taekchef/claude-code-zh-cn
     kind: plugin
     name: claude-code-zh-cn
@@ -4570,10 +4575,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 661
-      pushed_at: 2026-08-07
+      stars: 664
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: taishi-i/awesome-ChatGPT-repositories
     kind: tool
     name: awesome-ChatGPT-repositories
@@ -4585,10 +4590,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 3187
+      stars: 3189
       pushed_at: 2026-07-21
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: techygarg/lattice
     kind: framework
     name: lattice
@@ -4604,7 +4609,7 @@ entries:
       stars: 176
       pushed_at: 2026-07-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: teng-lin/notebooklm-py
     kind: tool
     name: notebooklm-py
@@ -4616,10 +4621,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 18517
-      pushed_at: 2026-08-06
+      stars: 18539
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: testdouble/han
     kind: plugin
     name: han
@@ -4632,10 +4637,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 187
-      pushed_at: 2026-08-06
+      stars: 192
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: thedotmack/claude-mem
     kind: plugin
     name: claude-mem
@@ -4647,10 +4652,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 89904
-      pushed_at: 2026-08-05
+      stars: 90015
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: tigerless-labs/autoharness
     kind: plugin
     name: autoharness
@@ -4662,10 +4667,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 854
+      stars: 875
       pushed_at: 2026-07-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: tigerless-labs/design-harness
     kind: skill
     name: design-harness
@@ -4678,10 +4683,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 198
+      stars: 204
       pushed_at: 2026-07-27
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: timescale/pg-aiguide
     kind: mcp
     name: pg-aiguide
@@ -4697,7 +4702,7 @@ entries:
       stars: 1808
       pushed_at: 2026-06-26
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: tirth8205/code-review-graph
     kind: mcp
     name: code-review-graph
@@ -4710,10 +4715,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 29139
+      stars: 29369
       pushed_at: 2026-08-02
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: topoteretes/cognee
     kind: tool
     name: cognee
@@ -4725,10 +4730,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 29837
-      pushed_at: 2026-08-06
+      stars: 29851
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: trailofbits/skills
     kind: plugin
     name: skills
@@ -4740,10 +4745,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 6472
-      pushed_at: 2026-08-07
+      stars: 6485
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: travisvn/awesome-claude-skills
     kind: tool
     name: awesome-claude-skills
@@ -4755,10 +4760,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 14543
+      stars: 14559
       pushed_at: 2026-04-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -4775,10 +4780,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 853
+      stars: 855
       pushed_at: 2026-07-29
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: tt-a1i/archify
     kind: skill
     name: archify
@@ -4790,10 +4795,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 9923
+      stars: 10218
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: tzachbon/smart-ralph
     kind: plugin
     name: smart-ralph
@@ -4805,10 +4810,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 433
+      stars: 432
       pushed_at: 2026-07-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: umputun/cc-thingz
     kind: plugin
     name: cc-thingz
@@ -4820,10 +4825,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 438
+      stars: 439
       pushed_at: 2026-07-12
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: vladikk/modularity
     kind: plugin
     name: modularity
@@ -4836,10 +4841,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 502
+      stars: 504
       pushed_at: 2026-04-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -4856,10 +4861,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 14347
+      stars: 14388
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: wesammustafa/Claude-Code-Everything-You-Need-to-Know
     kind: tool
     name: Claude-Code-Everything-You-Need-to-Know
@@ -4871,10 +4876,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2587
+      stars: 2606
       pushed_at: 2026-07-28
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: winfunc/opcode
     kind: tool
     name: opcode
@@ -4886,10 +4891,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 22360
+      stars: 22362
       pushed_at: 2025-10-16
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -4907,10 +4912,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 1856
-      pushed_at: 2026-07-22
+      stars: 1864
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: worldwonderer/novel-to-game
     kind: skill
     name: novel-to-game
@@ -4923,10 +4928,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 586
+      stars: 592
       pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: worldwonderer/oh-story-claudecode
     kind: plugin
     name: oh-story-claudecode
@@ -4938,10 +4943,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 5169
-      pushed_at: 2026-08-07
+      stars: 5220
+      pushed_at: 2026-08-08
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: worldwonderer/video-recap-skills
     kind: skill
     name: video-recap-skills
@@ -4953,10 +4958,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 442
+      stars: 445
       pushed_at: 2026-07-26
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: wshobson/agents
     kind: plugin
     name: agents
@@ -4969,10 +4974,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 38571
+      stars: 38604
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: wuyoscar/GPT-Image2-Skill
     kind: skill
     name: GPT-Image2-Skill
@@ -4984,10 +4989,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 4197
+      stars: 4212
       pushed_at: 2026-07-20
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: xbtlin/ai-berkshire
     kind: plugin
     name: ai-berkshire
@@ -5000,10 +5005,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 15133
+      stars: 15196
       pushed_at: 2026-08-05
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: xixu-me/awesome-persona-distill-skills
     kind: tool
     name: awesome-persona-distill-skills
@@ -5015,10 +5020,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 4640
+      stars: 4644
       pushed_at: 2026-07-16
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: yaojingang/yao-meta-skill
     kind: framework
     name: yao-meta-skill
@@ -5031,10 +5036,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2346
+      stars: 2350
       pushed_at: 2026-07-16
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: yeap531/word-format-skill
     kind: skill
     name: word-format-skill
@@ -5046,10 +5051,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 217
+      stars: 215
       pushed_at: 2026-04-27
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -5066,10 +5071,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 9752
+      stars: 9782
       pushed_at: 2026-07-17
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: ykdojo/claude-code-tips
     kind: tool
     name: claude-code-tips
@@ -5081,10 +5086,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 9560
+      stars: 9566
       pushed_at: 2026-08-06
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: yonatangross/orchestkit
     kind: plugin
     name: orchestkit
@@ -5098,9 +5103,9 @@ entries:
     status: active
     metrics:
       stars: 215
-      pushed_at: 2026-08-06
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: yusufkaraaslan/Skill_Seekers
     kind: tool
     name: Skill_Seekers
@@ -5112,10 +5117,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 14717
+      stars: 14723
       pushed_at: 2026-08-03
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: yuting0624/antigravity-for-claude-code
     kind: plugin
     name: antigravity-for-claude-code
@@ -5131,7 +5136,7 @@ entries:
       stars: 239
       pushed_at: 2026-08-04
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: zanwei/design-dna
     kind: skill
     name: design-dna
@@ -5143,10 +5148,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 1261
+      stars: 1265
       pushed_at: 2026-04-13
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
@@ -5166,7 +5171,7 @@ entries:
       stars: 372
       pushed_at: 2026-07-29
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: zarazhangrui/frontend-slides
     kind: skill
     name: frontend-slides
@@ -5179,10 +5184,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 27064
+      stars: 27100
       pushed_at: 2026-06-23
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: zhayujie/CowAgent
     kind: framework
     name: CowAgent
@@ -5195,10 +5200,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 46386
-      pushed_at: 2026-08-06
+      stars: 46404
+      pushed_at: 2026-08-07
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: zilliztech/claude-context
     kind: mcp
     name: claude-context
@@ -5210,10 +5215,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 12293
+      stars: 12312
       pushed_at: 2026-07-14
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: zilliztech/memsearch
     kind: plugin
     name: memsearch
@@ -5225,10 +5230,10 @@ entries:
     source: discovery
     status: active
     metrics:
-      stars: 2430
+      stars: 2434
       pushed_at: 2026-07-31
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
   - id: zscole/adversarial-spec
     kind: plugin
     name: adversarial-spec
@@ -5241,10 +5246,10 @@ entries:
     source: discovery
     status: flagged
     metrics:
-      stars: 553
+      stars: 554
       pushed_at: 2026-01-22
       archived: false
-      last_checked: 2026-08-07T05:41:29Z
+      last_checked: 2026-08-08T04:58:50Z
     flag:
       reason: stale
       since: 2026-08-06
