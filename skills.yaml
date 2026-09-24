@@ -49635,6 +49635,21 @@ entries:
       pushed_at: 2026-09-19
       archived: false
       last_checked: 2026-09-20T09:08:45Z
+  - id: yylo-dev/yylo
+    kind: framework
+    name: yylo
+    url: https://github.com/yylo-dev/yylo
+    summary: 'Task orchestration CLI for coding agents: Kanban board, git-worktree task lifecycle, and verified merges.'
+    tags:
+      - orchestration
+    added: 2026-09-24
+    source: pr
+    status: active
+    metrics:
+      stars: 61
+      pushed_at: 2026-09-24
+      archived: false
+      last_checked: 2026-09-24T00:00:00Z
   - id: yzfly/Awesome-AGI-Agents
     kind: skill
     name: Awesome-AGI-Agents

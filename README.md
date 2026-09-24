@@ -4,7 +4,7 @@
 
 An automatically verified index of Claude Code and Agent Skills tooling.
 
-> ✅ **0 dead entries · 2868 verified · last checked 2026-09-20 09:08 UTC**
+> ✅ **0 dead entries · 2869 verified · last checked 2026-09-24 00:00 UTC**
 
 Every entry is re-checked daily. Anything archived, deleted, or untouched for 90 days is
 flagged and delisted from the tables below, with the reason and the date it happened
@@ -42,6 +42,7 @@ separate: it holds entries permanently excluded from the index and never reconsi
 | [techygarg/lattice](https://github.com/techygarg/lattice) | 193 | 2026-09-07 | planning, review | Composable skill set that enforces engineering discipline for design, implementation, review, and standards. |
 | [sd0xdev/sd0x-dev-flow](https://github.com/sd0xdev/sd0x-dev-flow) | 189 | 2026-09-05 | planning, review | Harness for Claude Code enforcing dual code review and state-machine quality gates that survive context compaction. |
 | [romiluz13/cc10x](https://github.com/romiluz13/cc10x) | 164 | 2026-09-11 | orchestration, review, testing | Claude Code harness with a router, specialist agents, and workflows enforcing fail-closed gates and honest test review. |
+| [yylo-dev/yylo](https://github.com/yylo-dev/yylo) | 61 | 2026-09-24 | orchestration | Task orchestration CLI for coding agents: Kanban board, git-worktree task lifecycle, and verified merges. |
 
 ## Skills
 
