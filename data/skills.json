@@ -516,6 +516,23 @@
       }
     },
     {
+      "id": "416rehman/spinlings",
+      "kind": "skill",
+      "name": "spinlings",
+      "url": "https://github.com/416rehman/spinlings",
+      "summary": "Tiny pixel creatures that battle above your prompt while Claude works. A creature card game mod for Claude Code.",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 306,
+        "pushed_at": "2026-10-06",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "49-Agents/49-IDE",
       "kind": "skill",
       "name": "49-IDE",
@@ -4915,6 +4932,23 @@
       }
     },
     {
+      "id": "DevinoSolutions/anotifier-for-claude-codex-cursor",
+      "kind": "skill",
+      "name": "anotifier-for-claude-codex-cursor",
+      "url": "https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor",
+      "summary": "Desktop & phone notifications for AI coding agents (Claude Code, Codex, Gemini CLI, Cursor). Native VS Code support. Toa",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 30,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "DheerG/swarms",
       "kind": "skill",
       "name": "swarms",
@@ -5462,6 +5496,23 @@
         "pushed_at": "2026-10-05",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "ElmatadorZ/Money-Atlas-Intelligence-OS",
+      "kind": "skill",
+      "name": "Money-Atlas-Intelligence-OS",
+      "url": "https://github.com/ElmatadorZ/Money-Atlas-Intelligence-OS",
+      "summary": "Money Atlas Skill.md (Claude Skill) For AI Agent A Genesis Protocol-powered intelligence system for financial markets, m",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 57,
+        "pushed_at": "2026-08-04",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -6904,6 +6955,23 @@
       }
     },
     {
+      "id": "HRuiCcc/RuiC-motion-reel",
+      "kind": "skill",
+      "name": "RuiC-motion-reel",
+      "url": "https://github.com/HRuiCcc/RuiC-motion-reel",
+      "summary": "用代码生成 15 秒动态图形成片 · Agent Skill。交付 1920×1080 / 30fps。自研渲染引擎：2× 超采样矢量/文字 + 真 3D 点云 + 丝网印四色分色 + 代码合成配乐，不用任何外部美术素材、不用 AE。15 ",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 80,
+        "pushed_at": "2026-09-30",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "HUANGCHIHHUNGLeo/claude-real-video",
       "kind": "skill",
       "name": "claude-real-video",
@@ -8020,6 +8088,23 @@
         "pushed_at": "2026-09-27",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Jakeschincariol/founder-skill",
+      "kind": "skill",
+      "name": "founder-skill",
+      "url": "https://github.com/Jakeschincariol/founder-skill",
+      "summary": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marke",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 107,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -10019,6 +10104,23 @@
         "pushed_at": "2026-10-05",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Leanmcp/gateway-skills",
+      "kind": "skill",
+      "name": "gateway-skills",
+      "url": "https://github.com/Leanmcp/gateway-skills",
+      "summary": "See your claude code logs in clear details in your dashboard",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 2111,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -16662,6 +16764,23 @@
       }
     },
     {
+      "id": "Th0rgal/orb",
+      "kind": "skill",
+      "name": "orb",
+      "url": "https://github.com/Th0rgal/orb",
+      "summary": "All your AI providers, machines, and agent harnesses in one place. Formerly sandboxed.sh (now the backend to the Orb cli",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 516,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "Th0rgal/sandboxed.sh",
       "kind": "skill",
       "name": "sandboxed.sh",
@@ -20695,6 +20814,23 @@
         "pushed_at": "2026-08-14",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "alan890104/claude-code-paste-preview",
+      "kind": "skill",
+      "name": "claude-code-paste-preview",
+      "url": "https://github.com/alan890104/claude-code-paste-preview",
+      "summary": "See and mark up the images you paste into Claude Code: thumbnails, and an editor that opens on paste. macOS, Linux and W",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 32,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -25070,6 +25206,23 @@
       }
     },
     {
+      "id": "bubbuild/bub",
+      "kind": "skill",
+      "name": "bub",
+      "url": "https://github.com/bubbuild/bub",
+      "summary": "Bub it. Build it. A tiny agent runtime, composable with plugins.",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 1679,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "builderz-labs/mission-control",
       "kind": "skill",
       "name": "mission-control",
@@ -27952,6 +28105,23 @@
       }
     },
     {
+      "id": "cuic19053-hue/awesome-student-ai-skills",
+      "kind": "skill",
+      "name": "awesome-student-ai-skills",
+      "url": "https://github.com/cuic19053-hue/awesome-student-ai-skills",
+      "summary": "35 个大学生申报书·申请书 AI Skill 集合 | 覆盖大创申报书/挑战杯/互联网+商业计划书/国家奖学金申请书/保研申请材料/三下乡社会实践报告 | 一句话生成规范 Word 文档 | Agent Skills 标准",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 79,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "curie-eng/curie",
       "kind": "skill",
       "name": "curie",
@@ -28629,6 +28799,23 @@
         "pushed_at": "2026-08-22",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "datallmhub/claude-governance",
+      "kind": "skill",
+      "name": "claude-governance",
+      "url": "https://github.com/datallmhub/claude-governance",
+      "summary": "Claude Code governance templates by tech stack : CLAUDE.md, scoped rules, architecture docs, cost control & dev-level ad",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 35,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -31368,6 +31555,23 @@
       }
     },
     {
+      "id": "escapeboy/claude-code-kit",
+      "kind": "skill",
+      "name": "claude-code-kit",
+      "url": "https://github.com/escapeboy/claude-code-kit",
+      "summary": "Skills, mods, subagents, hooks, slash commands and guides for Claude Code — installable by your agent (see INSTALL.md)",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 91,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "eternityspring/reelbench-skills",
       "kind": "skill",
       "name": "reelbench-skills",
@@ -31943,6 +32147,23 @@
         "pushed_at": "2026-09-20",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "feder-cr/invisible_dots",
+      "kind": "skill",
+      "name": "invisible_dots",
+      "url": "https://github.com/feder-cr/invisible_dots",
+      "summary": "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 31843,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -33992,6 +34213,23 @@
         "pushed_at": "2026-10-07",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "gmh5225/awesome-skills",
+      "kind": "skill",
+      "name": "awesome-skills",
+      "url": "https://github.com/gmh5225/awesome-skills",
+      "summary": "A curated list of Agent Skills, resources, and tools for AI coding agents like Claude Code, Codex, Gemini CLI, GitHub Co",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 84,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -43768,6 +44006,23 @@
       }
     },
     {
+      "id": "lowenbjer/claude-terse",
+      "kind": "skill",
+      "name": "claude-terse",
+      "url": "https://github.com/lowenbjer/claude-terse",
+      "summary": "For those who struggle with how Claude speaks to them. No more essays. No more slogans, metaphors, \"it's not X, it's Y\".",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 30,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "lricher7329/zotero-mcp-claude-code",
       "kind": "skill",
       "name": "zotero-mcp-claude-code",
@@ -46482,6 +46737,23 @@
       }
     },
     {
+      "id": "miron-tech/wholesaler-claude-skills",
+      "kind": "skill",
+      "name": "wholesaler-claude-skills",
+      "url": "https://github.com/miron-tech/wholesaler-claude-skills",
+      "summary": "Free Claude Code skills for real estate wholesalers: property recon, comps and ARV, rehab estimates, creative finance, s",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 46,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "mirzaaghazadeh/iphone-duo-skills",
       "kind": "skill",
       "name": "iphone-duo-skills",
@@ -47149,6 +47421,23 @@
         "pushed_at": "2026-07-22",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "moritzwilksch/diffle",
+      "kind": "skill",
+      "name": "diffle",
+      "url": "https://github.com/moritzwilksch/diffle",
+      "summary": "A keyboard-first diff viewer with LSP support and GitHub integration.",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 26,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -49399,6 +49688,23 @@
       }
     },
     {
+      "id": "oil-oil/oil-skill-creator",
+      "kind": "skill",
+      "name": "oil-skill-creator",
+      "url": "https://github.com/oil-oil/oil-skill-creator",
+      "summary": "创建、评审和改进 Skill，检查功能边界、首次配置、执行稳定性、兼容性与发布交付。",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 86,
+        "pushed_at": "2026-10-05",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "oil-oil/oil-ui",
       "kind": "skill",
       "name": "oil-ui",
@@ -50325,6 +50631,23 @@
       }
     },
     {
+      "id": "orange2ai/podcast-to-article",
+      "kind": "skill",
+      "name": "podcast-to-article",
+      "url": "https://github.com/orange2ai/podcast-to-article",
+      "summary": "把多人对谈播客的逐字稿整理成可发布长文的 Agent Skill：换轴成文、人名校准、精简三分之一、去 AI 味自检。An agent skill that turns podcast transcripts into publishabl",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 111,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "ordinary-s/falsify-the-problem",
       "kind": "skill",
       "name": "falsify-the-problem",
@@ -50971,6 +51294,23 @@
         "pushed_at": "2026-08-28",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "paypal/AI-Toolkit",
+      "kind": "skill",
+      "name": "AI-Toolkit",
+      "url": "https://github.com/paypal/AI-Toolkit",
+      "summary": "A plugin that integrates PayPal's APIs and MCP server across multiple AI coding agents (Claude Code, Cursor and more) in",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -52795,6 +53135,23 @@
       }
     },
     {
+      "id": "realmyang/MLView",
+      "kind": "skill",
+      "name": "MLView",
+      "url": "https://github.com/realmyang/MLView",
+      "summary": "Interactive, source-linked ML workflow diagrams written by your coding assistant (Copilot, Codex or Claude Code) and ope",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 83,
+        "pushed_at": "2026-10-05",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "rebelytics/one-skill-to-rule-them-all",
       "kind": "skill",
       "name": "one-skill-to-rule-them-all",
@@ -52894,6 +53251,23 @@
         "pushed_at": "2026-08-11",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "rediumvex/hormozi-sales-cold-outreach-claude",
+      "kind": "skill",
+      "name": "hormozi-sales-cold-outreach-claude",
+      "url": "https://github.com/rediumvex/hormozi-sales-cold-outreach-claude",
+      "summary": "Three Claude skills: build irresistible Hormozi offers, run the 0-to-$10M business playbook, and write cold outreach tha",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-08-11",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -53415,6 +53789,23 @@
         "pushed_at": "2026-10-01",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "rjmurillo/ai-agents",
+      "kind": "skill",
+      "name": "ai-agents",
+      "url": "https://github.com/rjmurillo/ai-agents",
+      "summary": "Open-source multi-agent toolkit for Claude Code and GitHub Copilot CLI: 22 agents, plan-to-ship workflows, review and se",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 47,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -55080,6 +55471,23 @@
         "pushed_at": "2026-07-11",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "scasella/claude-flightdeck",
+      "kind": "skill",
+      "name": "claude-flightdeck",
+      "url": "https://github.com/scasella/claude-flightdeck",
+      "summary": "A Claude Code mod that puts a live agent dashboard in your terminal: context and cost, advisor timeline, every permissio",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 30,
+        "pushed_at": "2026-10-02",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -56929,6 +57337,23 @@
       }
     },
     {
+      "id": "snatanzon/architectural-decision-framework",
+      "kind": "skill",
+      "name": "architectural-decision-framework",
+      "url": "https://github.com/snatanzon/architectural-decision-framework",
+      "summary": "Claude skill for making architectural decisions in 7 (or sometimes 8) easy steps",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-07-17",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "sneg55/agent-starter",
       "kind": "skill",
       "name": "agent-starter",
@@ -56977,6 +57402,23 @@
         "pushed_at": "2026-10-08",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "sno-ai/sno-station-skills",
+      "kind": "skill",
+      "name": "sno-station-skills",
+      "url": "https://github.com/sno-ai/sno-station-skills",
+      "summary": "Sno Station Skills: 31 tested skills that turn Claude Code and Codex into one working team. Cross-vendor peer review, au",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 48,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -60778,6 +61220,23 @@
       }
     },
     {
+      "id": "transkatgirl/vibeclaude",
+      "kind": "skill",
+      "name": "vibeclaude",
+      "url": "https://github.com/transkatgirl/vibeclaude",
+      "summary": "A port of opencode-buttplugio to Claude Code written by Opus 5.5.",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 77,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "travisjneuman/.claude",
       "kind": "skill",
       "name": ".claude",
@@ -61170,6 +61629,23 @@
         "pushed_at": "2026-09-04",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "twostraws/SwiftUI-Agent-Skill",
+      "kind": "skill",
+      "name": "SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "summary": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 5149,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
@@ -62404,6 +62880,23 @@
       }
     },
     {
+      "id": "vojtaholik/good-css",
+      "kind": "skill",
+      "name": "good-css",
+      "url": "https://github.com/vojtaholik/good-css",
+      "summary": "Opinionated modern CSS techniques, packaged as an agent skill, each with a live specimen.",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 175,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "vostride/agent-qa",
       "kind": "skill",
       "name": "agent-qa",
@@ -63292,6 +63785,23 @@
       }
     },
     {
+      "id": "whyashthakker/awesome-claude-code-mods",
+      "kind": "skill",
+      "name": "awesome-claude-code-mods",
+      "url": "https://github.com/whyashthakker/awesome-claude-code-mods",
+      "summary": "Collection of 50 mods you can use with Claude Code.",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 28,
+        "pushed_at": "2026-10-03",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
       "id": "wieslawsoltes/Performance-Skill",
       "kind": "skill",
       "name": "Performance-Skill",
@@ -64020,6 +64530,23 @@
         "pushed_at": "2026-08-11",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "xamjiang/handout-remake",
+      "kind": "skill",
+      "name": "handout-remake",
+      "url": "https://github.com/xamjiang/handout-remake",
+      "summary": "把上課教材變成 iPad 上好讀、可手寫的深色講義｜Agent Skill for Claude & Codex",
+      "tags": [],
+      "added": "2026-10-08",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 142,
+        "pushed_at": "2026-10-07",
+        "archived": false,
+        "last_checked": "2026-10-08T00:00:00Z"
       }
     },
     {
