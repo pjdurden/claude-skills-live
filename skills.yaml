@@ -3237,6 +3237,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Aryanutkarsh/SeeCode
+    kind: skill
+    name: SeeCode
+    url: https://github.com/Aryanutkarsh/SeeCode
+    summary: Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 118
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: Ashfaqbs/software-dev-ai-claude-toolkit
     kind: skill
     name: software-dev-ai-claude-toolkit
@@ -7108,6 +7122,20 @@ entries:
       pushed_at: 2026-10-04
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: GTKottman/mortiflix-oss
+    kind: skill
+    name: mortiflix-oss
+    url: https://github.com/GTKottman/mortiflix-oss
+    summary: "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own"
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 491
+      pushed_at: 2026-10-08
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: GaZmagik/iso-24495
     kind: skill
     name: iso-24495
@@ -7212,6 +7240,20 @@ entries:
       pushed_at: 2026-08-13
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Gaoyuan-0423/biomedical-paper-reader
+    kind: skill
+    name: biomedical-paper-reader
+    url: https://github.com/Gaoyuan-0423/biomedical-paper-reader
+    summary: 单篇生物医学论文精读 skill：逐图理解研究逻辑、评估证据边界、提炼可检验的课题设计。
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 89
+      pushed_at: 2026-10-07
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: GarethManning/education-agent-skills
     kind: skill
     name: education-agent-skills
@@ -8053,6 +8095,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: HeyCubit/effortless
+    kind: skill
+    name: effortless
+    url: https://github.com/HeyCubit/effortless
+    summary: "Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compa"
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 36
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: HezaoHezao/poirot
     kind: skill
     name: poirot
@@ -10282,6 +10338,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: KristenPan/pickoo-your-favorites
+    kind: skill
+    name: pickoo-your-favorites
+    url: https://github.com/KristenPan/pickoo-your-favorites
+    summary: Local-first creator favorites workbench with evidence-preserving Markdown capture and a complete browser UI.
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 97
+      pushed_at: 2026-09-17
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: KroMiose/nekro-agent
     kind: skill
     name: nekro-agent
@@ -11174,6 +11244,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: Likenttt/garmin-connect-plugin-for-dsh
+    kind: skill
+    name: garmin-connect-plugin-for-dsh
+    url: https://github.com/Likenttt/garmin-connect-plugin-for-dsh
+    summary: A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 26
+      pushed_at: 2026-10-05
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: LingyiChen-AI/vibe-coding
     kind: skill
     name: vibe-coding
@@ -12089,6 +12173,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Miftahul-Islam-Efaz/Motion-graphics-skill
+    kind: skill
+    name: Motion-graphics-skill
+    url: https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill
+    summary: Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-d
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 73
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: Miint-Sunny/nai5-prompting
     kind: skill
     name: nai5-prompting
@@ -12150,6 +12248,20 @@ entries:
       pushed_at: 2026-09-17
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Mindrally/skills
+    kind: skill
+    name: skills
+    url: https://github.com/Mindrally/skills
+    summary: "265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills"
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 269
+      pushed_at: 2026-10-08
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: MiniCodeMonkey/chief
     kind: skill
     name: chief
@@ -16749,6 +16861,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: SpaceZephyr/map-motion
+    kind: skill
+    name: map-motion
+    url: https://github.com/SpaceZephyr/map-motion
+    summary: 地图动效视频 Claude Code skill：基于高德地图真实路线/边界/卫星底图，做地球俯冲、vlog 我在这里、徒步海拔、骑行旅程、航线、行政区高亮等地图动画，12 种风格
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 28
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: SpaceZephyr/personal-site-builder
     kind: skill
     name: personal-site-builder
@@ -17261,6 +17387,20 @@ entries:
       pushed_at: 2026-08-01
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: THUROI0787/absent-author
+    kind: skill
+    name: absent-author
+    url: https://github.com/THUROI0787/absent-author
+    summary: Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers n
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 108
+      pushed_at: 2026-10-07
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: TIC-DLUT/nano-claude-code
     kind: skill
     name: nano-claude-code
@@ -22970,6 +23110,20 @@ entries:
       pushed_at: 2026-09-28
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: antfu/skills-pack
+    kind: skill
+    name: skills-pack
+    url: https://github.com/antfu/skills-pack
+    summary: Anthony's curated agent skills pack.
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 153
+      pushed_at: 2026-09-30
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: anthropics/claude-agent-sdk-demos
     kind: skill
     name: claude-agent-sdk-demos
@@ -24121,6 +24275,20 @@ entries:
       pushed_at: 2026-10-06
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: atlassian/forge-skills
+    kind: skill
+    name: forge-skills
+    url: https://github.com/atlassian/forge-skills
+    summary: The Forge Skills Plugin bundles several Forge-focused skills plus MCP-backed tooling so your agent can scaffold apps, re
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: atmirrr/persian-motion-director
     kind: skill
     name: persian-motion-director
@@ -31106,6 +31274,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: display-dev/product-film
+    kind: skill
+    name: product-film
+    url: https://github.com/display-dev/product-film
+    summary: Make short product films from your product's real UI with AI coding agents.
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 26
+      pushed_at: 2026-10-05
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: distil-labs/distil-cli-skill
     kind: skill
     name: distil-cli-skill
@@ -34066,6 +34248,20 @@ entries:
       pushed_at: 2026-10-02
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: fnlfx/ai
+    kind: skill
+    name: ai
+    url: https://github.com/fnlfx/ai
+    summary: "FunnelFox for Claude Code: edit your web funnels at the speed of a prompt."
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 26
+      pushed_at: 2026-10-06
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: folke/sidekick.nvim
     kind: skill
     name: sidekick.nvim
@@ -37143,6 +37339,20 @@ entries:
       pushed_at: 2026-10-01
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: hellosverre/claude-skins
+    kind: skill
+    name: claude-skins
+    url: https://github.com/hellosverre/claude-skins
+    summary: "Skins for Claude Code's transcript: themed tool rows, reply gutters and spinner words. /skin swaps them live."
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 46
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: hellowind777/hello2cc
     kind: skill
     name: hello2cc
@@ -39538,6 +39748,20 @@ entries:
       pushed_at: 2026-09-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: ishuagrawal/skills
+    kind: skill
+    name: skills
+    url: https://github.com/ishuagrawal/skills
+    summary: Agent skills for engineering and design
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 46
+      pushed_at: 2026-10-08
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: isjiamu/gzh-design-skill
     kind: skill
     name: gzh-design-skill
@@ -45489,6 +45713,20 @@ entries:
       since: 2026-08-27
       issue: null
       grace_until: null
+  - id: luoluo-121/neural-creator-dashboard
+    kind: skill
+    name: neural-creator-dashboard
+    url: https://github.com/luoluo-121/neural-creator-dashboard
+    summary: 创作神经网络看板与 Agent Skill｜学习及非商业使用，商业使用须另行授权；历史授权例外见 NOTICE
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 81
+      pushed_at: 2026-10-06
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: luongnv89/claude-howto
     kind: tool
     name: claude-howto
@@ -45560,6 +45798,20 @@ entries:
       pushed_at: 2026-09-01
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: lynote-ai/ai-text-detector
+    kind: skill
+    name: ai-text-detector
+    url: https://github.com/lynote-ai/ai-text-detector
+    summary: "Open-source AI text detector: explainable 0-100 risk scores for AI-generated content, plus a trained document- and sente"
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 447
+      pushed_at: 2026-10-08
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: lynxlangya/techne
     kind: skill
     name: techne
@@ -46873,6 +47125,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: megumi-ben/marco-polo.skill
+    kind: skill
+    name: marco-polo.skill
+    url: https://github.com/megumi-ben/marco-polo.skill
+    summary: AI travel planning skill · 旅行攻略助手 | Real routes, reservation checklists & interactive travel handbooks.
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 199
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: meirm/reverse-engineering-skill
     kind: skill
     name: reverse-engineering-skill
@@ -55206,6 +55472,20 @@ entries:
       since: 2026-09-20
       issue: null
       grace_until: null
+  - id: robium-ai/robium
+    kind: skill
+    name: robium
+    url: https://github.com/robium-ai/robium
+    summary: Physical AI skills for coding agents, with field-tested robotics guidance, the robium-ai CLI, and a learning engine.
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 86
+      pushed_at: 2026-10-07
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: robonuggets/skill-creator-plus
     kind: skill
     name: skill-creator-plus
@@ -57822,6 +58102,20 @@ entries:
       pushed_at: 2026-09-06
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: shinshin86/mesh-avatar-studio
+    kind: skill
+    name: mesh-avatar-studio
+    url: https://github.com/shinshin86/mesh-avatar-studio
+    summary: Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 541
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: shinshin86/oh-my-logo
     kind: skill
     name: oh-my-logo
@@ -60763,6 +61057,20 @@ entries:
       pushed_at: 2026-08-10
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: tbee6061-ctrl/studio-live-window-capture
+    kind: skill
+    name: studio-live-window-capture
+    url: https://github.com/tbee6061-ctrl/studio-live-window-capture
+    summary: "Roblox Studio macOS Window Capture Fix 2026: Real Screenshot Tool Instead of Magenta Playtest Glitch"
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 70
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: tbphp/gpt-load
     kind: skill
     name: gpt-load
@@ -62839,6 +63147,20 @@ entries:
       since: 2026-08-27
       issue: null
       grace_until: null
+  - id: tubeagentkit/youtube-transcript-skills
+    kind: skill
+    name: youtube-transcript-skills
+    url: https://github.com/tubeagentkit/youtube-transcript-skills
+    summary: "YouTube transcript Agent Skill for Claude Code, Cursor, Codex and OpenClaw: fetch YouTube video transcripts, search vide"
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 80
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: tuchg/Lucarne
     kind: skill
     name: Lucarne
@@ -63388,6 +63710,20 @@ entries:
       pushed_at: 2026-08-31
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: usetrmnl/trmnl-agent-skills
+    kind: skill
+    name: trmnl-agent-skills
+    url: https://github.com/usetrmnl/trmnl-agent-skills
+    summary: trmnl.com template writer agent's prompts and skills
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: utkarsh1agarwal/claude-architect-exam-guide
     kind: skill
     name: claude-architect-exam-guide
@@ -65002,6 +65338,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: wh000wh000/awesome-claude-mods
+    kind: skill
+    name: awesome-claude-mods
+    url: https://github.com/wh000wh000/awesome-claude-mods
+    summary: Awesome Claude Mods — evidence-graded index of Claude Code mods, plugins and hooks. 20 languages, rebuilt every 2 hours.
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 29
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: whataicc/doc-whataicc-api
     kind: skill
     name: doc-whataicc-api
@@ -66388,6 +66738,20 @@ entries:
       pushed_at: 2026-09-15
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: xx-hub/craft-your-textbook
+    kind: skill
+    name: craft-your-textbook
+    url: https://github.com/xx-hub/craft-your-textbook
+    summary: 本项目是 Socratopia（破卷）生态的衍生项目，是其"造书"环节的方法论沉淀，已固化为一个可复用的 skill。 让你具备亲手为自己造一本教材的能力——把一本教材（或一个领域的知识）加工成 AI 老师能拿去上课的教学蓝本。有教师用书时
+    tags: []
+    added: 2026-10-09
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-08-17
+      archived: false
+      last_checked: 2026-10-09T00:00:00Z
   - id: y49/tlive
     kind: skill
     name: tlive
