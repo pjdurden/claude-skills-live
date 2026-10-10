@@ -652,6 +652,23 @@
       }
     },
     {
+      "id": "7ANV1R/Store-Screenshot-Studio",
+      "kind": "skill",
+      "name": "Store-Screenshot-Studio",
+      "url": "https://github.com/7ANV1R/Store-Screenshot-Studio",
+      "summary": "Agent skill + Claude Code plugin: bold, art-directed App Store and Google Play screenshots from your own app screens, in",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 26,
+        "pushed_at": "2026-10-06",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "7onez/cti-expert",
       "kind": "skill",
       "name": "cti-expert",
@@ -1780,6 +1797,23 @@
         "pushed_at": "2026-10-08",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Ai-Eastern/reuse-before-build",
+      "kind": "skill",
+      "name": "reuse-before-build",
+      "url": "https://github.com/Ai-Eastern/reuse-before-build",
+      "summary": "A Take / Borrow / Build workflow for coding agents",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 101,
+        "pushed_at": "2026-09-26",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -3733,6 +3767,23 @@
       }
     },
     {
+      "id": "ChangWenC/understanding-ladder",
+      "kind": "skill",
+      "name": "understanding-ladder",
+      "url": "https://github.com/ChangWenC/understanding-ladder",
+      "summary": "Karpathy's understanding ladder as agent skills: auto-pick text, diagram, interactive HTML, or video storyboard for any ",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 32,
+        "pushed_at": "2026-10-06",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "CharlesWiltgen/Axiom",
       "kind": "skill",
       "name": "Axiom",
@@ -4276,6 +4327,23 @@
         "pushed_at": "2026-10-05",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Consensys/repo-security-review",
+      "kind": "skill",
+      "name": "repo-security-review",
+      "url": "https://github.com/Consensys/repo-security-review",
+      "summary": "A Claude Skill to perform security code review for repositories (code and Skill)",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-09-27",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -6868,6 +6936,23 @@
       }
     },
     {
+      "id": "Goldziher/ai-rulez",
+      "kind": "skill",
+      "name": "ai-rulez",
+      "url": "https://github.com/Goldziher/ai-rulez",
+      "summary": "Standards-compliant lifecycle tool for agent knowledge and capabilities: author, generate, bundle, validate, govern, pub",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 159,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "GoogleCloudPlatform/cxas-scrapi",
       "kind": "skill",
       "name": "cxas-scrapi",
@@ -6901,6 +6986,23 @@
         "pushed_at": "2026-10-07",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Grit-77/done-is-a-claim",
+      "kind": "skill",
+      "name": "done-is-a-claim",
+      "url": "https://github.com/Grit-77/done-is-a-claim",
+      "summary": "18 incident-backed rules and 6 skills for coding agents. Evidence templates, runnable demos, and drop-in AGENTS.md / CLA",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 28,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -8207,6 +8309,23 @@
         "pushed_at": "2026-09-17",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Jakeschincariol/master-skills",
+      "kind": "skill",
+      "name": "master-skills",
+      "url": "https://github.com/Jakeschincariol/master-skills",
+      "summary": "Three Claude master skills: edit your videos, make them go viral, and build anything. Free, MIT.",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 34,
+        "pushed_at": "2026-10-04",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -10514,6 +10633,23 @@
         "pushed_at": "2026-09-17",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "LiChangZheng10086/doyin_ai_video",
+      "kind": "skill",
+      "name": "doyin_ai_video",
+      "url": "https://github.com/LiChangZheng10086/doyin_ai_video",
+      "summary": "抖创工坊：本地 Electron 工具，抖音视频无水印下载 + Whisper 转录 + AI 洗稿 + 分镜 + HyperFrames 竖屏成片 + Claude Skill 蒸馏",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -16781,6 +16917,23 @@
       }
     },
     {
+      "id": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+      "kind": "skill",
+      "name": "nse-bse-indian-stock-market-data-mcp",
+      "url": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+      "summary": "Indian stock market MCP server for NSE & BSE — 55 tools across all 8,200+ stocks: live quotes, financials, technicals, 3",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 135,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "TechNomadCode/AI-Product-Development-Toolkit",
       "kind": "skill",
       "name": "AI-Product-Development-Toolkit",
@@ -21553,6 +21706,23 @@
       }
     },
     {
+      "id": "aligundogdu/symfony-hexagonal-skill",
+      "kind": "skill",
+      "name": "symfony-hexagonal-skill",
+      "url": "https://github.com/aligundogdu/symfony-hexagonal-skill",
+      "summary": "Claude Code plugin that enforces hexagonal architecture (ports & adapters) in Symfony projects — with 10 auto-triggered ",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 35,
+        "pushed_at": "2026-10-09",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "alima-max/prototype-to-figma-skill",
       "kind": "skill",
       "name": "prototype-to-figma-skill",
@@ -23348,6 +23518,23 @@
         "pushed_at": "2026-09-07",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "asv-digital/bonus-aula-claude-code",
+      "kind": "skill",
+      "name": "bonus-aula-claude-code",
+      "url": "https://github.com/asv-digital/bonus-aula-claude-code",
+      "summary": "Agentes e anotacoes da aula Dominando Claude Code - Bravy School",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 29,
+        "pushed_at": "2026-09-08",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -32680,6 +32867,40 @@
       }
     },
     {
+      "id": "firecrawl/firecrawl-claude-plugin",
+      "kind": "skill",
+      "name": "firecrawl-claude-plugin",
+      "url": "https://github.com/firecrawl/firecrawl-claude-plugin",
+      "summary": "Firecrawl plugin for Claude Code: web search, scraping, crawling and browser interaction. Firecrawl is the most complete",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 237,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
+      "id": "firecrawl/skills",
+      "kind": "skill",
+      "name": "skills",
+      "url": "https://github.com/firecrawl/skills",
+      "summary": "Firecrawl agent skills for Claude Code, Codex and Cursor: web search, scraping, crawling and browser interaction. Firecr",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 117,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "firefly-hefeng/VESTI-SKILLS",
       "kind": "skill",
       "name": "VESTI-SKILLS",
@@ -33127,6 +33348,23 @@
       }
     },
     {
+      "id": "frankxai/awesome-motion-design-agent-skills",
+      "kind": "skill",
+      "name": "awesome-motion-design-agent-skills",
+      "url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+      "summary": "Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and mo",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 38,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "frankxai/claude-skills-library",
       "kind": "skill",
       "name": "claude-skills-library",
@@ -33141,6 +33379,23 @@
         "pushed_at": "2026-10-06",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "franzenzenhofer/big-arrow-on-the-screen",
+      "kind": "skill",
+      "name": "big-arrow-on-the-screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "summary": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill fo",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 541,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -38492,6 +38747,23 @@
       }
     },
     {
+      "id": "itechmeat/open-second-brain",
+      "kind": "skill",
+      "name": "open-second-brain",
+      "url": "https://github.com/itechmeat/open-second-brain",
+      "summary": "Local-first 🧠 memory for Hermes Agent that lives in your Obsidian vault and remembers project context. Nightly 😴 dream",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 468,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "itsAalaa7/adhd-study-coach",
       "kind": "skill",
       "name": "adhd-study-coach",
@@ -43035,6 +43307,23 @@
       }
     },
     {
+      "id": "lemon07r/SanityHarness",
+      "kind": "skill",
+      "name": "SanityHarness",
+      "url": "https://github.com/lemon07r/SanityHarness",
+      "summary": "A lightweight harness designed to be simple to use, efficient, universially compatible with any coding agent to evaluate",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 243,
+        "pushed_at": "2026-10-09",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "lennney/stop-that-shit",
       "kind": "skill",
       "name": "stop-that-shit",
@@ -43848,6 +44137,23 @@
         "pushed_at": "2026-09-28",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "liyupi/ai-promo-video-maker",
+      "kind": "skill",
+      "name": "ai-promo-video-maker",
+      "url": "https://github.com/liyupi/ai-promo-video-maker",
+      "summary": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 72,
+        "pushed_at": "2026-10-09",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -44824,6 +45130,23 @@
       }
     },
     {
+      "id": "majiayu000/claude-skill-registry-data",
+      "kind": "skill",
+      "name": "claude-skill-registry-data",
+      "url": "https://github.com/majiayu000/claude-skill-registry-data",
+      "summary": "Archived Claude Code skill files and metadata consumed by the Claude Skills Registry pipeline",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "majiayu000/spellbook",
       "kind": "skill",
       "name": "spellbook",
@@ -45350,6 +45673,23 @@
         "pushed_at": "2026-10-08",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "marionettejs/marionette",
+      "kind": "skill",
+      "name": "marionette",
+      "url": "https://github.com/marionettejs/marionette",
+      "summary": "A JavaScript library for structured interfaces, with explicit ownership and lifecycle. Built for agent-led development. ",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 7029,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -48442,6 +48782,23 @@
       }
     },
     {
+      "id": "nasqret/labyrinth-exploration",
+      "kind": "skill",
+      "name": "labyrinth-exploration",
+      "url": "https://github.com/nasqret/labyrinth-exploration",
+      "summary": "An agent skill for Codex, Claude Code and other clients: open-ended research as the exploration of a labyrinth, with a m",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 31,
+        "pushed_at": "2026-10-09",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "natdexterra/work-with-design-systems",
       "kind": "skill",
       "name": "work-with-design-systems",
@@ -49991,6 +50348,23 @@
         "pushed_at": "2026-07-21",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "oikon48/prompt-rail",
+      "kind": "skill",
+      "name": "prompt-rail",
+      "url": "https://github.com/oikon48/prompt-rail",
+      "summary": "A rail of your Claude Code session's prompts: hover to read, click to jump (function hooks / Mods)",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 26,
+        "pushed_at": "2026-10-03",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -51964,6 +52338,23 @@
       }
     },
     {
+      "id": "phuryn/work-humanizer",
+      "kind": "skill",
+      "name": "work-humanizer",
+      "url": "https://github.com/phuryn/work-humanizer",
+      "summary": "A humanizer for work writing: takes the AI tone out without changing what your text says or commits to. Agent Skill + ev",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 72,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "pigq/-Codex-Claude-Code-CTF-",
       "kind": "skill",
       "name": "-Codex-Claude-Code-CTF-",
@@ -53319,6 +53710,23 @@
         "pushed_at": "2026-07-13",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "rastian/behavioral-design-skills",
+      "kind": "skill",
+      "name": "behavioral-design-skills",
+      "url": "https://github.com/rastian/behavioral-design-skills",
+      "summary": "A Claude skill for applying behavioral psychology and behavioral economics to product and UX design. Behavioral diagnosi",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 26,
+        "pushed_at": "2026-08-31",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -57022,6 +57430,23 @@
       }
     },
     {
+      "id": "simonlin1212/Vibe-Research",
+      "kind": "skill",
+      "name": "Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "summary": "Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 |",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 2642,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "simonlin1212/a-stock-data",
       "kind": "skill",
       "name": "a-stock-data",
@@ -59437,6 +59862,23 @@
         "pushed_at": "2026-08-23",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "t3knobox/klik-anim-skill-creation",
+      "kind": "skill",
+      "name": "klik-anim-skill-creation",
+      "url": "https://github.com/t3knobox/klik-anim-skill-creation",
+      "summary": "Claude skills for industry-standard Remotion motion graphics: klik-anim-bible (animation craft laws, standalone) + klik-",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 49,
+        "pushed_at": "2026-08-06",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
@@ -62979,6 +63421,23 @@
       }
     },
     {
+      "id": "vincentsch/explainroo",
+      "kind": "skill",
+      "name": "explainroo",
+      "url": "https://github.com/vincentsch/explainroo",
+      "summary": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whi",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 516,
+        "pushed_at": "2026-10-04",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "vinnie357/claude-skills",
       "kind": "skill",
       "name": "claude-skills",
@@ -65643,6 +66102,23 @@
       }
     },
     {
+      "id": "yann0917/dedao-dl",
+      "kind": "skill",
+      "name": "dedao-dl",
+      "url": "https://github.com/yann0917/dedao-dl",
+      "summary": "得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。可结合 agent +skills 等使用",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 897,
+        "pushed_at": "2026-10-10",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
+      }
+    },
+    {
       "id": "yaojingang/GEOHub",
       "kind": "skill",
       "name": "GEOHub",
@@ -67058,6 +67534,23 @@
         "pushed_at": "2026-10-08",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "zhouwei713/luobo-ppt",
+      "kind": "skill",
+      "name": "luobo-ppt",
+      "url": "https://github.com/zhouwei713/luobo-ppt",
+      "summary": "生成和美化可编辑原生 PPT 的 Agent Skill",
+      "tags": [],
+      "added": "2026-10-10",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 168,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-10T00:00:00Z"
       }
     },
     {
