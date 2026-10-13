@@ -166,6 +166,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: 0xS4N4TG/papercut-explainer
+    kind: skill
+    name: papercut-explainer
+    url: https://github.com/0xS4N4TG/papercut-explainer
+    summary: "Claude Code skills + a Remotion library for short vertical cut-paper explainer reels: strategy, hook, script, storyboard"
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 29
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: 0xSteph/pentest-ai-agents
     kind: skill
     name: pentest-ai-agents
@@ -3179,6 +3193,20 @@ entries:
       pushed_at: 2026-07-14
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Arekejoker/qwen21-nsfw-pose-skill
+    kind: skill
+    name: qwen21-nsfw-pose-skill
+    url: https://github.com/Arekejoker/qwen21-nsfw-pose-skill
+    summary: Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 503
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: Arindam200/cc-lens
     kind: tool
     name: cc-lens
@@ -14751,6 +14779,20 @@ entries:
       pushed_at: 2026-08-25
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Paradigm-Study/claude-share
+    kind: skill
+    name: claude-share
+    url: https://github.com/Paradigm-Study/claude-share
+    summary: "Shared Claude Code sessions: share a session with a link, teammates join from their own Claude Code"
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 46
+      pushed_at: 2026-10-12
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: Paramchoudhary/ResumeSkills
     kind: skill
     name: ResumeSkills
@@ -21131,6 +21173,20 @@ entries:
       pushed_at: 2026-09-15
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: adsorgcn/WorkBuddy
+    kind: skill
+    name: WorkBuddy
+    url: https://github.com/adsorgcn/WorkBuddy
+    summary: iLang 专家与技能的 GitHub 安装源，海外版 WorkBuddy 可直接装：公众号爆文结构专家 v2.0（素材进稿子出，12 项自查，内置去 AI 味）· iLang experts & skills for WorkBuddy,
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 35
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: advai-x/advai-cli
     kind: skill
     name: advai-cli
@@ -32401,6 +32457,20 @@ entries:
       pushed_at: 2026-07-31
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: drawcms/drawcms
+    kind: skill
+    name: drawcms
+    url: https://github.com/drawcms/drawcms
+    summary: The animated diagram editor AI agents can draw on. Animated technical diagrams (architecture, sequence, BPMN, cloud icon
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-09-24
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: drayline/rootnode-skills
     kind: skill
     name: rootnode-skills
@@ -37586,6 +37656,20 @@ entries:
       pushed_at: 2026-09-17
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: haoming-luo/agentfem
+    kind: skill
+    name: agentfem
+    url: https://github.com/haoming-luo/agentfem
+    summary: AI-native open-source finite-element platform connecting engineering, computation, data, and AI.
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 26
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: haorantang97/LabArt
     kind: skill
     name: LabArt
@@ -39057,6 +39141,20 @@ entries:
       pushed_at: 2026-08-28
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: hujjun/mcd-saver-strategist
+    kind: skill
+    name: mcd-saver-strategist
+    url: https://github.com/hujjun/mcd-saver-strategist
+    summary: 麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimi
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 106
+      pushed_at: 2026-10-10
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: human-avatar/skills-for-humanity
     kind: plugin
     name: skills-for-humanity
@@ -39179,6 +39277,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: hyhmrright/logic-lens
+    kind: skill
+    name: logic-lens
+    url: https://github.com/hyhmrright/logic-lens
+    summary: Logic-first AI code review via semi-formal execution tracing (Premises → Trace → Divergence → Trigger → Remedy). Catches
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-09-30
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: hyperb1iss/sibyl
     kind: skill
     name: sibyl
@@ -41857,6 +41969,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: joaomj/pi-claude-directsdk
+    kind: skill
+    name: pi-claude-directsdk
+    url: https://github.com/joaomj/pi-claude-directsdk
+    summary: Use Claude Code subscription as LLM provider for Pi without breaking Anthropic ToS.
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 31
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: joe960913/Jixu
     kind: skill
     name: Jixu
@@ -43497,6 +43623,34 @@ entries:
       pushed_at: 2026-08-12
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: khalilbenaz/claude-skills-collection
+    kind: skill
+    name: claude-skills-collection
+    url: https://github.com/khalilbenaz/claude-skills-collection
+    summary: "349 skills open-source pour Claude Code — 34 domaines : dev, agents IA, AI/ML, cloud, database, DevOps, testing, sécurit"
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-08-24
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
+  - id: khalilgharbaoui/opencode-claude-code-plugin
+    kind: skill
+    name: opencode-claude-code-plugin
+    url: https://github.com/khalilgharbaoui/opencode-claude-code-plugin
+    summary: Use Claude Code in OpenCode - created from idea https://github.com/anomalyco/opencode/issues/9677
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 93
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: kharmanskyi/open-steps
     kind: skill
     name: open-steps
@@ -44002,6 +44156,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: krishhgg/Insomnia
+    kind: skill
+    name: Insomnia
+    url: https://github.com/krishhgg/Insomnia
+    summary: A macOS menu bar app that safely keeps your MacBook awake with the lid closed, for timed agent sessions.
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 1258
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: krishyaid-coder/doodle
     kind: skill
     name: doodle
@@ -45091,6 +45259,20 @@ entries:
       pushed_at: 2026-09-25
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: level09/enferno
+    kind: skill
+    name: enferno
+    url: https://github.com/level09/enferno
+    summary: "Lean Flask framework built for coding agents: Vue 3 + Vuetify with no build step, production-ready auth (2FA, passkeys, "
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 568
+      pushed_at: 2026-10-12
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: levi-qiao/longgraph-skill
     kind: skill
     name: longgraph-skill
@@ -47701,6 +47883,20 @@ entries:
       pushed_at: 2026-09-26
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: maximhq/bifrost
+    kind: skill
+    name: bifrost
+    url: https://github.com/maximhq/bifrost
+    summary: Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compa
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 8750
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: maxrave-dev/kotlin-footguns
     kind: skill
     name: kotlin-footguns
@@ -52845,6 +53041,20 @@ entries:
       pushed_at: 2026-09-20
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: openflowkit/openflowkit
+    kind: skill
+    name: openflowkit
+    url: https://github.com/openflowkit/openflowkit
+    summary: Free, open-source diagram canvas. Draw it, write it as code (Mermaid, D2, Structurizr in), ask any AI model or a local o
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 855
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: opengeos/geoai-skills
     kind: skill
     name: geoai-skills
@@ -54375,6 +54585,20 @@ entries:
       pushed_at: 2026-09-24
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: playcanvas/editor-mcp-server
+    kind: skill
+    name: editor-mcp-server
+    url: https://github.com/playcanvas/editor-mcp-server
+    summary: MCP Server for AI automation of the PlayCanvas Editor
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 138
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: playcanvas/skills
     kind: skill
     name: skills
@@ -55503,6 +55727,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: ray-amjad/claude-code-mods
+    kind: skill
+    name: claude-code-mods
+    url: https://github.com/ray-amjad/claude-code-mods
+    summary: "Ray Amjad's Claude Code mods: panes, bands, prompt guards, secret handling and memory tools. One marketplace, each mod i"
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 43
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: ray-amjad/claude-code-workflow-creator
     kind: skill
     name: claude-code-workflow-creator
@@ -56148,6 +56386,20 @@ entries:
       pushed_at: 2026-09-28
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: revfactory/showreel
+    kind: skill
+    name: showreel
+    url: https://github.com/revfactory/showreel
+    summary: "Claude Code skill that produces Korean motion-graphics videos end to end: brief, research, script, ElevenLabs narration,"
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 33
+      pushed_at: 2026-10-11
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: reyamira/models
     kind: skill
     name: models
@@ -56447,6 +56699,20 @@ entries:
       pushed_at: 2026-09-14
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: robbin/android-adb-control
+    kind: skill
+    name: android-adb-control
+    url: https://github.com/robbin/android-adb-control
+    summary: "An Agent Skill for Android phone control via ADB: observe, act, and verify. For Pi, Codex, Claude Code, and OpenCode."
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 82
+      pushed_at: 2026-10-08
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: robbyt/claude-skills
     kind: skill
     name: claude-skills
@@ -56522,6 +56788,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-09T00:00:00Z
+  - id: roboclawlab/roboclaw
+    kind: skill
+    name: roboclaw
+    url: https://github.com/roboclawlab/roboclaw
+    summary: RoboClaw live robot lab — community, experience, and API. Star to unlock the Host Concierge.
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-09-15
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: robonuggets/skill-creator-plus
     kind: skill
     name: skill-creator-plus
@@ -62687,6 +62967,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: the911fund/skill-of-skills
+    kind: skill
+    name: skill-of-skills
+    url: https://github.com/the911fund/skill-of-skills
+    summary: The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations acro
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 64
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: theDanButuc/Claude-Usage-Monitor
     kind: skill
     name: Claude-Usage-Monitor
@@ -63869,6 +64163,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: trailhq/Trail-Code
+    kind: skill
+    name: Trail-Code
+    url: https://github.com/trailhq/Trail-Code
+    summary: "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding spec"
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 9948
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: trailofbits/claude-code-config
     kind: skill
     name: claude-code-config
@@ -64928,6 +65236,20 @@ entries:
       pushed_at: 2026-10-09
       archived: false
       last_checked: 2026-10-09T00:00:00Z
+  - id: using-system/otelyssey
+    kind: skill
+    name: otelyssey
+    url: https://github.com/using-system/otelyssey
+    summary: "OpenTelemetry plugins for every coding agent, in the Agent Plugins format — a marketplace that runs itself: open an issu"
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 91
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: utkarsh1agarwal/claude-architect-exam-guide
     kind: skill
     name: claude-architect-exam-guide
@@ -68054,6 +68376,20 @@ entries:
       pushed_at: 2026-10-04
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: yakuikai/tokentab
+    kind: skill
+    name: tokentab
+    url: https://github.com/yakuikai/tokentab
+    summary: Local-first CLI and web dashboard that reads Claude Code, Codex and Gemini CLI session logs and shows token usage and co
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 472
+      pushed_at: 2026-10-11
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: yan-labs/yan-skills
     kind: skill
     name: yan-skills
@@ -69738,6 +70074,20 @@ entries:
       pushed_at: 2026-10-06
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: zhuyansen/new-term-radar
+    kind: skill
+    name: new-term-radar
+    url: https://github.com/zhuyansen/new-term-radar
+    summary: "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps be"
+    tags: []
+    added: 2026-10-13
+    source: discovery
+    status: active
+    metrics:
+      stars: 797
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-13T00:00:00Z
   - id: zhuzhenghao-max/claude-code-ai-rate-reducer
     kind: skill
     name: claude-code-ai-rate-reducer
