@@ -487,6 +487,20 @@ entries:
       since: 2026-08-11
       issue: null
       grace_until: null
+  - id: 1105216375-alt/resimind
+    kind: skill
+    name: resimind
+    url: https://github.com/1105216375-alt/resimind
+    summary: Neuro-symbolic agents with verified memory. MCP math tools, an algebra repair Skill, and an open challenge. Verify solut
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 104
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: 1186258278/OpenClawChineseTranslation
     kind: skill
     name: OpenClawChineseTranslation
@@ -609,6 +623,20 @@ entries:
       pushed_at: 2026-09-09
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: 2362094903-ops/study-assistant-skills
+    kind: skill
+    name: study-assistant-skills
+    url: https://github.com/2362094903-ops/study-assistant-skills
+    summary: AI 学习辅导 · Claude Code Skill 套件：根据上传的教材/课件按章节学习，适用于考研、期末、资格考试——思维导图 / 讲义 / 真题风格试卷 / 错题本 / 费曼检验 / 掌握度仪表盘，进度跨会话保存
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-08-08
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: 2389-research/claude-plugins
     kind: skill
     name: claude-plugins
@@ -2347,6 +2375,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: AirsupHQ/machine-skill
+    kind: skill
+    name: machine-skill
+    url: https://github.com/AirsupHQ/machine-skill
+    summary: Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML fil
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 176
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: Albertchamberlain/Awesome-OKF
     kind: skill
     name: Awesome-OKF
@@ -3934,6 +3976,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: BeckhamLabsLLC/kicad-jlcpcb
+    kind: skill
+    name: kicad-jlcpcb
+    url: https://github.com/BeckhamLabsLLC/kicad-jlcpcb
+    summary: Claude Code plugin that turns a PCB idea into a wired .kicad_pcb ready for EasyEDA auto-routing and one-click JLCPCB ord
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-01
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: BehiSecc/awesome-claude-skills
     kind: skill
     name: awesome-claude-skills
@@ -4731,6 +4787,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Cleveland-RD/hivehouse
+    kind: skill
+    name: hivehouse
+    url: https://github.com/Cleveland-RD/hivehouse
+    summary: "An agent hub for Claude Code: one hub runs teams of Claude Code agents across all your projects, with delegate mode, rev"
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 31
+      pushed_at: 2026-10-12
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: ClickHouse/agent-skills
     kind: skill
     name: agent-skills
@@ -5281,6 +5351,20 @@ entries:
       pushed_at: 2026-10-06
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: DAIR-AutoResearch/AutoSci
+    kind: skill
+    name: AutoSci
+    url: https://github.com/DAIR-AutoResearch/AutoSci
+    summary: Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 1701
+      pushed_at: 2026-10-02
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: DSY-Xueai/image2editable
     kind: skill
     name: image2editable
@@ -6165,6 +6249,20 @@ entries:
       pushed_at: 2026-10-01
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: EL4CTEO/roblox-skills
+    kind: skill
+    name: roblox-skills
+    url: https://github.com/EL4CTEO/roblox-skills
+    summary: Open source list of roblox skills for AI agents
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 26
+      pushed_at: 2026-09-28
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: EMI-Group/genesis
     kind: skill
     name: genesis
@@ -6667,6 +6765,20 @@ entries:
       pushed_at: 2026-09-29
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Fabian-Galvez/DensePack
+    kind: skill
+    name: DensePack
+    url: https://github.com/Fabian-Galvez/DensePack
+    summary: Packs text files into small images that an AI model reads for about half the input tokens. Includes a Claude Code plugin
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: FailproofAI/failproofai
     kind: skill
     name: failproofai
@@ -8548,6 +8660,20 @@ entries:
       pushed_at: 2026-08-06
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool
+    kind: skill
+    name: OpenAdKit-Open-Source-AI-Marketing-Tool
+    url: https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool
+    summary: Free open-source AI marketing tool and AI ad generator for Google Ads, Meta/Facebook, Instagram, TikTok, LinkedIn, YouTu
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-07-31
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: Iamshankhadeep/ccseva
     kind: skill
     name: ccseva
@@ -12241,6 +12367,20 @@ entries:
       pushed_at: 2026-10-04
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: MaxMiksa/Autonomous-Company
+    kind: skill
+    name: Autonomous-Company
+    url: https://github.com/MaxMiksa/Autonomous-Company
+    summary: An autonomous company working 24/7 on your own PC - Windows/Linux/macOS.
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 3128
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: Maxmedawar/tandem
     kind: skill
     name: tandem
@@ -16351,6 +16491,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Salesably/salesably-marketplace
+    kind: skill
+    name: salesably-marketplace
+    url: https://github.com/Salesably/salesably-marketplace
+    summary: Claude Code plugins for sales and marketing teams. Built by Salesably.ai.
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 52
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: Salmonbird/evoui-browser
     kind: skill
     name: evoui-browser
@@ -16666,6 +16820,20 @@ entries:
       pushed_at: 2026-09-10
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Seokwoooo/promptfilm
+    kind: skill
+    name: promptfilm
+    url: https://github.com/Seokwoooo/promptfilm
+    summary: One sentence in, a researched 3D motion graphic out — a Claude Code skill that makes looping real-time HTML films (Three
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-02
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: SepineTam/mcp-for-stata
     kind: skill
     name: mcp-for-stata
@@ -19054,6 +19222,20 @@ entries:
       since: 2026-08-27
       issue: null
       grace_until: null
+  - id: VisActor/skills
+    kind: skill
+    name: skills
+    url: https://github.com/VisActor/skills
+    summary: Agent skills for the VisActor visualization ecosystem.
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 471
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: VisionForge-OU/foreman
     kind: skill
     name: foreman
@@ -19870,6 +20052,20 @@ entries:
       pushed_at: 2026-08-28
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Xquik-dev/tweetclaw
+    kind: skill
+    name: tweetclaw
+    url: https://github.com/Xquik-dev/tweetclaw
+    summary: OpenClaw Twitter plugin & skill for tweet search, follower exports, monitoring & X actions. Not affiliated with X Corp.
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 94
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: Xquik-dev/x-twitter-scraper
     kind: skill
     name: x-twitter-scraper
@@ -19988,6 +20184,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: YeonwooSung/my-claude-code-mods
+    kind: skill
+    name: my-claude-code-mods
+    url: https://github.com/YeonwooSung/my-claude-code-mods
+    summary: Custom Claude Code Mods that I need
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 706
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: Yevanchen/reclaim-code-entropy
     kind: skill
     name: reclaim-code-entropy
@@ -21065,6 +21275,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: adewaskar/jarvis
+    kind: skill
+    name: jarvis
+    url: https://github.com/adewaskar/jarvis
+    summary: J.A.R.V.I.S for automating your daily tasks using Claude Code
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 481
+      pushed_at: 2026-08-05
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: adityaarsharma/youtube-marketing-skills
     kind: skill
     name: youtube-marketing-skills
@@ -24306,6 +24530,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: arla6ka/skills
+    kind: skill
+    name: skills
+    url: https://github.com/arla6ka/skills
+    summary: Agent skills for building a design system from your app and moving every screen onto it.
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 81
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: armelhbobdad/bmad-module-skill-forge
     kind: skill
     name: bmad-module-skill-forge
@@ -28312,6 +28550,20 @@ entries:
       since: 2026-08-27
       issue: null
       grace_until: null
+  - id: chrono-meta/forge-harness
+    kind: skill
+    name: forge-harness
+    url: https://github.com/chrono-meta/forge-harness
+    summary: "FH is a meta-harness for Claude Code: it helps you build harnesses and skills — the rules, gates and memory a project ne"
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 28
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: chubbyguan/chubbyskills
     kind: skill
     name: chubbyskills
@@ -30369,6 +30621,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: dagoSte/squadra
+    kind: skill
+    name: squadra
+    url: https://github.com/dagoSte/squadra
+    summary: "Coordinate a squad of Claude, Codex and Cursor windows: tasks, acknowledgements, bound proofs, independent review and a "
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 145
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: daha1216/dsh-adult-tension
     kind: skill
     name: dsh-adult-tension
@@ -31682,6 +31948,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: dewzor/claude-desktop-fedora
+    kind: skill
+    name: claude-desktop-fedora
+    url: https://github.com/dewzor/claude-desktop-fedora
+    summary: Claude Desktop for Fedora 44 — native RPM built from Anthropic's official Linux x86_64 build. Unmodified upstream payloa
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 156
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: dfkai/xtquantai
     kind: skill
     name: xtquantai
@@ -35518,6 +35798,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: gakonst/nanocode
+    kind: skill
+    name: nanocode
+    url: https://github.com/gakonst/nanocode
+    summary: SDK for Frontier Embedded Agents.
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 566
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: gakonst/nanocodex
     kind: skill
     name: nanocodex
@@ -45095,6 +45389,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: lemma-work/lemma-platform
+    kind: skill
+    name: lemma-platform
+    url: https://github.com/lemma-work/lemma-platform
+    summary: Multiplayer harness that shapes around your work. Agents, apps and workflows your team shares, used from Slack, Telegram
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 555
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: lemomo-ai/lemo-opuscar
     kind: skill
     name: lemo-opuscar
@@ -47822,6 +48130,20 @@ entries:
       pushed_at: 2026-07-31
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: matteotitta/repo-structure-in-house
+    kind: skill
+    name: repo-structure-in-house
+    url: https://github.com/matteotitta/repo-structure-in-house
+    summary: "The repo structure for in-house marketers: give Claude Code your company's context before it writes. Folder layout, 11 c"
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 63
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: mattgierhart/PRD-driven-context-engineering
     kind: skill
     name: PRD-driven-context-engineering
@@ -62335,6 +62657,20 @@ entries:
       pushed_at: 2026-10-03
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: talsiach/take-one
+    kind: skill
+    name: take-one
+    url: https://github.com/talsiach/take-one
+    summary: "Claude Code skill that makes launch videos, ads and music videos from one line: idea, script, visuals, voice, music, edi"
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 49
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: tamaratran/fast-jev-compaction
     kind: skill
     name: fast-jev-compaction
@@ -63108,6 +63444,20 @@ entries:
       pushed_at: 2026-10-12
       archived: false
       last_checked: 2026-10-12T00:00:00Z
+  - id: thedivergentai/Game-Dev-Agentic-Skills
+    kind: skill
+    name: Game-Dev-Agentic-Skills
+    url: https://github.com/thedivergentai/Game-Dev-Agentic-Skills
+    summary: Multi-engine long-term memory for game AI agents. Deep Godot 4.7+ (99 skills, 27 genre blueprints) + Bevy docs-first par
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 850
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: thedotmack/claude-mem
     kind: plugin
     name: claude-mem
@@ -64894,6 +65244,20 @@ entries:
       pushed_at: 2026-09-16
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: tzafrir/human-in-the-loop
+    kind: skill
+    name: human-in-the-loop
+    url: https://github.com/tzafrir/human-in-the-loop
+    summary: "A Claude Code mod: Claude assigns you the tasks only you can do. They wait in a pane until you answer, and your answer g"
+    tags: []
+    added: 2026-10-14
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-14T00:00:00Z
   - id: u14app/neo-chat
     kind: skill
     name: neo-chat
