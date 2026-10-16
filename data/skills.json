@@ -414,6 +414,23 @@
       }
     },
     {
+      "id": "1weiho/cinematic-shot",
+      "kind": "skill",
+      "name": "cinematic-shot",
+      "url": "https://github.com/1weiho/cinematic-shot",
+      "summary": "An agent skill for directing cinematic product launch films",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 90,
+        "pushed_at": "2026-10-14",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "20000419/fauxnix",
       "kind": "skill",
       "name": "fauxnix",
@@ -3784,6 +3801,23 @@
       }
     },
     {
+      "id": "Canary-ECAD/eplan-mcp",
+      "kind": "skill",
+      "name": "eplan-mcp",
+      "url": "https://github.com/Canary-ECAD/eplan-mcp",
+      "summary": "EPLAN Electric P8  + AI: MCP server. EPLAN scripting/API development.",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 116,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "Cap-go/capgo-skills",
       "kind": "skill",
       "name": "capgo-skills",
@@ -4996,6 +5030,23 @@
       }
     },
     {
+      "id": "DayuanJiang/next-ai-draw-io",
+      "kind": "skill",
+      "name": "next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "summary": "Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, ",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 36274,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "DeL-TaiseiOzaki/claude-code-orchestra",
       "kind": "skill",
       "name": "claude-code-orchestra",
@@ -5715,6 +5766,23 @@
         "pushed_at": "2026-10-01",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "EL4CTEO/blender-skills",
+      "kind": "skill",
+      "name": "blender-skills",
+      "url": "https://github.com/EL4CTEO/blender-skills",
+      "summary": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 43,
+        "pushed_at": "2026-10-15",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
       }
     },
     {
@@ -8700,6 +8768,23 @@
         "pushed_at": "2026-10-03",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Jakeschincariol/trader-skill",
+      "kind": "skill",
+      "name": "trader-skill",
+      "url": "https://github.com/Jakeschincariol/trader-skill",
+      "summary": "11 Claude skills that copy the investors you trust, watch the news and Congress, size every trade to your budget, and ne",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 32,
+        "pushed_at": "2026-10-14",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
       }
     },
     {
@@ -16418,6 +16503,23 @@
       }
     },
     {
+      "id": "ShadowSwaps/REA-Reconstruction-Companion",
+      "kind": "skill",
+      "name": "REA-Reconstruction-Companion",
+      "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion",
+      "summary": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 51,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "ShawhinT/non-coding-skills",
       "kind": "skill",
       "name": "non-coding-skills",
@@ -18311,6 +18413,23 @@
         "pushed_at": "2026-08-01",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Unknown-333/awesome-data-engineering-skills",
+      "kind": "skill",
+      "name": "awesome-data-engineering-skills",
+      "url": "https://github.com/Unknown-333/awesome-data-engineering-skills",
+      "summary": "36 data-engineering skills for AI coding agents — dbt, Airflow, Dagster, Prefect, Spark, Snowflake, BigQuery, Databricks",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-08-30",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
       }
     },
     {
@@ -21565,6 +21684,23 @@
       }
     },
     {
+      "id": "ai4curation/curation-skills",
+      "kind": "skill",
+      "name": "curation-skills",
+      "url": "https://github.com/ai4curation/curation-skills",
+      "summary": "Claude skills for a variety of curation and knowledge-based tasks. We currently have 3 skills included, but intend to gr",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-09-20",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "ai4s-research/ai4s-skills",
       "kind": "skill",
       "name": "ai4s-skills",
@@ -23674,6 +23810,23 @@
       }
     },
     {
+      "id": "aph199686/zhangyi-studio",
+      "kind": "skill",
+      "name": "zhangyi-studio",
+      "url": "https://github.com/aph199686/zhangyi-studio",
+      "summary": "「张翼 · 游戏设计陪练 skill 与本地工作台」",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 99,
+        "pushed_at": "2026-10-01",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "apify/agent-skills",
       "kind": "skill",
       "name": "agent-skills",
@@ -24130,6 +24283,23 @@
         "pushed_at": "2026-10-05",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "artouc/stop-describing-ui",
+      "kind": "skill",
+      "name": "stop-describing-ui",
+      "url": "https://github.com/artouc/stop-describing-ui",
+      "summary": "An agent skill that strips explanatory copy out of user interfaces.",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 81,
+        "pushed_at": "2026-10-11",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
       }
     },
     {
@@ -29734,6 +29904,23 @@
         "pushed_at": "2026-08-18",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "d2r-mobile/d2r-mobile",
+      "kind": "skill",
+      "name": "d2r-mobile",
+      "url": "https://github.com/d2r-mobile/d2r-mobile",
+      "summary": "Diablo II: Resurrected on iPhone, iPad & Apple silicon Mac. Play offline with touch or a controller, one-tap Runewords a",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 98,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
       }
     },
     {
@@ -37122,6 +37309,23 @@
       }
     },
     {
+      "id": "hanzohanzhe/Grandet",
+      "kind": "skill",
+      "name": "Grandet",
+      "url": "https://github.com/hanzohanzhe/Grandet",
+      "summary": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 151,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "haoming-luo/agentfem",
       "kind": "skill",
       "name": "agentfem",
@@ -41341,6 +41545,23 @@
       }
     },
     {
+      "id": "jiujiastudy/jiujiastudy",
+      "kind": "skill",
+      "name": "jiujiastudy",
+      "url": "https://github.com/jiujiastudy/jiujiastudy",
+      "summary": "救驾（救驾study / jiujia study）：给留学生的 Canvas / Moodle 学习手帐——盯 deadline、排本周该学什么、按状态给建议。Agent Skill，在 Claude Code、Codex 里说「帮我从 ",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 29,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "jiweiyeah/Skills-Manager",
       "kind": "skill",
       "name": "Skills-Manager",
@@ -42528,6 +42749,23 @@
       }
     },
     {
+      "id": "kajisho5/ffmpeg-skill",
+      "kind": "skill",
+      "name": "ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "summary": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Cod",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 1971,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "kamranbekirovyz/skills",
       "kind": "skill",
       "name": "skills",
@@ -42678,6 +42916,23 @@
         "pushed_at": "2026-09-13",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "kaomei/stickman-video-director",
+      "kind": "skill",
+      "name": "stickman-video-director",
+      "url": "https://github.com/kaomei/stickman-video-director",
+      "summary": "AI stickman animation style library & video prompts.｜火柴人动画画风大全：输入话题，生成脚本、动态分镜及配音音效提示词。",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 2173,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
       }
     },
     {
@@ -43537,6 +43792,23 @@
         "pushed_at": "2026-09-04",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "klsoen/opus-js-animations",
+      "kind": "skill",
+      "name": "opus-js-animations",
+      "url": "https://github.com/klsoen/opus-js-animations",
+      "summary": "Claude Opus 5.5 directs and renders films in JavaScript: brief → sound (file, YouTube, generated, or AI voiceover) → dir",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-03",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
       }
     },
     {
@@ -55013,6 +55285,23 @@
       }
     },
     {
+      "id": "pullboard-dev/pullboard",
+      "kind": "skill",
+      "name": "pullboard",
+      "url": "https://github.com/pullboard-dev/pullboard",
+      "summary": "Autonomous development for real products. Governed agents build from specs you approve, follow the rules you set, and no",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 192,
+        "pushed_at": "2026-10-16",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
+      }
+    },
+    {
       "id": "pulumi/agent-skills",
       "kind": "skill",
       "name": "agent-skills",
@@ -64929,6 +65218,23 @@
         "pushed_at": "2026-09-10",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "udaysharmadev/Gravitas",
+      "kind": "skill",
+      "name": "Gravitas",
+      "url": "https://github.com/udaysharmadev/Gravitas",
+      "summary": "Make Gemini code like Claude Models. Forces it to inspect files before editing, plan changes, test its work, and back up",
+      "tags": [],
+      "added": "2026-10-16",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 190,
+        "pushed_at": "2026-10-15",
+        "archived": false,
+        "last_checked": "2026-10-16T00:00:00Z"
       }
     },
     {
