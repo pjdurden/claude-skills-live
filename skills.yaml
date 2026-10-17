@@ -693,6 +693,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: 23jmo/jmo-skills
+    kind: skill
+    name: jmo-skills
+    url: https://github.com/23jmo/jmo-skills
+    summary: The agent skills from my hackathon workflow
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 86
+      pushed_at: 2026-10-10
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: 24kchengYe/MemoMind
     kind: skill
     name: MemoMind
@@ -4394,6 +4408,20 @@ entries:
       pushed_at: 2026-07-24
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Calibre-Labs/reforge-ai-evals
+    kind: skill
+    name: reforge-ai-evals
+    url: https://github.com/Calibre-Labs/reforge-ai-evals
+    summary: "Open-source AI evals toolkit: skills that guide AI coding agents to write eval rubrics, eval datasets (User Input Grid),"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 75
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: Calix-L/awesome-latex-skills
     kind: skill
     name: awesome-latex-skills
@@ -6263,6 +6291,20 @@ entries:
       pushed_at: 2026-10-04
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Draculabo/AntigravityManager
+    kind: skill
+    name: AntigravityManager
+    url: https://github.com/Draculabo/AntigravityManager
+    summary: Antigravity Manager is a desktop application for managing the Google accounts used by Antigravity clients (including Cla
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 2387
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: Drjacky/claude-android-ninja
     kind: skill
     name: claude-android-ninja
@@ -7646,6 +7688,20 @@ entries:
       pushed_at: 2026-08-28
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Garyson26/Trident-SecOps-Skills
+    kind: skill
+    name: Trident-SecOps-Skills
+    url: https://github.com/Garyson26/Trident-SecOps-Skills
+    summary: A curated collection of AI SecOps 24 SKILL.md capabilities for security work offensive security, SOC and detection engin
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 26
+      pushed_at: 2026-09-30
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: Gaurav-Gosain/tuios
     kind: skill
     name: tuios
@@ -8801,6 +8857,20 @@ entries:
       pushed_at: 2026-09-22
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Ikalus1988/MisakaNet
+    kind: skill
+    name: MisakaNet
+    url: https://github.com/Ikalus1988/MisakaNet
+    summary: 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debuggin
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 527
+      pushed_at: 2026-10-17
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: Illyism/seo-skills
     kind: skill
     name: seo-skills
@@ -9335,6 +9405,20 @@ entries:
       pushed_at: 2026-10-14
       archived: false
       last_checked: 2026-10-16T00:00:00Z
+  - id: Jakeschincariol/x-agent-skill
+    kind: skill
+    name: x-agent-skill
+    url: https://github.com/Jakeschincariol/x-agent-skill
+    summary: "Eleven free Claude skills that run an X account, with a virality engine behind every idea: posts off 21 hook formulas, t"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-09-29
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: Jakeschincariol/youtube-agent-skill
     kind: skill
     name: youtube-agent-skill
@@ -12479,6 +12563,20 @@ entries:
       pushed_at: 2026-08-12
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: MaySudo/Misceo
+    kind: skill
+    name: Misceo
+    url: https://github.com/MaySudo/Misceo
+    summary: Local Anthropic-compatible AI gateway with cheap-first routing, quality gates, safe model handoffs, and an embedded cost
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 565
+      pushed_at: 2026-08-03
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: MedAdemBHA/docflow
     kind: skill
     name: docflow
@@ -12733,6 +12831,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Mikefluff/skills
+    kind: skill
+    name: skills
+    url: https://github.com/Mikefluff/skills
+    summary: 43 Claude Code skills for making content that doesn't read like a machine made it — prose editing with an offline linter
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: Milktang0128/myskills
     kind: skill
     name: myskills
@@ -14401,6 +14513,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: OpenMinis/iCTRL
+    kind: skill
+    name: iCTRL
+    url: https://github.com/OpenMinis/iCTRL
+    summary: "An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: agents like Codex, Cl"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 492
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: OpenPetsHQ/openpets
     kind: skill
     name: openpets
@@ -16215,6 +16341,20 @@ entries:
       pushed_at: 2026-09-12
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Rishurajgautam24/free-claude-code
+    kind: skill
+    name: free-claude-code
+    url: https://github.com/Rishurajgautam24/free-claude-code
+    summary: Use Claude Code for free in the terminal, VSCode extension, or via Discord
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 935
+      pushed_at: 2026-10-17
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: RiskAverseTech/toolgate
     kind: skill
     name: toolgate
@@ -23035,6 +23175,20 @@ entries:
       since: 2026-09-11
       issue: null
       grace_until: null
+  - id: alexyc9381/court-skill
+    kind: skill
+    name: court-skill
+    url: https://github.com/alexyc9381/court-skill
+    summary: Put your idea on trial in front of a jury of 12 Claudes. A free Claude Code skill.
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 26
+      pushed_at: 2026-10-04
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: alfadur7/llm-wiki-newsroom
     kind: skill
     name: llm-wiki-newsroom
@@ -24324,6 +24478,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: antongulin/opencode-skill-creator
+    kind: skill
+    name: opencode-skill-creator
+    url: https://github.com/antongulin/opencode-skill-creator
+    summary: Create, test, and optimize OpenCode skills. Supports OpenCode V2 and V1 ≥ 1.18.29. Adapted from Anthropic's skill-creato
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 174
+      pushed_at: 2026-10-17
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: antonio-clicktoclose/hormozi-claude-code-brain
     kind: skill
     name: hormozi-claude-code-brain
@@ -24735,6 +24903,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: arcmira/mcp
+    kind: skill
+    name: mcp
+    url: https://github.com/arcmira/mcp
+    summary: YouTube transcript search for your AI. Find who said what with timestamps, mentions, sponsors, and recommendations. Remo
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 84
+      pushed_at: 2026-10-15
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: ardeyouxipianyi/workbuddy2api-hub
     kind: skill
     name: workbuddy2api-hub
@@ -24782,6 +24964,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: arla6ka/design.how
+    kind: skill
+    name: design.how
+    url: https://github.com/arla6ka/design.how
+    summary: "Agent skills and design systems from design.how. Build a design system from your app, use agents to ship UI, enforce it "
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 124
+      pushed_at: 2026-10-17
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: arla6ka/skills
     kind: skill
     name: skills
@@ -28872,6 +29068,20 @@ entries:
       since: 2026-08-27
       issue: null
       grace_until: null
+  - id: christos-antono/NPCTalk
+    kind: skill
+    name: NPCTalk
+    url: https://github.com/christos-antono/NPCTalk
+    summary: "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, w"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 101
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: chrono-meta/forge-harness
     kind: skill
     name: forge-harness
@@ -31778,6 +31988,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: davisjam/model-based-agentic-software-engineering
+    kind: skill
+    name: model-based-agentic-software-engineering
+    url: https://github.com/davisjam/model-based-agentic-software-engineering
+    summary: "Book, website, and skills for MAGE: the Model-Based Agentic Software Engineering framework"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: daydreamsai/skills-market
     kind: skill
     name: skills-market
@@ -33419,6 +33643,20 @@ entries:
       pushed_at: 2026-09-29
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: dvwinck/capybara-toolbox
+    kind: skill
+    name: capybara-toolbox
+    url: https://github.com/dvwinck/capybara-toolbox
+    summary: "Capybara Toolbox: calm, capable skills and plugins for Claude Code. First plugin: ar-board, a local approve/reject board"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 30
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: dwgx/WindsurfAPI
     kind: skill
     name: WindsurfAPI
@@ -40173,6 +40411,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: iFurySt/open-computer-use
+    kind: skill
+    name: open-computer-use
+    url: https://github.com/iFurySt/open-computer-use
+    summary: 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 2460
+      pushed_at: 2026-10-17
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: iKora128/stop-ai-slop-jp
     kind: skill
     name: stop-ai-slop-jp
@@ -44856,6 +45108,20 @@ entries:
       pushed_at: 2026-08-04
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: koronto11/ludo-npc-ai
+    kind: skill
+    name: ludo-npc-ai
+    url: https://github.com/koronto11/ludo-npc-ai
+    summary: A visual workspace for game narratives and NPCs. Build worlds, arrange scenes and characters, edit branching dialogue, r
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 98
+      pushed_at: 2026-10-11
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: kortix-ai/agent-computer-use
     kind: skill
     name: agent-computer-use
@@ -48648,6 +48914,20 @@ entries:
       pushed_at: 2026-08-31
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: mattpocock/harness-claude-code-usage-repro
+    kind: skill
+    name: harness-claude-code-usage-repro
+    url: https://github.com/mattpocock/harness-claude-code-usage-repro
+    summary: "Repro: @ai-sdk/harness-claude-code finish-step reports the whole turn's cumulative usage on the last step, not that step"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 31
+      pushed_at: 2026-08-19
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: mattprusak/autoresearch-genealogy
     kind: skill
     name: autoresearch-genealogy
@@ -49577,6 +49857,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: midudev/better-claude
+    kind: skill
+    name: better-claude
+    url: https://github.com/midudev/better-claude
+    summary: Small plugins and mods that make your life (and Claude Code) better
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 65
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: migsilva89/loadout
     kind: skill
     name: loadout
@@ -50071,6 +50365,20 @@ entries:
       since: 2026-08-27
       issue: null
       grace_until: null
+  - id: mistok-wiki/chytalnia
+    kind: skill
+    name: chytalnia
+    url: https://github.com/mistok-wiki/chytalnia
+    summary: "Скіли, методики й сирі матеріали архівного пошуку по українських селах. Напрацьовано для «Містка», викладено для всіх / "
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: mitensampat/alfred
     kind: skill
     name: alfred
@@ -50679,6 +50987,20 @@ entries:
       pushed_at: 2026-10-09
       archived: false
       last_checked: 2026-10-12T00:00:00Z
+  - id: morluto/generate-social-preview
+    kind: skill
+    name: generate-social-preview
+    url: https://github.com/morluto/generate-social-preview
+    summary: Agent skill for repository-aware social preview images, visual directions, and GitHub-ready exports.
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-10-15
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: morluto/rea
     kind: skill
     name: rea
@@ -50782,6 +51104,20 @@ entries:
       pushed_at: 2026-07-20
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: mrlong0129/yominpost
+    kind: skill
+    name: yominpost
+    url: https://github.com/mrlong0129/yominpost
+    summary: "Self-hosted AI social media studio: one piece of material in, platform-native posts out. Format router, self-critique, p"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 86
+      pushed_at: 2026-10-05
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: mrpulor-gh/nuphus
     kind: skill
     name: nuphus
@@ -52648,6 +52984,20 @@ entries:
       pushed_at: 2026-10-01
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: nutllwhy/code-brand-film
+    kind: skill
+    name: code-brand-film
+    url: https://github.com/nutllwhy/code-brand-film
+    summary: 用代码生成 15 秒品牌宣传片的 Agent Skill（HyperFrames + GSAP + Python 合成配乐）
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 86
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: nuwa-skills/awesome-nuwa
     kind: skill
     name: awesome-nuwa
@@ -53909,6 +54259,20 @@ entries:
       pushed_at: 2026-09-20
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: openfilm/openfilm
+    kind: skill
+    name: openfilm
+    url: https://github.com/openfilm/openfilm
+    summary: "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes."
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 697
+      pushed_at: 2026-10-17
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: openflowkit/openflowkit
     kind: skill
     name: openflowkit
@@ -55369,6 +55733,20 @@ entries:
       pushed_at: 2026-10-03
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: piomin/claude-ai-spring-boot
+    kind: skill
+    name: claude-ai-spring-boot
+    url: https://github.com/piomin/claude-ai-spring-boot
+    summary: Claude Code template for Spring Boot and other staff (included in the tags)
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 1369
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: pipeshub-ai/pipeshub-ai
     kind: skill
     name: pipeshub-ai
@@ -59517,6 +59895,20 @@ entries:
       pushed_at: 2026-08-24
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: seo-skills/geo-audit-skill
+    kind: skill
+    name: geo-audit-skill
+    url: https://github.com/seo-skills/geo-audit-skill
+    summary: "Deterministic GEO audits for AI search: a Python CLI and Claude Code skills that score how well AI engines can read, quo"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-09-29
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: seo-skills/seo-audit-skill
     kind: skill
     name: seo-audit-skill
@@ -60750,6 +61142,20 @@ entries:
       pushed_at: 2026-09-30
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: skateddu/claude-code-python-setup
+    kind: skill
+    name: claude-code-python-setup
+    url: https://github.com/skateddu/claude-code-python-setup
+    summary: "Ready-to-use .claude configuration for Python projects: agents, skills, commands, rules, and MCP server templates for Cl"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 28
+      pushed_at: 2026-10-15
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: skibidiskib/ai-codex
     kind: skill
     name: ai-codex
@@ -66417,6 +66823,20 @@ entries:
       pushed_at: 2026-10-01
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: varun1505/awesome-software-factories
+    kind: skill
+    name: awesome-software-factories
+    url: https://github.com/varun1505/awesome-software-factories
+    summary: "A curated list of software factories, agent factories, and dark factories: systems that run AI coding agents autonomousl"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-15
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: vasilyu1983/AI-Agents-public
     kind: skill
     name: AI-Agents-public
@@ -68140,6 +68560,20 @@ entries:
       pushed_at: 2026-10-06
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: witnesstodark/mr-mak-workspace
+    kind: skill
+    name: mr-mak-workspace
+    url: https://github.com/witnesstodark/mr-mak-workspace
+    summary: A local desktop workspace for Codex and Claude Code, with project reports, creative skills and optional voice.
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 488
+      pushed_at: 2026-10-14
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: wiz-sec-public/SITF
     kind: skill
     name: SITF
@@ -70818,6 +71252,20 @@ entries:
       since: 2026-09-20
       issue: null
       grace_until: null
+  - id: zgcagi/Harness-RSI
+    kind: skill
+    name: Harness-RSI
+    url: https://github.com/zgcagi/Harness-RSI
+    summary: "Harness self-evolution: update targets, theory, evaluation, and reported evidence. Bilingual reading list and project we"
+    tags: []
+    added: 2026-10-17
+    source: discovery
+    status: active
+    metrics:
+      stars: 153
+      pushed_at: 2026-10-17
+      archived: false
+      last_checked: 2026-10-17T00:00:00Z
   - id: zhangchitc/claude_code
     kind: skill
     name: claude_code
