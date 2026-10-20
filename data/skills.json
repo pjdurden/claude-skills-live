@@ -1827,6 +1827,23 @@
       }
     },
     {
+      "id": "AgriciDaniel/chatgpt-seo",
+      "kind": "skill",
+      "name": "chatgpt-seo",
+      "url": "https://github.com/AgriciDaniel/chatgpt-seo",
+      "summary": "Turn a page, draft, or SEO export into a sourced fix plan inside ChatGPT.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 839,
+        "pushed_at": "2026-10-19",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "AgriciDaniel/claude-ads",
       "kind": "skill",
       "name": "claude-ads",
@@ -2616,6 +2633,23 @@
       }
     },
     {
+      "id": "Ansub/tv-detox",
+      "kind": "skill",
+      "name": "tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 718,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "AntigmaLabs/ante",
       "kind": "skill",
       "name": "ante",
@@ -3267,6 +3301,23 @@
         "pushed_at": "2026-10-07",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "AyeJK/phase-runner",
+      "kind": "skill",
+      "name": "phase-runner",
+      "url": "https://github.com/AyeJK/phase-runner",
+      "summary": "Your whole product team, not just a coding agent. Plan → design → build → QA, with you as the PM who signs off.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-18",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -6502,6 +6553,23 @@
       }
     },
     {
+      "id": "Fangx-AI/geo-doctor",
+      "kind": "skill",
+      "name": "geo-doctor",
+      "url": "https://github.com/Fangx-AI/geo-doctor",
+      "summary": "GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 104,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "Farenhytee/database-sentinel",
       "kind": "skill",
       "name": "database-sentinel",
@@ -9354,6 +9422,23 @@
       }
     },
     {
+      "id": "Jesseovo/PaperCash",
+      "kind": "skill",
+      "name": "PaperCash",
+      "url": "https://github.com/Jesseovo/PaperCash",
+      "summary": "你的论文研究好帮手。发现与收藏真实论文，整理文献、引用和写作思路；一句话交给 Agent，继续深入研究。",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 159,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "Jesseovo/last30days-skill-cn",
       "kind": "skill",
       "name": "last30days-skill-cn",
@@ -10886,6 +10971,23 @@
         "pushed_at": "2026-09-25",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "LLM-Coding/Semantic-Anchors",
+      "kind": "skill",
+      "name": "Semantic-Anchors",
+      "url": "https://github.com/LLM-Coding/Semantic-Anchors",
+      "summary": "A curated catalog of 230+ semantic anchors: well-defined terms like arc42, TDD London School or tracer bullet that activ",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 507,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -13021,6 +13123,23 @@
         "pushed_at": "2026-09-15",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "Myeongseok-Kang/claude-bulkhead",
+      "kind": "skill",
+      "name": "claude-bulkhead",
+      "url": "https://github.com/Myeongseok-Kang/claude-bulkhead",
+      "summary": "Keeps parallel Claude Code sessions from killing each other's servers, fighting over ports, freezing the machine, or swi",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 29,
+        "pushed_at": "2026-10-14",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -17883,6 +18002,23 @@
         "pushed_at": "2026-08-26",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "SwotAtmk/infinite-creation",
+      "kind": "skill",
+      "name": "infinite-creation",
+      "url": "https://github.com/SwotAtmk/infinite-creation",
+      "summary": "infinite-creation 是一个通过提交小说/剧本，本地ComfyUI-MiniMaxH3+Agent+Skill技能全自动无限生产视频，不限时长。",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 93,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -23061,6 +23197,23 @@
       }
     },
     {
+      "id": "alextnetto/res",
+      "kind": "skill",
+      "name": "res",
+      "url": "https://github.com/alextnetto/res",
+      "summary": "Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rul",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 103,
+        "pushed_at": "2026-10-17",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "alexyc9381/court-skill",
       "kind": "skill",
       "name": "court-skill",
@@ -26701,6 +26854,23 @@
         "pushed_at": "2026-10-07",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "better-isms/grcskills",
+      "kind": "skill",
+      "name": "grcskills",
+      "url": "https://github.com/better-isms/grcskills",
+      "summary": "Open GRC skills for AI agents. By ISMS Copilot.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 28,
+        "pushed_at": "2026-10-19",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -31012,6 +31182,23 @@
       }
     },
     {
+      "id": "daoyi2026/vibe-coding-zero-to-ship",
+      "kind": "skill",
+      "name": "vibe-coding-zero-to-ship",
+      "url": "https://github.com/daoyi2026/vibe-coding-zero-to-ship",
+      "summary": "A beginner foundation skill for AI coding agents — from product idea, data and Git to security, deployment and launch.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 101,
+        "pushed_at": "2026-10-12",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "darcyegb/ClaudeCodeAgents",
       "kind": "skill",
       "name": "ClaudeCodeAgents",
@@ -34221,6 +34408,23 @@
         "pushed_at": "2026-10-08",
         "archived": false,
         "last_checked": "2026-10-08T00:00:00Z"
+      }
+    },
+    {
+      "id": "escoffier-labs/brigade",
+      "kind": "skill",
+      "name": "brigade",
+      "url": "https://github.com/escoffier-labs/brigade",
+      "summary": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 78,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -38952,6 +39156,23 @@
       }
     },
     {
+      "id": "heygen-com/hyperframes",
+      "kind": "skill",
+      "name": "hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "summary": "Write HTML. Render video. Built for agents.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 68034,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "heygen-com/hyperframes-community-skills",
       "kind": "skill",
       "name": "hyperframes-community-skills",
@@ -39294,6 +39515,23 @@
         "pushed_at": "2026-08-20",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "homarr-labs/dashboard-icons",
+      "kind": "skill",
+      "name": "dashboard-icons",
+      "url": "https://github.com/homarr-labs/dashboard-icons",
+      "summary": "3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Cla",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 8889,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -44305,6 +44543,23 @@
       }
     },
     {
+      "id": "kevinbadi/claude-codes-influencers",
+      "kind": "skill",
+      "name": "claude-codes-influencers",
+      "url": "https://github.com/kevinbadi/claude-codes-influencers",
+      "summary": "Build a talking mascot that turns any script into a lip-synced vertical video. Fork, add your mascot's art + a voice, po",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 31,
+        "pushed_at": "2026-10-14",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "kevinbadi/open-edits",
       "kind": "skill",
       "name": "open-edits",
@@ -48702,6 +48957,23 @@
       }
     },
     {
+      "id": "marvkr/better-design",
+      "kind": "skill",
+      "name": "better-design",
+      "url": "https://github.com/marvkr/better-design",
+      "summary": "🎨 Open-source design MCP server + shadcn/ui registry — AI design systems for Claude Code, Cursor, Codex, GitHub Copilot",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 499,
+        "pushed_at": "2026-09-22",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "massimodeluisa/recursive-decomposition-skill",
       "kind": "skill",
       "name": "recursive-decomposition-skill",
@@ -50699,6 +50971,23 @@
         "pushed_at": "2026-07-16",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "mmr710/nightmux",
+      "kind": "skill",
+      "name": "nightmux",
+      "url": "https://github.com/mmr710/nightmux",
+      "summary": "Your AI coding agents keep working while you sleep: drive Claude Code, Codex, Gemini, opencode & more from your phone; a",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-19",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -53079,6 +53368,23 @@
         "pushed_at": "2026-10-03",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "novoads/agent-skills",
+      "kind": "skill",
+      "name": "agent-skills",
+      "url": "https://github.com/novoads/agent-skills",
+      "summary": "AI video and image ads for marketers, built in Claude Code or Cursor and priced by a live estimate first.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-17",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -56044,6 +56350,23 @@
       }
     },
     {
+      "id": "pmwl0128/quark_drive_skills",
+      "kind": "skill",
+      "name": "quark_drive_skills",
+      "url": "https://github.com/pmwl0128/quark_drive_skills",
+      "summary": "Quark Drive Skills: Pokemon Champions Agent Skills for dex and metagame facts, exact battle calculations, and audited te",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 117,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "poco-ai/poco-claw",
       "kind": "skill",
       "name": "poco-claw",
@@ -56075,6 +56398,23 @@
         "pushed_at": "2026-10-05",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "polar-bear-org/claude-skills",
+      "kind": "skill",
+      "name": "claude-skills",
+      "url": "https://github.com/polar-bear-org/claude-skills",
+      "summary": "Claude Skills Marketplace: 51 free skill packs, 1178 Claude Skills (Agent Skills) for Claude Code and Claude.ai. HR, man",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-11",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -56662,6 +57002,23 @@
       }
     },
     {
+      "id": "purple-sunset-now/kitty-has-a-job",
+      "kind": "skill",
+      "name": "kitty-has-a-job",
+      "url": "https://github.com/purple-sunset-now/kitty-has-a-job",
+      "summary": "Claude skill that automates your job search: scores postings, tailors your CV, tracks applications.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 37,
+        "pushed_at": "2026-10-19",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "pyang5166/gbro-collage-broll",
       "kind": "skill",
       "name": "gbro-collage-broll",
@@ -57161,6 +57518,23 @@
         "pushed_at": "2026-10-07",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "ramyatrouny/ifrs-skill",
+      "kind": "skill",
+      "name": "ifrs-skill",
+      "url": "https://github.com/ramyatrouny/ifrs-skill",
+      "summary": "IFRS accounting knowledge skill for AI coding agents — Claude Code, Codex, Cursor. Every IFRS and IAS standard, paragrap",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-08-29",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -57730,6 +58104,23 @@
         "pushed_at": "2026-10-06",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "renzrollon/interlock",
+      "kind": "skill",
+      "name": "interlock",
+      "url": "https://github.com/renzrollon/interlock",
+      "summary": "Spec-driven development for Claude Code, layered on OpenSpec. You read one spec; parallel agents ship it to a tested com",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 29,
+        "pushed_at": "2026-10-19",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -60665,6 +61056,23 @@
       }
     },
     {
+      "id": "shalintripathi/saas-marketing-agents",
+      "kind": "skill",
+      "name": "saas-marketing-agents",
+      "url": "https://github.com/shalintripathi/saas-marketing-agents",
+      "summary": "AI marketing agents for Claude Code - B2B SaaS: 90 agents, 19 skills - SEO/AEO/GEO, content ops, paid media, social list",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "shamspias/reins",
       "kind": "skill",
       "name": "reins",
@@ -61082,6 +61490,23 @@
         "pushed_at": "2026-08-26",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "simbasjungles/free-my-tv",
+      "kind": "skill",
+      "name": "free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 840,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -65551,6 +65976,23 @@
       }
     },
     {
+      "id": "tomtomsatnav/agent-orchestration-standard",
+      "kind": "skill",
+      "name": "agent-orchestration-standard",
+      "url": "https://github.com/tomtomsatnav/agent-orchestration-standard",
+      "summary": "A live, local-first dashboard for Claude Code sessions: project graph of agents, tokens, tool feed, replay, alerts. Plug",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 54,
+        "pushed_at": "2026-10-19",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
+      }
+    },
+    {
       "id": "tonkotsuboy/github-upload-image-to-pr",
       "kind": "skill",
       "name": "github-upload-image-to-pr",
@@ -66440,6 +66882,23 @@
         "pushed_at": "2026-09-04",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "twostraws/SwiftData-Agent-Skill",
+      "kind": "skill",
+      "name": "SwiftData-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftData-Agent-Skill",
+      "summary": "SwiftData agent skill for Claude Code, Codex, and other AI tools.",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 452,
+        "pushed_at": "2026-10-19",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
@@ -69718,6 +70177,23 @@
         "pushed_at": "2026-10-07",
         "archived": false,
         "last_checked": "2026-10-08T11:11:33Z"
+      }
+    },
+    {
+      "id": "xerj-org/xerj",
+      "kind": "skill",
+      "name": "xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "summary": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for",
+      "tags": [],
+      "added": "2026-10-20",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 10843,
+        "pushed_at": "2026-10-20",
+        "archived": false,
+        "last_checked": "2026-10-20T00:00:00Z"
       }
     },
     {
