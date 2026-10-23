@@ -1318,6 +1318,20 @@ entries:
       since: 2026-09-01
       issue: null
       grace_until: null
+  - id: AIPMAndy/awesome-openclaw-skills-CN
+    kind: skill
+    name: awesome-openclaw-skills-CN
+    url: https://github.com/AIPMAndy/awesome-openclaw-skills-CN
+    summary: OpenClaw Skills 中文精选：2868 个社区 Skills 分类整理，含国产模型接入指南（DeepSeek/Qwen/GLM/Moonshot）｜Awesome OpenClaw skills in Chinese
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 127
+      pushed_at: 2026-10-22
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: AIPexStudio/AIPex
     kind: skill
     name: AIPex
@@ -4243,6 +4257,20 @@ entries:
       pushed_at: 2026-10-19
       archived: false
       last_checked: 2026-10-19T00:00:00Z
+  - id: BintzGavin/helios
+    kind: skill
+    name: helios
+    url: https://github.com/BintzGavin/helios
+    summary: Programmatic video creation with web technologies you already know. CSS animations just work.
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 123
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: BioTender-max/awesome-bio-agent-skills
     kind: skill
     name: awesome-bio-agent-skills
@@ -4421,6 +4449,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: BrianHuang813/clawd-actor
+    kind: skill
+    name: clawd-actor
+    url: https://github.com/BrianHuang813/clawd-actor
+    summary: "Claude Code mod: Clawd acts out what Claude is doing, above the prompt"
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: BrownFineSecurity/iothackbot
     kind: skill
     name: iothackbot
@@ -4838,6 +4880,20 @@ entries:
       pushed_at: 2026-10-04
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Charlie0113-T/claude-agent-flow
+    kind: skill
+    name: claude-agent-flow
+    url: https://github.com/Charlie0113-T/claude-agent-flow
+    summary: "agent-flow: a live tree of the session's subagents beside the transcript, as a Claude Code mod (/flow)"
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-09
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: Chat2AnyLLM/awesome-claude-skills
     kind: skill
     name: awesome-claude-skills
@@ -5912,6 +5968,20 @@ entries:
       since: 2026-08-27
       issue: null
       grace_until: null
+  - id: Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer
+    kind: skill
+    name: call-of-duty-modern-warfare-resocket-4-fps-optimizer
+    url: https://github.com/Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer
+    summary: "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process managem"
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 29
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: DenisSergeevitch/agents-best-practices
     kind: skill
     name: agents-best-practices
@@ -6008,6 +6078,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: DevCop95/cyhber-deploy
+    kind: skill
+    name: cyhber-deploy
+    url: https://github.com/DevCop95/cyhber-deploy
+    summary: Security Skill ( Claude , Codex , Gemini )
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-21
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: DevExpress/agent-skills
     kind: skill
     name: agent-skills
@@ -12804,6 +12888,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: Marvae/douban-cli
+    kind: skill
+    name: douban-cli
+    url: https://github.com/Marvae/douban-cli
+    summary: 豆瓣命令行工具 + AI Agent Skill：查电影、剧集、图书和 Top250，导出备份豆瓣观影/读书记录，让 AI 放心地标记评分 | Douban CLI for movies, books & your ratings
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 109
+      pushed_at: 2026-10-20
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: MaryCache/imozuru
     kind: skill
     name: imozuru
@@ -13807,6 +13905,20 @@ entries:
       pushed_at: 2026-08-20
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: NPC-Worldwide/npcsh
+    kind: skill
+    name: npcsh
+    url: https://github.com/NPC-Worldwide/npcsh
+    summary: the composable multi-agent shell
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 495
+      pushed_at: 2026-10-21
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: NVIDIA-AI-IOT/DeepStream_Coding_Agent
     kind: skill
     name: DeepStream_Coding_Agent
@@ -15396,6 +15508,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: OutSystems/outsystems11-mcp
+    kind: skill
+    name: outsystems11-mcp
+    url: https://github.com/OutSystems/outsystems11-mcp
+    summary: Skills that let Claude Code, GitHub Copilot, Cursor, Kiro and other coding agents work with OutSystems 11 apps via the S
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: OutlineDriven/odin-claude-plugin
     kind: skill
     name: odin-claude-plugin
@@ -19910,6 +20036,20 @@ entries:
       pushed_at: 2026-07-26
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: ValhallaHelheim/pc-game-performance-analyzer-resp-skill
+    kind: skill
+    name: pc-game-performance-analyzer-resp-skill
+    url: https://github.com/ValhallaHelheim/pc-game-performance-analyzer-resp-skill
+    summary: Claude skill that checks if your PC or laptop can run a game, rates your hardware, finds bottlenecks, and gives the best
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 29
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: VanGong1999/screen-creative-skills
     kind: skill
     name: screen-creative-skills
@@ -22104,6 +22244,34 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: actionow-ai/c2c_img
+    kind: skill
+    name: c2c_img
+    url: https://github.com/actionow-ai/c2c_img
+    summary: Native-feeling image generation for Claude Code, powered by your local Codex (ChatGPT) image_gen. No API key needed.
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 40
+      pushed_at: 2026-09-30
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
+  - id: actionow-ai/vvv
+    kind: skill
+    name: vvv
+    url: https://github.com/actionow-ai/vvv
+    summary: Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Co
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 183
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: activeing123/mcptoon
     kind: skill
     name: mcptoon
@@ -25584,6 +25752,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: appariciojunior/video-editor-skills
+    kind: skill
+    name: video-editor-skills
+    url: https://github.com/appariciojunior/video-editor-skills
+    summary: "Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, "
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 28
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: appautomaton/agent-designer
     kind: skill
     name: agent-designer
@@ -26576,6 +26758,20 @@ entries:
       pushed_at: 2026-09-26
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: av/skills
+    kind: skill
+    name: skills
+    url: https://github.com/av/skills
+    summary: Agent skills for Claude Code, Codex, OpenCode & Cursor — autonomous orchestration, code quality, local LLMs (Harbor), an
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-10-21
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: avelikiy/great_cto
     kind: skill
     name: great_cto
@@ -33586,6 +33782,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: devswha/ovis
+    kind: skill
+    name: ovis
+    url: https://github.com/devswha/ovis
+    summary: "Ovis (formerly herdr web UI): free, open-source browser and phone client for herdr. Chat and live terminal for Claude Co"
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 1392
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: dewzor/claude-desktop-fedora
     kind: skill
     name: claude-desktop-fedora
@@ -34473,6 +34683,20 @@ entries:
       pushed_at: 2026-07-27
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: dreammis/social-auto-upload
+    kind: skill
+    name: social-auto-upload
+    url: https://github.com/dreammis/social-auto-upload
+    summary: 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 15746
+      pushed_at: 2026-10-22
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: drhalto/agentmako
     kind: skill
     name: agentmako
@@ -37604,6 +37828,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: gaia-react/gaia
+    kind: skill
+    name: gaia
+    url: https://github.com/gaia-react/gaia
+    summary: The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: gaixianggeng/mimi-remote
     kind: skill
     name: mimi-remote
@@ -38723,6 +38961,20 @@ entries:
       pushed_at: 2026-10-21
       archived: false
       last_checked: 2026-10-22T00:00:00Z
+  - id: gokayfem/shader-skills
+    kind: skill
+    name: shader-skills
+    url: https://github.com/gokayfem/shader-skills
+    summary: GLSL and Shadertoy shader skills for Claude Code, Codex, Cursor, Copilot and Gemini CLI. 186 functions, SDF raymarching,
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 374
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: golbin/agent-skills
     kind: skill
     name: agent-skills
@@ -41096,6 +41348,20 @@ entries:
       pushed_at: 2026-09-16
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: hsuanshao/AgentMemory
+    kind: skill
+    name: AgentMemory
+    url: https://github.com/hsuanshao/AgentMemory
+    summary: "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillati"
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 32
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: htdt/godogen
     kind: skill
     name: godogen
@@ -43045,6 +43311,20 @@ entries:
       pushed_at: 2026-07-17
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: izzyfrm/roblox-ai
+    kind: skill
+    name: roblox-ai
+    url: https://github.com/izzyfrm/roblox-ai
+    summary: "A curated collection of Roblox UI references for Claude Code, Codex, and other AI coding assistants to study and use as "
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 28
+      pushed_at: 2026-10-22
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: jabrena/plinth
     kind: skill
     name: plinth
@@ -46218,6 +46498,20 @@ entries:
       since: 2026-08-11
       issue: null
       grace_until: null
+  - id: kingselyjoe/video-shotcraft-dsh
+    kind: skill
+    name: video-shotcraft-dsh
+    url: https://github.com/kingselyjoe/video-shotcraft-dsh
+    summary: 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 86
+      pushed_at: 2026-08-18
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: kingxiaozhe/cm-workflow
     kind: skill
     name: cm-workflow
@@ -51612,6 +51906,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: milisp/mcp-linker
+    kind: skill
+    name: mcp-linker
+    url: https://github.com/milisp/mcp-linker
+    summary: Manage MCP servers, skills and plugins across Claude Code, Codex, Cursor and more. Built-in marketplace, one-click sync.
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 345
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: millionco/agent-install
     kind: skill
     name: agent-install
@@ -54776,6 +55084,20 @@ entries:
       pushed_at: 2026-10-02
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: nvr0x5/claude-deck
+    kind: skill
+    name: claude-deck
+    url: https://github.com/nvr0x5/claude-deck
+    summary: "A cockpit for Claude Code: live plan bars, subagent strips, usage limits with reset countdowns, model routing and a tiny"
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-19
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: nwiizo/oi-owarasero
     kind: skill
     name: oi-owarasero
@@ -58859,6 +59181,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: rbartoli/agent-usage-guard
+    kind: skill
+    name: agent-usage-guard
+    url: https://github.com/rbartoli/agent-usage-guard
+    summary: A Claude Code mod that holds subagent fan-out, heavy-context prompts and retry loops before they spend your usage window
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 56
+      pushed_at: 2026-10-22
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: reacher-z/Awesome-REA
     kind: skill
     name: Awesome-REA
@@ -59522,6 +59858,20 @@ entries:
       pushed_at: 2026-10-11
       archived: false
       last_checked: 2026-10-13T00:00:00Z
+  - id: rextail-ai/lessloc
+    kind: skill
+    name: lessloc
+    url: https://github.com/rextail-ai/lessloc
+    summary: Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 100
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: reyamira/models
     kind: skill
     name: models
@@ -61827,6 +62177,20 @@ entries:
       pushed_at: 2026-10-12
       archived: false
       last_checked: 2026-10-12T00:00:00Z
+  - id: sepehr071/iran-mcp
+    kind: skill
+    name: iran-mcp
+    url: https://github.com/sepehr071/iran-mcp
+    summary: "39 MCP servers (488 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Pazi"
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 146
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: sequenzia/agent-alchemy
     kind: skill
     name: agent-alchemy
@@ -64606,6 +64970,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: strelov1/freehire-cli
+    kind: skill
+    name: freehire-cli
+    url: https://github.com/strelov1/freehire-cli
+    summary: CLI over the freehire job API for agents
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-21
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: stretchvancouver/stretch-ai-yoga
     kind: skill
     name: stretch-ai-yoga
@@ -64714,6 +65092,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: su-kaka/agy2api
+    kind: skill
+    name: agy2api
+    url: https://github.com/su-kaka/agy2api
+    summary: 将 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 5268
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: su-kaka/gcli2api
     kind: skill
     name: gcli2api
@@ -72522,6 +72914,20 @@ entries:
       pushed_at: 2026-08-20
       archived: false
       last_checked: 2026-10-08T11:11:33Z
+  - id: yoli-mi/good-learning
+    kind: skill
+    name: good-learning
+    url: https://github.com/yoli-mi/good-learning
+    summary: Agent skill for structured study plans, daily lessons, mistake review, and LaTeX PDFs
+    tags: []
+    added: 2026-10-23
+    source: discovery
+    status: active
+    metrics:
+      stars: 215
+      pushed_at: 2026-09-24
+      archived: false
+      last_checked: 2026-10-23T00:00:00Z
   - id: yoli-mi/good-learning-skill
     kind: skill
     name: good-learning-skill
