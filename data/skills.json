@@ -1829,6 +1829,23 @@
       }
     },
     {
+      "id": "Agoragentic/agoragentic-integrations",
+      "kind": "skill",
+      "name": "agoragentic-integrations",
+      "url": "https://github.com/Agoragentic/agoragentic-integrations",
+      "summary": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 41,
+        "pushed_at": "2026-10-24",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
       "id": "AgriciDaniel/banana-claude",
       "kind": "skill",
       "name": "banana-claude",
@@ -1969,6 +1986,23 @@
         "pushed_at": "2026-09-13",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "AgriciDaniel/pya",
+      "kind": "skill",
+      "name": "pya",
+      "url": "https://github.com/AgriciDaniel/pya",
+      "summary": "PYA (Protect Your Ass): security audit plugin for Claude Code. 9 specialist agents, a dated threat feed, verified findin",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 240,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -5907,6 +5941,23 @@
       }
     },
     {
+      "id": "DozenTwelve/Papermorph",
+      "kind": "skill",
+      "name": "Papermorph",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "summary": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 854,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
       "id": "Dpro-at/Tel-Agent",
       "kind": "skill",
       "name": "Tel-Agent",
@@ -9040,6 +9091,23 @@
         "pushed_at": "2026-09-27",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "Jakeschincariol/console-skill",
+      "kind": "skill",
+      "name": "console-skill",
+      "url": "https://github.com/Jakeschincariol/console-skill",
+      "summary": "11 Claude skills that port PlayStation 2 games you own to PC: reverse engineer the code, rebuild the graphics and backen",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 64,
+        "pushed_at": "2026-10-22",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -13372,6 +13440,23 @@
       }
     },
     {
+      "id": "Nanako0129/syrtis",
+      "kind": "skill",
+      "name": "syrtis",
+      "url": "https://github.com/Nanako0129/syrtis",
+      "summary": "AI token usage & quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contribution graph. Tracks Claude",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 501,
+        "pushed_at": "2026-10-24",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
       "id": "NanmiCoder/cc-haha",
       "kind": "tool",
       "name": "cc-haha",
@@ -15332,6 +15417,23 @@
         "pushed_at": "2026-10-24",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "ProjectAJ14/eklavya",
+      "kind": "skill",
+      "name": "eklavya",
+      "url": "https://github.com/ProjectAJ14/eklavya",
+      "summary": "Learn while your agent works. A Claude Code plugin that quizzes you on the concepts behind the code it just wrote — loca",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 27,
+        "pushed_at": "2026-10-24",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -18519,6 +18621,23 @@
         "pushed_at": "2026-08-28",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "TonF1917/claude-desktop-multiple-windows-different-api",
+      "kind": "skill",
+      "name": "claude-desktop-multiple-windows-different-api",
+      "url": "https://github.com/TonF1917/claude-desktop-multiple-windows-different-api",
+      "summary": "Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one ",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 583,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -26108,6 +26227,23 @@
         "pushed_at": "2026-10-24",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "backtrue/thinkwithblack-skill",
+      "kind": "skill",
+      "name": "thinkwithblack-skill",
+      "url": "https://github.com/backtrue/thinkwithblack-skill",
+      "summary": "365 free AI marketing skills (zh-TW/en) for ChatGPT, Claude, Gemini, Claude Code & Cursor — copywriting, ads budget, mar",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 240,
+        "pushed_at": "2026-10-24",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -42851,6 +42987,23 @@
       }
     },
     {
+      "id": "jqueryscript/anthropic-claude-timeline",
+      "kind": "skill",
+      "name": "anthropic-claude-timeline",
+      "url": "https://github.com/jqueryscript/anthropic-claude-timeline",
+      "summary": "A public timeline of major Anthropic Claude model releases, product updates, and developer platform milestones.",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-22",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
       "id": "jqueryscript/awesome-claude-code",
       "kind": "tool",
       "name": "awesome-claude-code",
@@ -43344,6 +43497,23 @@
         "pushed_at": "2026-10-07",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "k8adev/aiwkf",
+      "kind": "skill",
+      "name": "aiwkf",
+      "url": "https://github.com/k8adev/aiwkf",
+      "summary": "Agents, skills and plugins I use daily to code with AI. A living Claude Code marketplace, also compatible with Codex.",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -46282,6 +46452,23 @@
         "pushed_at": "2026-10-24",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "lillyguisnet/sam3-segmentation",
+      "kind": "skill",
+      "name": "sam3-segmentation",
+      "url": "https://github.com/lillyguisnet/sam3-segmentation",
+      "summary": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports an",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 36,
+        "pushed_at": "2026-10-24",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -58621,6 +58808,23 @@
       }
     },
     {
+      "id": "rxdt/loopgate_harness",
+      "kind": "skill",
+      "name": "loopgate_harness",
+      "url": "https://github.com/rxdt/loopgate_harness",
+      "summary": "A repo-native coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents. Agents can edit. Gates decide ",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-01",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
       "id": "ryaker/appstore-connect-mcp",
       "kind": "skill",
       "name": "appstore-connect-mcp",
@@ -58635,6 +58839,23 @@
         "pushed_at": "2026-08-28",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "ryanfrigo/kalshi-ai-trading-bot",
+      "kind": "skill",
+      "name": "kalshi-ai-trading-bot",
+      "url": "https://github.com/ryanfrigo/kalshi-ai-trading-bot",
+      "summary": "The honest edge layer for Kalshi prediction markets - an agent-native toolkit (CLI, MCP server, Claude skill) that measu",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 632,
+        "pushed_at": "2026-10-24",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -61824,6 +62045,23 @@
       }
     },
     {
+      "id": "sparklecatta-lang/XSXB-Band",
+      "kind": "skill",
+      "name": "XSXB-Band",
+      "url": "https://github.com/sparklecatta-lang/XSXB-Band",
+      "summary": "让 Agent 写谱，用真实录音的乐器演奏 · Let your agent write the score, real CC0 recordings play it. Local studio + agent skill, MIT.",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 89,
+        "pushed_at": "2026-10-08",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
       "id": "spec-kitty/spec-kitty",
       "kind": "skill",
       "name": "spec-kitty",
@@ -63438,6 +63676,23 @@
       }
     },
     {
+      "id": "taxueseek/plainspoken-writing",
+      "kind": "skill",
+      "name": "plainspoken-writing",
+      "url": "https://github.com/taxueseek/plainspoken-writing",
+      "summary": "白描写作：专业消除AI味的skill",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 68,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
       "id": "taxueseek/say-it-human",
       "kind": "skill",
       "name": "say-it-human",
@@ -63744,6 +63999,23 @@
         "pushed_at": "2026-10-10",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "tedix-hq/tedix",
+      "kind": "skill",
+      "name": "tedix",
+      "url": "https://github.com/tedix-hq/tedix",
+      "summary": "Hand off the work. Tedix brings back only the decisions that need you, ranked by what matters most, and handles the rest",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 27,
+        "pushed_at": "2026-10-24",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -66446,6 +66718,23 @@
       }
     },
     {
+      "id": "utkusen/sast-skills",
+      "kind": "skill",
+      "name": "sast-skills",
+      "url": "https://github.com/utkusen/sast-skills",
+      "summary": "Collection of agent skills to find vulnerabilities inside your web/mobile apps.",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 1345,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
       "id": "uussnn/second-brain",
       "kind": "skill",
       "name": "second-brain",
@@ -67364,6 +67653,23 @@
         "pushed_at": "2026-10-23",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "vuesion/vuesion",
+      "kind": "skill",
+      "name": "vuesion",
+      "url": "https://github.com/vuesion/vuesion",
+      "summary": "The original open-source Vuesion 5: a Nuxt 3 boilerplate with design system, Storybook, Figma UI kit, authentication and",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 2869,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
@@ -71032,6 +71338,23 @@
         "pushed_at": "2026-10-15",
         "archived": false,
         "last_checked": "2026-10-24T08:43:17Z"
+      }
+    },
+    {
+      "id": "zeroa234/game-asset-aesthetic-test",
+      "kind": "skill",
+      "name": "game-asset-aesthetic-test",
+      "url": "https://github.com/zeroa234/game-asset-aesthetic-test",
+      "summary": "8 个游戏美术 Agent Skills：像素精灵、Spine 骨骼动画、方块角色（Blockbench）与讲解配音。附可复用代码、资源来源、验证记录和效果示例。",
+      "tags": [],
+      "added": "2026-10-24",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 26,
+        "pushed_at": "2026-10-18",
+        "archived": false,
+        "last_checked": "2026-10-24T00:00:00Z"
       }
     },
     {
