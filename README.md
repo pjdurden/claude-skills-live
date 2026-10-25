@@ -4,7 +4,7 @@
 
 An automatically verified index of Claude Code and Agent Skills tooling.
 
-> ✅ **0 dead entries · 4213 verified · last checked 2026-10-25 09:00 UTC**
+> ✅ **0 dead entries · 4214 verified · last checked 2026-10-25 16:25 UTC**
 
 Every entry is re-checked daily. Anything archived, deleted, or untouched for 90 days is
 flagged and delisted from the tables below, with the reason and the date it happened
@@ -4044,6 +4044,7 @@ separate: it holds entries permanently excluded from the index and never reconsi
 | [alvinunreal/openpets](https://github.com/alvinunreal/openpets) | 4 | 2026-09-27 |  | Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations. |
 | [Optim-Agent/optim-plans](https://github.com/Optim-Agent/optim-plans) | 3 | 2026-08-09 |  | Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor |
 | [MiniPrincipal/Coding-Agent-Skills](https://github.com/MiniPrincipal/Coding-Agent-Skills) | 2 | 2026-10-04 |  | Practical skills for AI coding agents to build features, debug issues, review code, and test changes. |
+| [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill) | 2 | 2026-10-25 | deployment, web | Agent skill and remote MCP server that publish HTML or a static folder to a permanent public URL with one request. |
 | [gongdear/cline-pilot](https://github.com/gongdear/cline-pilot) | 2 | 2026-10-05 |  | An Agent Skill: drive Cline CLI coding tasks as the user's proxy. |
 | [webkubor/deadcode-reaper-skill](https://github.com/webkubor/deadcode-reaper-skill) | 2 | 2026-10-23 |  | Dead code reaper — 扫出并清除「自称已废」的墓碑 skill、AI 幽灵碎片、死代码与临时垃圾，统计释放的 Token 与磁盘。减法优先，无用即删除。Agent skill for Claude Code / Codex. |
 | [To3akaRin/mac-computer-use](https://github.com/To3akaRin/mac-computer-use) | 1 | 2026-09-24 |  | Enable any LLM to control your computer with cross-platform support, featuring 3D modeling examples and live demos. |
