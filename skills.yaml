@@ -4520,6 +4520,20 @@ entries:
       since: 2026-09-01
       issue: null
       grace_until: null
+  - id: Bryce-border/McLottery-Alchemist
+    kind: skill
+    name: McLottery-Alchemist
+    url: https://github.com/Bryce-border/McLottery-Alchemist
+    summary: 一个跑在 WorkBuddy 上的麦当劳 Agent Skill：把一顿饭点明白，把优惠用到位，把积分算清楚，把抽奖守规矩。用着不烧心
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 93
+      pushed_at: 2026-10-21
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: BusyBee3333/sol-governed-codex
     kind: skill
     name: sol-governed-codex
@@ -7530,6 +7544,20 @@ entries:
       pushed_at: 2026-10-08
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: FlorianBruniaux/cc-copilot-bridge
+    kind: skill
+    name: cc-copilot-bridge
+    url: https://github.com/FlorianBruniaux/cc-copilot-bridge
+    summary: "V1 (Bash). Multi-provider routing for Claude Code CLI: your Copilot subscription, Ollama offline, or Anthropic Direct. V"
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 61
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: FlorianBruniaux/claude-code-plugins
     kind: skill
     name: claude-code-plugins
@@ -8486,6 +8514,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: GortexAI/franco
+    kind: skill
+    name: franco
+    url: https://github.com/GortexAI/franco
+    summary: "Franco: an outbound sales agent that runs on your Claude Code or Codex subscription"
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 690
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: Graphify-Labs/graphify
     kind: skill
     name: graphify
@@ -8581,6 +8623,20 @@ entries:
       pushed_at: 2026-10-25
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: HKUDS/AutoSwarm
+    kind: skill
+    name: AutoSwarm
+    url: https://github.com/HKUDS/AutoSwarm
+    summary: "AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · "
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 1872
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: HKUDS/DeepCode
     kind: skill
     name: DeepCode
@@ -8721,6 +8777,20 @@ entries:
       pushed_at: 2026-10-25
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: Hainrixz/skill-vault
+    kind: skill
+    name: skill-vault
+    url: https://github.com/Hainrixz/skill-vault
+    summary: "Your personal skill library for Claude Code. Organize, analyze, and search skills with built-in security analysis. Zero "
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 75
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: Hainrixz/the-architect
     kind: plugin
     name: the-architect
@@ -10283,6 +10353,20 @@ entries:
       pushed_at: 2026-10-24
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: JellyBrick/korean-prose-skill
+    kind: skill
+    name: korean-prose-skill
+    url: https://github.com/JellyBrick/korean-prose-skill
+    summary: 이상한 해요체는 이제 그만...!! 한국어 작성 및 교정 스킬
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-22
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: JeongJaeSoon/agent-guard
     kind: skill
     name: agent-guard
@@ -11393,6 +11477,20 @@ entries:
       pushed_at: 2026-10-23
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: Kimeur/duology
+    kind: skill
+    name: duology
+    url: https://github.com/Kimeur/duology
+    summary: Claude Code skills for designing, building, testing and shipping apps on iPhone Duo and iOS 27. Layout patterns, app rec
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 28
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: KingGyuSuh/codex-image-in-cc
     kind: skill
     name: codex-image-in-cc
@@ -17761,6 +17859,20 @@ entries:
       pushed_at: 2026-08-10
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: SavaSoftworks/BitFrost
+    kind: skill
+    name: BitFrost
+    url: https://github.com/SavaSoftworks/BitFrost
+    summary: Use Codex, GLM, and other coding agents as Claude Code subagents.
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-15
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: SawyerHood/dev-browser
     kind: skill
     name: dev-browser
@@ -18172,6 +18284,20 @@ entries:
       pushed_at: 2026-10-23
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: Shaivpidadi/FreeRide
+    kind: skill
+    name: FreeRide
+    url: https://github.com/Shaivpidadi/FreeRide
+    summary: FreeRide gives you unlimited free AI in OpenClaw by automatically managing OpenRouter's free models.
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 238
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: Shanyin-ai/shanyin-screenwriting-master
     kind: skill
     name: shanyin-screenwriting-master
@@ -18536,6 +18662,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: SnlperStripes/claude-account-switcher
+    kind: skill
+    name: claude-account-switcher
+    url: https://github.com/SnlperStripes/claude-account-switcher
+    summary: "Use multiple Claude accounts in the Claude desktop app: switch in one click without the email code, keep Claude Code cha"
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: SnowBankSDK/foundationdb-dotnet-client
     kind: skill
     name: foundationdb-dotnet-client
@@ -21826,6 +21966,20 @@ entries:
       pushed_at: 2026-08-17
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: ZSeven-W/codex-openpencil
+    kind: skill
+    name: codex-openpencil
+    url: https://github.com/ZSeven-W/codex-openpencil
+    summary: "Codex plugin for OpenPencil — an interactive Rust/WASM canvas for AI-assisted UI design. Create editable .op files from "
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 130
+      pushed_at: 2026-10-18
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: ZSeven-W/craft-skills
     kind: skill
     name: craft-skills
@@ -21873,6 +22027,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: Zafer-Liu/mcd-event-radar
+    kind: skill
+    name: mcd-event-radar
+    url: https://github.com/Zafer-Liu/mcd-event-radar
+    summary: 麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 91
+      pushed_at: 2026-10-10
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: Zaloog/kanban-tui
     kind: skill
     name: kanban-tui
@@ -23755,6 +23923,20 @@ entries:
       pushed_at: 2026-10-10
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: aideveloper-web/free-claude-code
+    kind: skill
+    name: free-claude-code
+    url: https://github.com/aideveloper-web/free-claude-code
+    summary: Explore Free Claude Code Fable 5.1 and discover AI-powered coding workflows, developer tools, and resources for modern s
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 62
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: aieng-abdullah/production-rag-assistant
     kind: skill
     name: production-rag-assistant
@@ -26859,6 +27041,20 @@ entries:
       pushed_at: 2026-10-24
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: assafkip/investigators-copilot
+    kind: skill
+    name: investigators-copilot
+    url: https://github.com/assafkip/investigators-copilot
+    summary: "Free open-source OSINT and investigation toolkit for Claude Code: case management, 54 OSINT enrichment adapters, structu"
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 60
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: asteroid-belt/skulto
     kind: skill
     name: skulto
@@ -27655,6 +27851,20 @@ entries:
       pushed_at: 2026-08-10
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: ayingQAQ/McCosmos
+    kind: skill
+    name: McCosmos
+    url: https://github.com/ayingQAQ/McCosmos
+    summary: McCosmos · 麦门星图｜基于麦当劳 MCP 的餐品营养对比与替代发现 Skill，提供独立运行包、可解释分析与三维星图。
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 114
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: ayuayue/PiDeck
     kind: skill
     name: PiDeck
@@ -34304,6 +34514,20 @@ entries:
       pushed_at: 2026-10-21
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: dgesteves/onsystem
+    kind: skill
+    name: onsystem
+    url: https://github.com/dgesteves/onsystem
+    summary: "Keeps coding agents on your design system: catches palette colors, native elements and APIs your system lacks, at every "
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 73
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: dhvcc/rss-parser
     kind: skill
     name: rss-parser
@@ -36146,6 +36370,20 @@ entries:
       since: 2026-08-27
       issue: null
       grace_until: null
+  - id: eph5xx/tweakidea
+    kind: skill
+    name: tweakidea
+    url: https://github.com/eph5xx/tweakidea
+    summary: Evaluate your startup idea from 1 to 5
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 54
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: epoko77-ai/im-not-ai
     kind: skill
     name: im-not-ai
@@ -36892,6 +37130,20 @@ entries:
       pushed_at: 2026-10-24
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: fanchengchen1-collab/super-director
+    kind: skill
+    name: super-director
+    url: https://github.com/fanchengchen1-collab/super-director
+    summary: "🎬 超级导演系统 · A director's judgment installed into Claude — 光影/分镜/调度图/节奏/美学全套导演工艺,输出六段式视频提示词 (Sora/Kling/Veo/Seedance)。13 "
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-08-04
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: farion1231/cc-switch
     kind: tool
     name: cc-switch
@@ -41433,6 +41685,20 @@ entries:
       pushed_at: 2026-09-19
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: heymegabyte/agent-skills
+    kind: skill
+    name: agent-skills
+    url: https://github.com/heymegabyte/agent-skills
+    summary: Agent Skills — agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories · 28 agents · 1
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: hezkvectory/hermes-edu-skills
     kind: skill
     name: hermes-edu-skills
@@ -41840,6 +42106,20 @@ entries:
       pushed_at: 2026-10-22
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: hopechen067/MapStage
+    kind: skill
+    name: MapStage
+    url: https://github.com/hopechen067/MapStage
+    summary: "MapStage: a narrative map stage for historical videos. MapLibre engine + agent skill, antique parchment look, routes, pl"
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 488
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: howdeploy/ObsidianDataWeave
     kind: skill
     name: ObsidianDataWeave
@@ -46871,6 +47151,20 @@ entries:
       pushed_at: 2026-10-14
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: kevinbadi/higgsfield-supercomputer
+    kind: skill
+    name: higgsfield-supercomputer
+    url: https://github.com/kevinbadi/higgsfield-supercomputer
+    summary: Higgsfield AI dashboard + Claude Skills bundle. Fork it, plug in your API key, run.
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: kevinbadi/open-edits
     kind: skill
     name: open-edits
@@ -47501,6 +47795,20 @@ entries:
       pushed_at: 2026-10-24
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: konic-labs/kubic
+    kind: skill
+    name: kubic
+    url: https://github.com/konic-labs/kubic
+    summary: Agentic coding, in your control
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 36
+      pushed_at: 2026-10-22
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: konippi/servo-fetch
     kind: skill
     name: servo-fetch
@@ -47786,6 +48094,20 @@ entries:
       pushed_at: 2026-09-25
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: kukemc/bili-cli
+    kind: skill
+    name: bili-cli
+    url: https://github.com/kukemc/bili-cli
+    summary: 为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 207
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: kumaran-is/claude-code-onboarding
     kind: skill
     name: claude-code-onboarding
@@ -47899,6 +48221,20 @@ entries:
       since: 2026-09-20
       issue: null
       grace_until: null
+  - id: kv-chiu/mcd-desktop-pet
+    kind: skill
+    name: mcd-desktop-pet
+    url: https://github.com/kv-chiu/mcd-desktop-pet
+    summary: 【2026麦当劳程序员创意开发大赛参赛作品】🍟 麦当劳 mcd-mcp-server 桌宠「薯条小宝」：午休提醒、自动活动优惠领券、餐品营养搭配、提醒订单状态，支持 Webui 控制台与 AI Agent Skill / CLI，采用go
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 108
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: kwakseongjae/oh-my-design
     kind: skill
     name: oh-my-design
@@ -51883,6 +52219,20 @@ entries:
       pushed_at: 2026-10-02
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: melonjs/melonJS
+    kind: skill
+    name: melonJS
+    url: https://github.com/melonjs/melonJS
+    summary: A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in p
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 6420
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: memi-design/memi
     kind: skill
     name: memi
@@ -53732,6 +54082,20 @@ entries:
       since: 2026-10-24
       issue: null
       grace_until: null
+  - id: morganlinton/BeautifulRust
+    kind: skill
+    name: BeautifulRust
+    url: https://github.com/morganlinton/BeautifulRust
+    summary: A Claude Code plugin that teaches Claude to write idiomatic, robust Rust
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 362
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: moritzwilksch/diffle
     kind: skill
     name: diffle
@@ -55758,6 +56122,20 @@ entries:
       pushed_at: 2026-08-24
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: nschurmann/hola-ai
+    kind: skill
+    name: hola-ai
+    url: https://github.com/nschurmann/hola-ai
+    summary: "Agent skills for building software with AI without letting go of the wheel. XP-inspired: backlog → story → pair."
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 102
+      pushed_at: 2026-10-21
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: nshkrdotcom/claude_agent_sdk
     kind: skill
     name: claude_agent_sdk
@@ -58854,6 +59232,20 @@ entries:
       pushed_at: 2026-10-21
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: polaris-smart/mcd-agent-gourmet
+    kind: skill
+    name: mcd-agent-gourmet
+    url: https://github.com/polaris-smart/mcd-agent-gourmet
+    summary: "把菜单价换成官方当次核价：一句话说清预算和口味，给你一个答案 + 可复制的点单卡，并算清比另一种点法省多少钱（示例：单品直选 ¥48.50 vs 三件套 ¥36.50，省 ¥12.00/24.7%）。只读 MCP、零依赖 Python、免 "
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 128
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: polars-inc/skills
     kind: skill
     name: skills
@@ -65155,6 +65547,20 @@ entries:
       pushed_at: 2026-10-25
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: solatis/claude-config
+    kind: skill
+    name: claude-config
+    url: https://github.com/solatis/claude-config
+    summary: My claude code customizations / config.
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 913
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: solo-agent/solo
     kind: skill
     name: solo
@@ -66276,6 +66682,20 @@ entries:
       pushed_at: 2026-08-21
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: superhero-tech/superhero-skills
+    kind: skill
+    name: superhero-skills
+    url: https://github.com/superhero-tech/superhero-skills
+    summary: "Battle-tested agent skills for Product Builders. Part of the Product Builder OS by Superhero.tech: Super Brain for conte"
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 110
+      pushed_at: 2026-10-21
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: superheroYu/deepseek-v4-opencode-claude-code-bridge
     kind: skill
     name: deepseek-v4-opencode-claude-code-bridge
@@ -66431,6 +66851,20 @@ entries:
       pushed_at: 2026-08-10
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: sv3nbeast/agent-manager-lite
+    kind: skill
+    name: agent-manager-lite
+    url: https://github.com/sv3nbeast/agent-manager-lite
+    summary: macOS 上的 Codex、Claude Code CLI 与 Claude Desktop 多实例管理器，统一管理账号、供应商密钥、独立配置、会话与代理。 / A macOS manager for Codex, Claude Code
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 549
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: svd-ai-lab/sim-cli
     kind: skill
     name: sim-cli
@@ -68455,6 +68889,20 @@ entries:
       pushed_at: 2026-10-22
       archived: false
       last_checked: 2026-10-25T09:00:06Z
+  - id: tmcfarlane/team-avatar
+    kind: skill
+    name: team-avatar
+    url: https://github.com/tmcfarlane/team-avatar
+    summary: "Team Avatar: a universal agent orchestrator for Claude Code, Codex, and Cursor. Nine Avatar characters, 58 engineering s"
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 110
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: tmchow/agent-skills
     kind: skill
     name: agent-skills
@@ -71203,6 +71651,20 @@ entries:
       since: 2026-10-24
       issue: null
       grace_until: null
+  - id: wangrongding/tv-fresh
+    kind: skill
+    name: tv-fresh
+    url: https://github.com/wangrongding/tv-fresh
+    summary: tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本
+    tags: []
+    added: 2026-10-25
+    source: discovery
+    status: active
+    metrics:
+      stars: 178
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-25T00:00:00Z
   - id: wangxin6x/AutoVideo-Agent
     kind: skill
     name: AutoVideo-Agent
