@@ -1009,6 +1009,23 @@
       }
     },
     {
+      "id": "AI-Unleashed/Claude-Skills",
+      "kind": "skill",
+      "name": "Claude-Skills",
+      "url": "https://github.com/AI-Unleashed/Claude-Skills",
+      "summary": "A collection of Claude Code skills including autoskill - a meta-skill that learns from your corrections and updates othe",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 64,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "AI45Lab/OpenART",
       "kind": "skill",
       "name": "OpenART",
@@ -5476,6 +5493,23 @@
       }
     },
     {
+      "id": "DenisSergeevitch/ex-ussr-kinship-research",
+      "kind": "skill",
+      "name": "ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repres",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 663,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "Desko77/claude-code-skills-1c",
       "kind": "skill",
       "name": "claude-code-skills-1c",
@@ -7138,6 +7172,23 @@
       }
     },
     {
+      "id": "Fusengine/claude-plugins",
+      "kind": "skill",
+      "name": "claude-plugins",
+      "url": "https://github.com/Fusengine/claude-plugins",
+      "summary": "Redefining development through cognitive automation and collaborative agent systems.",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 34,
+        "pushed_at": "2026-10-12",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "FutureRootsDE/legal-audit-de",
       "kind": "skill",
       "name": "legal-audit-de",
@@ -7630,6 +7681,23 @@
         "pushed_at": "2026-10-06",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "Gitruck/cli",
+      "kind": "skill",
+      "name": "cli",
+      "url": "https://github.com/Gitruck/cli",
+      "summary": "一条命令，把口播毛片变成可二次精修的剪辑工程。",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 952,
+        "pushed_at": "2026-10-25",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -8144,6 +8212,23 @@
         "pushed_at": "2026-10-14",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "Hanmoy/mcsmart-butler",
+      "kind": "skill",
+      "name": "mcsmart-butler",
+      "url": "https://github.com/Hanmoy/mcsmart-butler",
+      "summary": "基于麦当劳官方 MCP 的本机面板与 Agent Skill：单人热量/预算配餐、多人拼单与透明分账、团购比价，以及纸板像素风 McDNA 双面分享卡；确定性内核负责选配与分账。2026 麦当劳程序员创意开发大赛参赛项目。",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 133,
+        "pushed_at": "2026-10-21",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -11775,6 +11860,23 @@
       }
     },
     {
+      "id": "Linwei-Chen/paper-deep-reader-skill",
+      "kind": "skill",
+      "name": "paper-deep-reader-skill",
+      "url": "https://github.com/Linwei-Chen/paper-deep-reader-skill",
+      "summary": "Cross-disciplinary, source-grounded paper deep-reading Agent Skill with vision/text-only routes, domain lenses, and evid",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 102,
+        "pushed_at": "2026-08-15",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "LiteLLM-Labs/litellm-agent-control-plane",
       "kind": "skill",
       "name": "litellm-agent-control-plane",
@@ -12851,6 +12953,23 @@
         "pushed_at": "2026-10-24",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "Moessif/code-video-showcase",
+      "kind": "skill",
+      "name": "code-video-showcase",
+      "url": "https://github.com/Moessif/code-video-showcase",
+      "summary": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score +",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 92,
+        "pushed_at": "2026-10-25",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -13973,6 +14092,23 @@
       }
     },
     {
+      "id": "NoobyGains/godmode",
+      "kind": "skill",
+      "name": "godmode",
+      "url": "https://github.com/NoobyGains/godmode",
+      "summary": "Engineering discipline for AI coding agents: question the request, verify against current docs, plan, build test-first o",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 114,
+        "pushed_at": "2026-10-25",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "NousResearch/hermes-agent",
       "kind": "framework",
       "name": "hermes-agent",
@@ -15009,6 +15145,23 @@
         "pushed_at": "2026-08-25",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "ParadevAI/Paradev",
+      "kind": "skill",
+      "name": "Paradev",
+      "url": "https://github.com/ParadevAI/Paradev",
+      "summary": "Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 15568,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -24010,6 +24163,23 @@
       }
     },
     {
+      "id": "andyhuo520/digital-human-koubo",
+      "kind": "skill",
+      "name": "digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packag",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 334,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "andyrewlee/awesome-agent-orchestrators",
       "kind": "skill",
       "name": "awesome-agent-orchestrators",
@@ -26437,6 +26607,23 @@
       }
     },
     {
+      "id": "backnotprop/pstack",
+      "kind": "skill",
+      "name": "pstack",
+      "url": "https://github.com/backnotprop/pstack",
+      "summary": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 2836,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "backtrue/thinkwithblack-skill",
       "kind": "skill",
       "name": "thinkwithblack-skill",
@@ -28259,6 +28446,23 @@
       }
     },
     {
+      "id": "carloslfu/slotstream",
+      "kind": "skill",
+      "name": "slotstream",
+      "url": "https://github.com/carloslfu/slotstream",
+      "summary": "Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from ",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 520,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "carlvellotti/claude-code-everyone-course",
       "kind": "skill",
       "name": "claude-code-everyone-course",
@@ -29767,6 +29971,23 @@
         "pushed_at": "2026-08-17",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "codician-team/diffinery",
+      "kind": "skill",
+      "name": "diffinery",
+      "url": "https://github.com/codician-team/diffinery",
+      "summary": "Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloudflare account: git hosting, pu",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 32,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -32379,6 +32600,23 @@
       }
     },
     {
+      "id": "dhruvjainin/absolute",
+      "kind": "skill",
+      "name": "absolute",
+      "url": "https://github.com/dhruvjainin/absolute",
+      "summary": "Absolute Skills to 10x your Development Lifecycle",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 223,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "dhvcc/rss-parser",
       "kind": "skill",
       "name": "rss-parser",
@@ -33336,6 +33574,23 @@
         "pushed_at": "2026-10-12",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "duyunzhoudyz/gongwen-skills",
+      "kind": "skill",
+      "name": "gongwen-skills",
+      "url": "https://github.com/duyunzhoudyz/gongwen-skills",
+      "summary": "公文写作 AI Agent Skills：懂规矩、懂单位、懂角色；不编造、守保密、帮你做减法。覆盖 22 种文书类型，支持 Claude Code、Codex、Cursor 等主流工具，防编造、懂国标格式、适配机关事业单位和医院高校国企。",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 51,
+        "pushed_at": "2026-10-22",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -35167,6 +35422,23 @@
       }
     },
     {
+      "id": "felvieira/claude-skills-fv",
+      "kind": "skill",
+      "name": "claude-skills-fv",
+      "url": "https://github.com/felvieira/claude-skills-fv",
+      "summary": "No description provided upstream.",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "fengshao1227/ccg-workflow",
       "kind": "skill",
       "name": "ccg-workflow",
@@ -36172,6 +36444,23 @@
         "pushed_at": "2026-10-23",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "gaia-harness/gaia",
+      "kind": "skill",
+      "name": "gaia",
+      "url": "https://github.com/gaia-harness/gaia",
+      "summary": "A serious harness for Claude Code. Specs before code, gates on every commit, the Code Audit Team on every merge. Ships a",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 26,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -39716,6 +40005,23 @@
       }
     },
     {
+      "id": "huaxialucaicaizi/ai-startup-skills",
+      "kind": "skill",
+      "name": "ai-startup-skills",
+      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+      "summary": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 257,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "huaxialucaicaizi/business-plan-skill",
       "kind": "skill",
       "name": "business-plan-skill",
@@ -41833,6 +42139,23 @@
       }
     },
     {
+      "id": "jaredchu/context-docs",
+      "kind": "skill",
+      "name": "context-docs",
+      "url": "https://github.com/jaredchu/context-docs",
+      "summary": "A reusable agent skill and Markdown standard for consistent, current project context.",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 103,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "jaredrhod/ai-marketing-skills",
       "kind": "skill",
       "name": "ai-marketing-skills",
@@ -42313,6 +42636,23 @@
         "pushed_at": "2026-10-25",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "jgsystemsconsulting/jgs-se-knowledge-packs",
+      "kind": "skill",
+      "name": "jgs-se-knowledge-packs",
+      "url": "https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs",
+      "summary": "71 open systems-engineering knowledge packs (+8 signposts) for coding agents: licence-vetted NASA, DoD, UK MoD, FAA, EAS",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 27,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -43860,6 +44200,23 @@
       }
     },
     {
+      "id": "kalil0321/reverse-api-engineer",
+      "kind": "skill",
+      "name": "reverse-api-engineer",
+      "url": "https://github.com/kalil0321/reverse-api-engineer",
+      "summary": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 1940,
+        "pushed_at": "2026-10-25",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "kamranbekirovyz/skills",
       "kind": "skill",
       "name": "skills",
@@ -45246,6 +45603,23 @@
       }
     },
     {
+      "id": "krutikkkkkkkkk/creative-ui",
+      "kind": "skill",
+      "name": "creative-ui",
+      "url": "https://github.com/krutikkkkkkkkk/creative-ui",
+      "summary": "React components and Claude skills with a designer's eye, installable with the shadcn CLI: npx shadcn add @creative-ui/<",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-24",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "krzysztofdudek/Yggdrasil",
       "kind": "skill",
       "name": "Yggdrasil",
@@ -46033,6 +46407,23 @@
       }
     },
     {
+      "id": "leeandev/stop-slop-ko",
+      "kind": "skill",
+      "name": "stop-slop-ko",
+      "url": "https://github.com/leeandev/stop-slop-ko",
+      "summary": "한국어 문서에서 AI 티 걷어내기 | Korean version of stop-slop for Claude Code (skills + docx/pptx/xlsx scanner)",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 63,
+        "pushed_at": "2026-10-21",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "leeguooooo/chatgpt-imagegen",
       "kind": "skill",
       "name": "chatgpt-imagegen",
@@ -46679,6 +47070,23 @@
       }
     },
     {
+      "id": "liguobao/ds-harness-remote",
+      "kind": "skill",
+      "name": "ds-harness-remote",
+      "url": "https://github.com/liguobao/ds-harness-remote",
+      "summary": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Bu",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 866,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "lihan3238/speckit-superpowers-bridge",
       "kind": "skill",
       "name": "speckit-superpowers-bridge",
@@ -47050,6 +47458,23 @@
         "pushed_at": "2026-10-18",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "liustack/pptwise",
+      "kind": "skill",
+      "name": "pptwise",
+      "url": "https://github.com/liustack/pptwise",
+      "summary": "A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -49704,6 +50129,23 @@
       }
     },
     {
+      "id": "michaelshimeles/rstack",
+      "kind": "skill",
+      "name": "rstack",
+      "url": "https://github.com/michaelshimeles/rstack",
+      "summary": "Agent skills and an AGENTS.md workflow template — isolate in worktrees, build to a service layer, prove with evidence, s",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 1385,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "michaelshimeles/skills",
       "kind": "skill",
       "name": "skills",
@@ -50704,6 +51146,23 @@
       }
     },
     {
+      "id": "mmalmi/nostr-vpn",
+      "kind": "skill",
+      "name": "nostr-vpn",
+      "url": "https://github.com/mmalmi/nostr-vpn",
+      "summary": "Private mesh VPN for humans and agents. Local keys, signed enrollment, no provider account. Native apps and CLI.",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 1222,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "mmiani/kotlin-kmp-claude-agent-skills",
       "kind": "skill",
       "name": "kotlin-kmp-claude-agent-skills",
@@ -51245,6 +51704,23 @@
         "pushed_at": "2026-10-25",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "mountain-beaver/vps-forge",
+      "kind": "skill",
+      "name": "vps-forge",
+      "url": "https://github.com/mountain-beaver/vps-forge",
+      "summary": "Agent Skill that lets Claude Code, Codex, Cursor, Copilot and other AI agents set up and harden a Debian/Ubuntu VPS with",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 29,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -57010,6 +57486,23 @@
       }
     },
     {
+      "id": "radres/call-me",
+      "kind": "skill",
+      "name": "call-me",
+      "url": "https://github.com/radres/call-me",
+      "summary": "Let your AI agents call and text your actual iPhone — Claude Code plugin + agent skill",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 25,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "rafcopy/claude-code-wakeup-alarm",
       "kind": "skill",
       "name": "claude-code-wakeup-alarm",
@@ -60843,6 +61336,23 @@
       }
     },
     {
+      "id": "shenysun/skills-manager",
+      "kind": "skill",
+      "name": "skills-manager",
+      "url": "https://github.com/shenysun/skills-manager",
+      "summary": "CLI-first hub for agent skills: one npx install, manage in chat, distribute to 70+ agents",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 179,
+        "pushed_at": "2026-10-26",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "shepsci/kaggle-skill",
       "kind": "skill",
       "name": "kaggle-skill",
@@ -63180,6 +63690,23 @@
       }
     },
     {
+      "id": "sunreview/anti-claude",
+      "kind": "skill",
+      "name": "anti-claude",
+      "url": "https://github.com/sunreview/anti-claude",
+      "summary": "Claude 防封号经验与指南",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 30,
+        "pushed_at": "2026-10-23",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "sup3x/claude-code-eco",
       "kind": "skill",
       "name": "claude-code-eco",
@@ -63859,6 +64386,23 @@
         "pushed_at": "2026-10-17",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "t3dotgg/tstack",
+      "kind": "skill",
+      "name": "tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 772,
+        "pushed_at": "2026-10-25",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
@@ -68800,6 +69344,23 @@
       }
     },
     {
+      "id": "wenboxia/mcd-advisor",
+      "kind": "skill",
+      "name": "mcd-advisor",
+      "url": "https://github.com/wenboxia/mcd-advisor",
+      "summary": "麦麦参谋：想吃的一样不变，用麦当劳官方核价帮你找到这一顿更合适的买法（麦当劳中国 MCP · Agent Skill · 零依赖 CLI）",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 96,
+        "pushed_at": "2026-10-22",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "wendylabsinc/claude-skills",
       "kind": "skill",
       "name": "claude-skills",
@@ -70942,6 +71503,23 @@
       }
     },
     {
+      "id": "youagainchen/claude-codex-coop",
+      "kind": "skill",
+      "name": "claude-codex-coop",
+      "url": "https://github.com/youagainchen/claude-codex-coop",
+      "summary": "Let Claude and Codex call each other from their desktop apps to review, cross-check or implement, with a live side panel",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 31,
+        "pushed_at": "2026-10-01",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
+      }
+    },
+    {
       "id": "youdotcom-oss/agent-skills",
       "kind": "skill",
       "name": "agent-skills",
@@ -71109,6 +71687,23 @@
         "pushed_at": "2026-10-11",
         "archived": false,
         "last_checked": "2026-10-25T09:00:06Z"
+      }
+    },
+    {
+      "id": "yurenpai/mc-points-steward",
+      "kind": "skill",
+      "name": "mc-points-steward",
+      "url": "https://github.com/yurenpai/mc-points-steward",
+      "summary": "麦当劳积分资产管家：剔假上架 · 性价比排序 · 抽奖参谋",
+      "tags": [],
+      "added": "2026-10-26",
+      "source": "discovery",
+      "status": "active",
+      "metrics": {
+        "stars": 131,
+        "pushed_at": "2026-10-18",
+        "archived": false,
+        "last_checked": "2026-10-26T00:00:00Z"
       }
     },
     {
