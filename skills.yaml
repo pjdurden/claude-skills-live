@@ -4552,6 +4552,20 @@ entries:
       pushed_at: 2026-10-21
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: BubbleBrainBB/BB-Video
+    kind: skill
+    name: BB-Video
+    url: https://github.com/BubbleBrainBB/BB-Video
+    summary: "An agent skill that makes videos in pure code — narrated explainers and product promos in 24 visual styles (whiteboard, "
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 49
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: BusyBee3333/sol-governed-codex
     kind: skill
     name: sol-governed-codex
@@ -4908,6 +4922,20 @@ entries:
       pushed_at: 2026-10-06
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: ChannelCooperStart/capri-ai
+    kind: skill
+    name: capri-ai
+    url: https://github.com/ChannelCooperStart/capri-ai
+    summary: 🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 309
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: Chanw-research/claude-code-paper-writing
     kind: skill
     name: claude-code-paper-writing
@@ -5697,6 +5725,20 @@ entries:
       pushed_at: 2026-09-23
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: Cynthia-wlan9509/offline-game-revival
+    kind: skill
+    name: offline-game-revival
+    url: https://github.com/Cynthia-wlan9509/offline-game-revival
+    summary: 🎮 AI agent skill that revives shut-down mobile games as fully offline memorial builds — plus a zero-token pipeline that
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: Czarnak/totally-integrated-claude
     kind: skill
     name: totally-integrated-claude
@@ -7299,6 +7341,20 @@ entries:
       pushed_at: 2026-10-22
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: FANzR-arch/Numerologist_skills
+    kind: skill
+    name: Numerologist_skills
+    url: https://github.com/FANzR-arch/Numerologist_skills
+    summary: 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI ski
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 1506
+      pushed_at: 2026-10-16
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: FANzR-arch/Phil-design-skills
     kind: skill
     name: Phil-design-skills
@@ -8326,6 +8382,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: GeekFamilyCorp/TricorderKit
+    kind: skill
+    name: TricorderKit
+    url: https://github.com/GeekFamilyCorp/TricorderKit
+    summary: The local-first second brain for your AI agents - measured, self-improving, and gated so it can't leak what you keep pri
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 32
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: Geeksfino/openskills
     kind: skill
     name: openskills
@@ -9241,6 +9311,34 @@ entries:
       pushed_at: 2026-10-21
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: HeyChengC/vibe-knowledge-film
+    kind: skill
+    name: vibe-knowledge-film
+    url: https://github.com/HeyChengC/vibe-knowledge-film
+    summary: 抖音爆款Vibe知识大赏知识短片skill，深度拆解爆款视频，复刻画风，导演分镜表，自动配音效，一键出片
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 754
+      pushed_at: 2026-10-13
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
+  - id: HeyChengC/wallstreet-explainer
+    kind: skill
+    name: wallstreet-explainer
+    url: https://github.com/HeyChengC/wallstreet-explainer
+    summary: 华尔街式财经/科技解读短片 skill：设计思路、风格语言，以及找片、截图、配音、渲染和混音工具。
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 414
+      pushed_at: 2026-10-26
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: HeyCubit/effortless
     kind: skill
     name: effortless
@@ -12689,6 +12787,20 @@ entries:
       pushed_at: 2026-10-14
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: Liamrjohnston/offer-master-skill
+    kind: skill
+    name: offer-master-skill
+    url: https://github.com/Liamrjohnston/offer-master-skill
+    summary: "A Claude skill that fixes an offer that isn't selling. Paste the link into Claude Code and say: Clone this and add the s"
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-10-23
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: LiarMTTT/TavernWeave
     kind: skill
     name: TavernWeave
@@ -13566,6 +13678,20 @@ entries:
       pushed_at: 2026-08-03
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: Mayzmei/anime-series-maker
+    kind: skill
+    name: anime-series-maker
+    url: https://github.com/Mayzmei/anime-series-maker
+    summary: 2 character sheets + 1 line of story → a finished AI anime episode. Agent skill for Claude Code / Codex, powered by Reno
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 113
+      pushed_at: 2026-10-26
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: MedAdemBHA/docflow
     kind: skill
     name: docflow
@@ -19108,6 +19234,20 @@ entries:
       pushed_at: 2026-08-14
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: Speedrunlab/reverse-engineer-anything-self-learning-loop
+    kind: skill
+    name: reverse-engineer-anything-self-learning-loop
+    url: https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop
+    summary: "Agent skill: examine a product you're authorised to rebuild, build your own, then test against the original and fix gaps"
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 31
+      pushed_at: 2026-10-25
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: Spielewoy/autoprompt-skill
     kind: skill
     name: autoprompt-skill
@@ -19713,6 +19853,20 @@ entries:
       pushed_at: 2026-10-28
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: Team-Commonly/commonly
+    kind: skill
+    name: commonly
+    url: https://github.com/Team-Commonly/commonly
+    summary: "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source"
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 1371
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: TechNomadCode/AI-Product-Development-Toolkit
     kind: skill
     name: AI-Product-Development-Toolkit
@@ -20578,6 +20732,20 @@ entries:
       pushed_at: 2026-08-01
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: UnderleveledBuilder/awesome-novel-skills
+    kind: skill
+    name: awesome-novel-skills
+    url: https://github.com/UnderleveledBuilder/awesome-novel-skills
+    summary: AI 写小说 · 网文 Skill 精选：扫榜拆书、长篇连载、去 AI 味、短剧剧本、翻译出海、发布、下载书源 | Curated agent skills for novels & web fiction
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 26
+      pushed_at: 2026-10-26
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: UnderleveledBuilder/awesome-seo-geo-skills
     kind: skill
     name: awesome-seo-geo-skills
@@ -22581,6 +22749,20 @@ entries:
       pushed_at: 2026-10-28
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: ZiChuanLan/agent-purge
+    kind: skill
+    name: agent-purge
+    url: https://github.com/ZiChuanLan/agent-purge
+    summary: One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi,
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 747
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: Zillatron27/claude-workflow-starter
     kind: skill
     name: claude-workflow-starter
@@ -30642,6 +30824,20 @@ entries:
       pushed_at: 2026-10-28
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: cdmx-in/security-review
+    kind: skill
+    name: security-review
+    url: https://github.com/cdmx-in/security-review
+    summary: Claude Code skill that runs real security scanners (Semgrep, gitleaks, TruffleHog, Trivy, osv-scanner, ZAP) then verifie
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-08-07
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: centminmod/my-claude-code-setup
     kind: skill
     name: my-claude-code-setup
@@ -32735,6 +32931,20 @@ entries:
       pushed_at: 2026-10-26
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: costajohnt/oss-autopilot
+    kind: skill
+    name: oss-autopilot
+    url: https://github.com/costajohnt/oss-autopilot
+    summary: Claude Code plugin — AI-powered autopilot for managing open source contributions. Track PRs, respond to maintainers, dis
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: costiash/claude-code-docs
     kind: skill
     name: claude-code-docs
@@ -33152,6 +33362,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: ctoldigital/axuse
+    kind: skill
+    name: axuse
+    url: https://github.com/ctoldigital/axuse
+    summary: Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCod
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 543
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: ctxpipe-ai/ctxpipe
     kind: skill
     name: ctxpipe
@@ -33489,6 +33713,20 @@ entries:
       pushed_at: 2026-10-27
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: daimonia-ai/STC-Simplified-Technical-Chinese
+    kind: skill
+    name: STC-Simplified-Technical-Chinese
+    url: https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese
+    summary: "STC 简明技术性中文：给 AI 用的中文写作规范。输出更自然、简短，术语更一致，任务回执更清楚。支持 CLI、独立 Skill 和网页聊天。Simplified Technical Chinese: rules, a dictionary"
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 112
+      pushed_at: 2026-10-20
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: daishuge/pcb-skill
     kind: skill
     name: pcb-skill
@@ -34810,6 +35048,20 @@ entries:
       pushed_at: 2026-08-02
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: desplega-ai/agent-swarm
+    kind: skill
+    name: agent-swarm
+    url: https://github.com/desplega-ai/agent-swarm
+    summary: Your Company Agentic Operating System
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 959
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: deusyu/translate-book
     kind: skill
     name: translate-book
@@ -37588,6 +37840,20 @@ entries:
       pushed_at: 2026-10-06
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: fainir/most-capable-agent-system-prompt
+    kind: skill
+    name: most-capable-agent-system-prompt
+    url: https://github.com/fainir/most-capable-agent-system-prompt
+    summary: A copy-paste system prompt that has your coding agent (Claude Code, Codex, Cursor) build a self-improving agent system f
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 878
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: faizkhairi/claude-code-blueprint
     kind: skill
     name: claude-code-blueprint
@@ -38994,6 +39260,20 @@ entries:
       pushed_at: 2026-10-12
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: futantan/agent-skills.md
+    kind: skill
+    name: agent-skills.md
+    url: https://github.com/futantan/agent-skills.md
+    summary: Find awesome Agent Skills
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 306
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: futuresearch/futuresearch-python
     kind: skill
     name: futuresearch-python
@@ -41700,6 +41980,20 @@ entries:
       pushed_at: 2026-08-18
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: haydenschmitty/floorplan
+    kind: skill
+    name: floorplan
+    url: https://github.com/haydenschmitty/floorplan
+    summary: See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude.
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 87
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: he-yufeng/CoreCoder
     kind: skill
     name: CoreCoder
@@ -46134,6 +46428,20 @@ entries:
       pushed_at: 2026-10-05
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: joanseg/specmanager
+    kind: skill
+    name: specmanager
+    url: https://github.com/joanseg/specmanager
+    summary: Spec-driven development plugin for Claude Code. SpecManager gives you an agile AI team that takes a feature from intervi
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-26
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: joaomj/pi-claude-directsdk
     kind: skill
     name: pi-claude-directsdk
@@ -48496,6 +48804,20 @@ entries:
       pushed_at: 2026-10-24
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: konlu/story-studio
+    kind: skill
+    name: story-studio
+    url: https://github.com/konlu/story-studio
+    summary: 从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 299
+      pushed_at: 2026-10-26
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: konraddzbik/architecture-diagram-skill
     kind: skill
     name: architecture-diagram-skill
@@ -53689,6 +54011,20 @@ entries:
       pushed_at: 2026-10-22
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: mihirgupta0900/tv-home
+    kind: skill
+    name: tv-home
+    url: https://github.com/mihirgupta0900/tv-home
+    summary: Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Cod
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 637
+      pushed_at: 2026-10-18
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: mike-coulbourn/claude-vibes
     kind: skill
     name: claude-vibes
@@ -56477,6 +56813,20 @@ entries:
       since: 2026-10-24
       issue: null
       grace_until: null
+  - id: nicobailon/skill-diet
+    kind: skill
+    name: skill-diet
+    url: https://github.com/nicobailon/skill-diet
+    summary: "An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones."
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 124
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: nicobailon/visual-explainer
     kind: skill
     name: visual-explainer
@@ -57317,6 +57667,20 @@ entries:
       since: 2026-09-11
       issue: null
       grace_until: null
+  - id: oceanbase/powercontext
+    kind: skill
+    name: powercontext
+    url: https://github.com/oceanbase/powercontext
+    summary: Self-evolving long-term memory for Codex, Claude Code, and other AI agents. Pick up where another agent left off.
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 1391
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: odylith/odylith
     kind: skill
     name: odylith
@@ -58253,6 +58617,20 @@ entries:
       pushed_at: 2026-10-14
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: openaccountants/openaccountants
+    kind: skill
+    name: openaccountants
+    url: https://github.com/openaccountants/openaccountants
+    summary: "Open tax skills for AI: 2,250 skills across 266 jurisdictions, every figure cited to the law. Works in ChatGPT, Claude, "
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 463
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: openai/codex-plugin-cc
     kind: skill
     name: codex-plugin-cc
@@ -58272,6 +58650,20 @@ entries:
       since: 2026-10-08
       issue: null
       grace_until: null
+  - id: openapi/gknowledge
+    kind: skill
+    name: gknowledge
+    url: https://github.com/openapi/gknowledge
+    summary: 🐧 A native GNOME knowledge workstation that turns documents into evolving AI-assisted knowledge bases.
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: openclaw/agent-skills
     kind: skill
     name: agent-skills
@@ -58314,6 +58706,20 @@ entries:
       pushed_at: 2026-10-28
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: opencoredev/dithercn
+    kind: skill
+    name: dithercn
+    url: https://github.com/opencoredev/dithercn
+    summary: Add dithers to anything in your app. A dither engine and agent skill for shadcn.
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 103
+      pushed_at: 2026-10-26
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: openfate-ai/openfate-mcp
     kind: skill
     name: openfate-mcp
@@ -58597,6 +59003,20 @@ entries:
       pushed_at: 2026-09-13
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: originaleric/digcrawl
+    kind: skill
+    name: digcrawl
+    url: https://github.com/originaleric/digcrawl
+    summary: "Built by Dig: A local-first content crawler for AI agents. Retrieve web pages, posts, images, and videos from public and"
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 93
+      pushed_at: 2026-10-21
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: orwa-mahmoud/nightshift
     kind: skill
     name: nightshift
@@ -59284,6 +59704,20 @@ entries:
       pushed_at: 2026-10-16
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: pbakaus/impeccable
+    kind: skill
+    name: impeccable
+    url: https://github.com/pbakaus/impeccable
+    summary: The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 91300
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: pbshgthm/arc-skill
     kind: skill
     name: arc-skill
@@ -60188,6 +60622,20 @@ entries:
       since: 2026-10-24
       issue: null
       grace_until: null
+  - id: postzen-dev/instagram-agent-skill
+    kind: skill
+    name: instagram-agent-skill
+    url: https://github.com/postzen-dev/instagram-agent-skill
+    summary: Fourteen Claude skills that run an Instagram account, with publishing, comments, DMs and analytics through PostZen
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-24
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: ppgranger/token-saver
     kind: skill
     name: token-saver
@@ -62973,6 +63421,20 @@ entries:
       pushed_at: 2026-09-26
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: rudderlabs/devbox
+    kind: skill
+    name: devbox
+    url: https://github.com/rudderlabs/devbox
+    summary: Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 140
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: rullerzhou-afk/clawd-on-desk
     kind: skill
     name: clawd-on-desk
@@ -65577,6 +66039,20 @@ entries:
       pushed_at: 2026-10-28
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: sirioberati/YouTube-AI-Motion-Graphics
+    kind: skill
+    name: YouTube-AI-Motion-Graphics
+    url: https://github.com/sirioberati/YouTube-AI-Motion-Graphics
+    summary: "AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, he"
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 43
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: sirmalloc/ccstatusline
     kind: tool
     name: ccstatusline
@@ -72912,6 +73388,20 @@ entries:
       pushed_at: 2026-09-07
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: wdcjx/Embedded-programming
+    kind: skill
+    name: Embedded-programming
+    url: https://github.com/wdcjx/Embedded-programming
+    summary: 面向 AI Agent 的 STM32 开发技能：SPL/HAL × 裸机/FreeRTOS 四轨代码生成，带引脚分配表、接线表与静态纪律检查器，沉淀 48 条实测坑。
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 27
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: wdhwg001/csift
     kind: skill
     name: csift
@@ -73909,6 +74399,48 @@ entries:
       pushed_at: 2026-10-01
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: wpgaurav/bricks-skills
+    kind: skill
+    name: bricks-skills
+    url: https://github.com/wpgaurav/bricks-skills
+    summary: "Agent skill for Bricks Builder: paste-ready JSON for layouts, templates, query loops, popups, ACF and WooCommerce, verif"
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 143
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
+  - id: wpgaurav/generateblocks-skills
+    kind: skill
+    name: generateblocks-skills
+    url: https://github.com/wpgaurav/generateblocks-skills
+    summary: "Agent skills for GenerateBlocks V2 and Pro: valid block markup for layouts, query loops, conversions and live publishing"
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 141
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
+  - id: wpsnote/wpsnote-skills
+    kind: skill
+    name: wpsnote-skills
+    url: https://github.com/wpsnote/wpsnote-skills
+    summary: WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Server 让 DeepSeek Harness、灵犀、WorkBuddy、Claude Code、Co
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 183
+      pushed_at: 2026-10-27
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: wquguru/skills
     kind: skill
     name: skills
@@ -73923,6 +74455,20 @@ entries:
       pushed_at: 2026-10-07
       archived: false
       last_checked: 2026-10-28T10:24:33Z
+  - id: wrg32786/aigent-os
+    kind: skill
+    name: aigent-os
+    url: https://github.com/wrg32786/aigent-os
+    summary: "Claude Code harness and alternative to context compaction: at 80% context it writes a verified capsule, runs /clear and "
+    tags: []
+    added: 2026-10-28
+    source: discovery
+    status: active
+    metrics:
+      stars: 25
+      pushed_at: 2026-10-28
+      archived: false
+      last_checked: 2026-10-28T00:00:00Z
   - id: wrsmith108/linear-claude-skill
     kind: skill
     name: linear-claude-skill
